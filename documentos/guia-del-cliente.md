@@ -1,8 +1,8 @@
-# Guía del Cliente — LEALTIS
+# Guía del Cliente — [NOMBRE DE EMPRESA]
 
 ---
 
-## Bienvenido a LEALTIS
+## Bienvenido a [NOMBRE DE EMPRESA]
 
 Gracias por confiar en nosotros para su establecimiento en Paraguay. Esta guía le explica cómo funciona el proceso, qué esperar en cada etapa y cómo trabajaremos juntos para que su experiencia sea eficiente, clara y sin sorpresas.
 
@@ -10,7 +10,7 @@ Gracias por confiar en nosotros para su establecimiento en Paraguay. Esta guía 
 
 ## Lo que va a lograr
 
-Al finalizar su programa con LEALTIS, usted tendrá:
+Al finalizar su programa con [NOMBRE DE EMPRESA], usted tendrá:
 
 - **Residencia Paraguaya** — documento oficial que le permite residir legalmente en Paraguay.
 - **Cédula de Identidad Paraguaya** — su identificación nacional.
@@ -91,7 +91,7 @@ Cuando todos los documentos estén emitidos, le enviaremos su paquete documental
 
 ---
 
-## Su equipo LEALTIS
+## Su equipo [NOMBRE DE EMPRESA]
 
 | Rol | Qué hace por usted |
 |-----|---------------------|
@@ -145,7 +145,7 @@ Al finalizar su programa, le presentaremos opciones de continuidad adaptadas a s
 ## Información importante
 
 - **Todo lo incluido en su programa está cubierto.** No hay cargos adicionales por el trámite regular.
-- **Su documentación debe ser auténtica y veraz.** LEALTIS no procesa documentación de origen dudoso.
+- **Su documentación debe ser auténtica y veraz.** [NOMBRE DE EMPRESA] no procesa documentación de origen dudoso.
 - **Los plazos de emisión gubernamental están fuera de nuestro control**, pero hacemos seguimiento activo.
 - **Su información es confidencial.** Solo se comparte con las instituciones necesarias para ejecutar su programa.
 
@@ -153,7 +153,7 @@ Al finalizar su programa, le presentaremos opciones de continuidad adaptadas a s
 
 ## Contacto
 
-**LEALTIS**
+**[NOMBRE DE EMPRESA]**
 Email: [email de contacto]
 Teléfono/WhatsApp: [número]
 Web: [URL]

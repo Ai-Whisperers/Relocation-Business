@@ -1,4 +1,4 @@
-# Resumen Ejecutivo — LEALTIS
+# Resumen Ejecutivo — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -10,9 +10,9 @@ Sin embargo, la ejecución es compleja. Los extranjeros enfrentan barreras estru
 
 ---
 
-## LEALTIS — Propuesta de valor
+## [NOMBRE DE EMPRESA] — Propuesta de valor
 
-LEALTIS es un **sistema integral de relocalización** que elimina la complejidad del proceso de establecimiento en Paraguay. No es una firma de abogados ni una consultoría tradicional: es una **infraestructura de confianza** que integra servicios legales, financieros y operativos en una solución cohesiva.
+[NOMBRE DE EMPRESA] es un **sistema integral de relocalización** que elimina la complejidad del proceso de establecimiento en Paraguay. No es una firma de abogados ni una consultoría tradicional: es una **infraestructura de confianza** que integra servicios legales, financieros y operativos en una solución cohesiva.
 
 **En un solo programa y un solo viaje**, el cliente obtiene:
 - Residencia paraguaya
@@ -22,7 +22,7 @@ LEALTIS es un **sistema integral de relocalización** que elimina la complejidad
 - Cuenta bancaria empresarial
 - Orientación de inversión inmobiliaria
 
-Los diferenciadores clave son **velocidad, confianza y completitud**. Mientras que sin asistencia profesional estos procesos toman meses y múltiples viajes, LEALTIS comprime la tramitación presencial a una **sola mañana** gracias a preparación técnica exhaustiva y coordinación institucional anticipada.
+Los diferenciadores clave son **velocidad, confianza y completitud**. Mientras que sin asistencia profesional estos procesos toman meses y múltiples viajes, [NOMBRE DE EMPRESA] comprime la tramitación presencial a una **sola mañana** gracias a preparación técnica exhaustiva y coordinación institucional anticipada.
 
 ---
 
@@ -62,7 +62,7 @@ El flujo de europeos hacia Paraguay está en crecimiento sostenido. La oportunid
 
 ## Ventaja competitiva
 
-El activo más crítico de LEALTIS no es infraestructura, sino **capital relacional**. El equipo ha desarrollado durante años una red que incluye:
+El activo más crítico de [NOMBRE DE EMPRESA] no es infraestructura, sino **capital relacional**. El equipo ha desarrollado durante años una red que incluye:
 
 - **Gerentes bancarios** que permiten pre-validar y acelerar la apertura de cuentas (el principal cuello de botella del mercado).
 - **Profesionales legales y contables** con experiencia directa en el mercado paraguayo.
@@ -72,7 +72,7 @@ Este capital relacional es **difícil de replicar** y constituye la principal ba
 
 ### Panorama competitivo
 
-El mercado actual es **fragmentado y frecuentemente poco profesional**. Muchos proveedores ofrecen soluciones incompletas, cobran tarifas ocultas o no cumplen plazos razonables. LEALTIS se posiciona como la **alternativa premium**: confiable, transparente y orientada a resultados.
+El mercado actual es **fragmentado y frecuentemente poco profesional**. Muchos proveedores ofrecen soluciones incompletas, cobran tarifas ocultas o no cumplen plazos razonables. [NOMBRE DE EMPRESA] se posiciona como la **alternativa premium**: confiable, transparente y orientada a resultados.
 
 ---
 
@@ -102,8 +102,8 @@ El mercado actual es **fragmentado y frecuentemente poco profesional**. Muchos p
 
 Transformar lo que hoy es una operación basada en relaciones personales en un **sistema estructurado, repetible y escalable** que facilite eficientemente el movimiento de individuos y capital hacia Paraguay de manera controlada, profesional y conforme a la ley.
 
-LEALTIS aspira a convertirse en la **referencia de relocalización** para el cliente europeo serio que busca operar en Paraguay.
+[NOMBRE DE EMPRESA] aspira a convertirse en la **referencia de relocalización** para el cliente europeo serio que busca operar en Paraguay.
 
 ---
 
-*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/lealtis-paraguay-business-program.md`.*
+*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/[nombre de empresa]-paraguay-business-program.md`.*

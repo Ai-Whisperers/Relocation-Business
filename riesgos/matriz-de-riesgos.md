@@ -1,4 +1,4 @@
-# Matriz de Riesgos — LEALTIS
+# Matriz de Riesgos — [NOMBRE DE EMPRESA]
 
 ---
 

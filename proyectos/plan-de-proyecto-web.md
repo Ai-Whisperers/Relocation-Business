@@ -1,4 +1,4 @@
-# Plan de Proyecto: Sitio Web — LEALTIS
+# Plan de Proyecto: Sitio Web — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -21,7 +21,7 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 | Paraguay Investor Program | Crítica | `marketing/contenido-web.md` sección 3 |
 | Por qué Paraguay | Alta | `marketing/contenido-web.md` sección 4 |
 | Cómo funciona (Proceso) | Alta | `marketing/contenido-web.md` sección 5 |
-| Sobre LEALTIS | Alta | `marketing/contenido-web.md` sección 6 |
+| Sobre [NOMBRE DE EMPRESA] | Alta | `marketing/contenido-web.md` sección 6 |
 | FAQ | Alta | `marketing/contenido-web.md` sección 7 |
 | Contacto / Agendar consulta | Crítica | `marketing/contenido-web.md` sección 8 |
 | Blog (estructura) | Media | `marketing/plan-de-contenidos.md` |
@@ -36,7 +36,7 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 | **CMS** | WordPress (recomendado por flexibilidad y multilingüe) o similar |
 | **Plugin multilingüe** | WPML, Polylang o equivalente |
 | **Hosting** | Confiable, SSL incluido, CDN, backup automático |
-| **Dominio** | lealtis.com (o variante disponible) |
+| **Dominio** | [nombre de empresa].com (o variante disponible) |
 | **Responsive** | Diseño mobile-first |
 | **Velocidad** | PageSpeed > 80 en mobile |
 | **SSL** | Certificado HTTPS obligatorio |
@@ -56,12 +56,12 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 | Programas (×2) | ~400 palabras/idioma cada una | 1–2 por programa | Tabla de inclusiones, CTA |
 | Por qué Paraguay | ~600 palabras/idioma | 3–4 de Paraguay | Datos económicos, infografía |
 | Proceso | ~400 palabras/idioma | Iconos de pasos | Timeline visual |
-| Sobre LEALTIS | ~400 palabras/idioma | Fotos del equipo | — |
+| Sobre [NOMBRE DE EMPRESA] | ~400 palabras/idioma | Fotos del equipo | — |
 | FAQ | ~1.500 palabras/idioma | — | Acordeón expandible |
 | Contacto | ~100 palabras/idioma | — | Formulario + Calendly |
 | Blog | Template reutilizable | Por artículo | Categorías, búsqueda |
 
-**Total contenido estimado:** ~4.000 palabras × 3 idiomas = ~12.000 palabras de traducción.
+**Total contenido estimado:** ~4.000 palabras × 4 idiomas = ~16.000 palabras de traducción.
 
 ---
 
@@ -106,6 +106,7 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 | Redacción de textos en español | Socio EU | Textos aprobados |
 | Traducción a neerlandés | Traductor profesional | Textos traducidos |
 | Traducción a inglés | Traductor profesional | Textos traducidos |
+| Traducción a alemán | Traductor profesional | Textos traducidos |
 | Sesión de fotografía | Fotógrafo | Banco de imágenes |
 | Selección y edición de imágenes | Diseñador | Imágenes optimizadas |
 
@@ -115,7 +116,7 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 |-------|-------------|------------|
 | Setup de CMS y hosting | Desarrollador | Entorno listo |
 | Desarrollo de páginas | Desarrollador | Sitio funcional |
-| Integración multilingüe | Desarrollador | 3 idiomas activos |
+| Integración multilingüe | Desarrollador | 4 idiomas activos |
 | Integración de formularios + CRM | Desarrollador | Leads capturados |
 | Integración de Calendly | Desarrollador | Agendamiento funcional |
 | SEO técnico (sitemap, meta, velocidad) | Desarrollador | Score > 80 |
@@ -126,7 +127,7 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 | Tarea | Responsable | Entregable |
 |-------|-------------|------------|
 | Testing funcional (formularios, links, responsive) | Socio EU + Dev | Reporte de bugs |
-| Testing en 3 idiomas | Socio EU + traductor | Correcciones aplicadas |
+| Testing en 4 idiomas | Socio EU + traductores | Correcciones aplicadas |
 | Testing de velocidad y SEO | Desarrollador | Métricas aprobadas |
 | Corrección de bugs | Desarrollador | Bugs resueltos |
 | Configuración de Analytics | Desarrollador | GA4 + GSC activos |

@@ -10,7 +10,7 @@
 
 **Entre:**
 
-**LEALTIS** [razón social completa], con RUC [número], domiciliada en [dirección], Asunción, Paraguay (en adelante, "LEALTIS" o "el Prestador"),
+**[NOMBRE DE EMPRESA]** [razón social completa], con RUC [número], domiciliada en [dirección], Asunción, Paraguay (en adelante, "[NOMBRE DE EMPRESA]" o "el Prestador"),
 
 **Y:**
 
@@ -20,7 +20,7 @@
 
 ### CLÁUSULA PRIMERA — OBJETO
 
-LEALTIS se compromete a prestar al Cliente los servicios correspondientes al programa **[Paraguay Business / Paraguay Investor Program]**, de acuerdo con el alcance detallado en el Anexo A del presente acuerdo.
+[NOMBRE DE EMPRESA] se compromete a prestar al Cliente los servicios correspondientes al programa **[Paraguay Business / Paraguay Investor Program]**, de acuerdo con el alcance detallado en el Anexo A del presente acuerdo.
 
 ---
 
@@ -56,15 +56,15 @@ El Cliente se compromete a:
 2. Enviar la documentación solicitada dentro de los plazos indicados.
 3. Gestionar apostillas y legalizaciones en su país de origen.
 4. Estar disponible para la jornada operativa en la fecha acordada.
-5. Responder a consultas de LEALTIS dentro de 3 días hábiles.
+5. Responder a consultas de [NOMBRE DE EMPRESA] dentro de 3 días hábiles.
 6. Comunicar cambios en su situación personal, patrimonial o migratoria.
-7. Cumplir con las instrucciones del equipo LEALTIS durante la jornada operativa.
+7. Cumplir con las instrucciones del equipo [NOMBRE DE EMPRESA] durante la jornada operativa.
 
 ---
 
-### CLÁUSULA CUARTA — OBLIGACIONES DE LEALTIS
+### CLÁUSULA CUARTA — OBLIGACIONES DE [NOMBRE DE EMPRESA]
 
-LEALTIS se compromete a:
+[NOMBRE DE EMPRESA] se compromete a:
 
 1. Ejecutar los servicios con diligencia profesional y en los plazos indicativos.
 2. Mantener al Cliente informado sobre el estado de su proceso.
@@ -80,7 +80,7 @@ LEALTIS se compromete a:
 |----------|---------|
 | **Monto total** | USD [4.400 / 6.900] |
 | **Modalidad** | Pago anticipado, previo al inicio de los servicios |
-| **Método** | Transferencia bancaria a la cuenta indicada por LEALTIS |
+| **Método** | Transferencia bancaria a la cuenta indicada por [NOMBRE DE EMPRESA] |
 | **Incluye** | Honorarios profesionales, IVA, tasas oficiales de Migraciones, gastos administrativos societarios, coordinación bancaria |
 
 No existen cargos adicionales vinculados al trámite regular del programa contratado.
@@ -100,33 +100,33 @@ No existen cargos adicionales vinculados al trámite regular del programa contra
 
 ### CLÁUSULA SÉPTIMA — PLAZOS Y DISCLAIMERS
 
-1. Los plazos indicados por LEALTIS son estimaciones basadas en experiencia operativa.
-2. La emisión de Residencia Paraguaya y Cédula de Identidad está sujeta a plazos administrativos oficiales (estimado: 45–60 días) que están fuera del control de LEALTIS.
-3. La apertura de cuenta bancaria depende de la decisión de la entidad financiera. LEALTIS coordina y prepara el expediente pero no puede garantizar la aprobación.
+1. Los plazos indicados por [NOMBRE DE EMPRESA] son estimaciones basadas en experiencia operativa.
+2. La emisión de Residencia Paraguaya y Cédula de Identidad está sujeta a plazos administrativos oficiales (estimado: 45–60 días) que están fuera del control de [NOMBRE DE EMPRESA].
+3. La apertura de cuenta bancaria depende de la decisión de la entidad financiera. [NOMBRE DE EMPRESA] coordina y prepara el expediente pero no puede garantizar la aprobación.
 4. Los plazos pueden verse afectados por la demora del Cliente en proporcionar documentación o información solicitada.
 
 ---
 
 ### CLÁUSULA OCTAVA — CONFIDENCIALIDAD
 
-1. LEALTIS mantendrá la confidencialidad de toda la información personal, financiera y patrimonial del Cliente.
-2. La información del Cliente solo será compartida con instituciones y profesionales directamente involucrados en la ejecución del programa (autoridades migratorias, entidades bancarias, escribanías, equipo técnico de LEALTIS).
+1. [NOMBRE DE EMPRESA] mantendrá la confidencialidad de toda la información personal, financiera y patrimonial del Cliente.
+2. La información del Cliente solo será compartida con instituciones y profesionales directamente involucrados en la ejecución del programa (autoridades migratorias, entidades bancarias, escribanías, equipo técnico de [NOMBRE DE EMPRESA]).
 3. Esta obligación de confidencialidad se extiende más allá de la finalización del acuerdo.
 
 ---
 
 ### CLÁUSULA NOVENA — LIMITACIÓN DE RESPONSABILIDAD
 
-1. LEALTIS no será responsable por decisiones de autoridades gubernamentales, entidades bancarias u otros terceros que escapen a su control directo.
-2. LEALTIS no será responsable por consecuencias derivadas de información falsa, incompleta o engañosa proporcionada por el Cliente.
-3. La responsabilidad total de LEALTIS se limita al monto de los honorarios pagados por el Cliente.
+1. [NOMBRE DE EMPRESA] no será responsable por decisiones de autoridades gubernamentales, entidades bancarias u otros terceros que escapen a su control directo.
+2. [NOMBRE DE EMPRESA] no será responsable por consecuencias derivadas de información falsa, incompleta o engañosa proporcionada por el Cliente.
+3. La responsabilidad total de [NOMBRE DE EMPRESA] se limita al monto de los honorarios pagados por el Cliente.
 
 ---
 
 ### CLÁUSULA DÉCIMA — TERMINACIÓN Y REEMBOLSO
 
-1. **Por el Cliente:** El Cliente podrá resolver el acuerdo antes del inicio de la jornada operativa. En tal caso, LEALTIS retendrá el [XX%] de los honorarios en concepto de servicios ya prestados (validación, preparación). *[Definir porcentaje con asesor legal]*
-2. **Por LEALTIS:** LEALTIS podrá resolver el acuerdo si detecta documentación fraudulenta, conducta incompatible con su política de compliance, o incumplimiento grave por parte del Cliente. En tal caso, se reembolsará la proporción correspondiente a servicios no prestados.
+1. **Por el Cliente:** El Cliente podrá resolver el acuerdo antes del inicio de la jornada operativa. En tal caso, [NOMBRE DE EMPRESA] retendrá el [XX%] de los honorarios en concepto de servicios ya prestados (validación, preparación). *[Definir porcentaje con asesor legal]*
+2. **Por [NOMBRE DE EMPRESA]:** [NOMBRE DE EMPRESA] podrá resolver el acuerdo si detecta documentación fraudulenta, conducta incompatible con su política de compliance, o incumplimiento grave por parte del Cliente. En tal caso, se reembolsará la proporción correspondiente a servicios no prestados.
 3. **Post jornada:** Una vez iniciada la jornada operativa, no procede reembolso por servicios ya ejecutados.
 
 ---
@@ -148,7 +148,7 @@ Las partes acuerdan resolver cualquier controversia derivada del presente acuerd
 
 **Firmas:**
 
-| | LEALTIS | Cliente |
+| | [NOMBRE DE EMPRESA] | Cliente |
 |-|---------|---------|
 | Nombre | _________________ | _________________ |
 | Firma | _________________ | _________________ |

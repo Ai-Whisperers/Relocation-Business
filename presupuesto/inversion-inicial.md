@@ -1,4 +1,4 @@
-# Inversión Inicial — LEALTIS
+# Inversión Inicial — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -6,10 +6,10 @@
 
 | # | Concepto | Rango (USD) | Prioridad | Observación |
 |---|----------|:-----------:|:---------:|-------------|
-| 1 | **Constitución legal de LEALTIS** | 500–1.000 | Crítica | Sociedad en Paraguay, registro, RUC propio |
+| 1 | **Constitución legal de [NOMBRE DE EMPRESA]** | 500–1.000 | Crítica | Sociedad en Paraguay, registro, RUC propio |
 | 2 | **Acuerdo entre socios** | 300–800 | Crítica | Redacción legal del acuerdo de partnership |
 | 3 | **Marca y diseño** | 1.000–3.000 | Alta | Logo, identidad visual, manual de marca |
-| 4 | **Sitio web** | 3.000–8.000 | Alta | Diseño, desarrollo, contenido NL/EN/ES |
+| 4 | **Sitio web** | 3.000–8.000 | Alta | Diseño, desarrollo, contenido NL/EN/DE/ES |
 | 5 | **Contenido inicial** | 500–1.500 | Alta | Fotografía, video introductorio, textos |
 | 6 | **Herramientas digitales (año 1)** | 500–1.000 | Media | CRM, email marketing, hosting, dominio |
 | 7 | **Materiales de venta** | 200–500 | Media | Presentaciones, brochures, tarjetas |

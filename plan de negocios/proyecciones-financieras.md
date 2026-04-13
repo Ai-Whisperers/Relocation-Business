@@ -1,4 +1,4 @@
-# Proyecciones Financieras — LEALTIS
+# Proyecciones Financieras — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -100,7 +100,7 @@
 |----------|-------|
 | % de clientes que invierten en inmuebles | 30–50% |
 | Inversión promedio | USD 150.000–300.000 |
-| Comisión LEALTIS | 2–3% |
+| Comisión [NOMBRE DE EMPRESA] | 2–3% |
 | **Ingreso adicional por comisiones (anual)** | **USD 21.600–108.000** |
 
 *Nota: Las comisiones inmobiliarias son altamente variables y dependen del perfil de clientes. No deben incluirse como ingreso base para planificación conservadora.*
@@ -176,7 +176,7 @@
 
 | Concepto | Rango estimado (USD) |
 |----------|:--------------------:|
-| Constitución legal de LEALTIS | 500–1.000 |
+| Constitución legal de [NOMBRE DE EMPRESA] | 500–1.000 |
 | Desarrollo de marca (logo, identidad) | 1.000–3.000 |
 | Sitio web (diseño, desarrollo, contenido multilingüe) | 3.000–8.000 |
 | Herramientas digitales (CRM, suscripciones anuales) | 500–1.000 |
@@ -200,4 +200,4 @@
 
 ---
 
-*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/lealtis-paraguay-business-program.md`.*
+*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/[nombre de empresa]-paraguay-business-program.md`.*

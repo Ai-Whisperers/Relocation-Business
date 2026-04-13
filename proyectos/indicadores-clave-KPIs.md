@@ -1,4 +1,4 @@
-# Indicadores Clave de Desempeño (KPIs) — LEALTIS
+# Indicadores Clave de Desempeño (KPIs) — [NOMBRE DE EMPRESA]
 
 ---
 

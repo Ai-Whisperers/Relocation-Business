@@ -1,4 +1,4 @@
-# Estructura de Ingresos — LEALTIS
+# Estructura de Ingresos — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -50,7 +50,7 @@
 |----------|-------|
 | % de clientes que invierten en inmuebles | 30–50% |
 | Inversión promedio por cliente | USD 150.000–300.000 |
-| Comisión LEALTIS | 2–3% |
+| Comisión [NOMBRE DE EMPRESA] | 2–3% |
 | Clientes inversores/año (escenario moderado) | 14–24 |
 | **Ingreso estimado anual** | **USD 12.600–108.000** |
 
@@ -112,4 +112,4 @@
 
 ---
 
-*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/lealtis-paraguay-business-program.md`.*
+*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/[nombre de empresa]-paraguay-business-program.md`.*

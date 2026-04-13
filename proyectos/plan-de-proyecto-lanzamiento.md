@@ -1,11 +1,11 @@
-# Plan de Proyecto: Lanzamiento — LEALTIS (Fases 0–2)
+# Plan de Proyecto: Lanzamiento — [NOMBRE DE EMPRESA] (Fases 0–2)
 
 ---
 
 ## 1. Estructura de desglose del trabajo (WBS)
 
 ### 1.1 Legal y contractual
-- 1.1.1 Constitución de LEALTIS en Paraguay
+- 1.1.1 Constitución de [NOMBRE DE EMPRESA] en Paraguay
 - 1.1.2 Acuerdo de partnership
 - 1.1.3 Templates legales (acuerdo de servicios, política de privacidad)
 
@@ -43,7 +43,7 @@
 
 | # | Tarea | Duración | Dependencias | Responsable |
 |---|-------|:--------:|:------------:|-------------|
-| T01 | Constitución legal LEALTIS | 2 sem | — | Daniel |
+| T01 | Constitución legal [NOMBRE DE EMPRESA] | 2 sem | — | Daniel |
 | T02 | Acuerdo de partnership | 2 sem | — | Ambos |
 | T03 | Brief de marca | 1 sem | — | Socio EU |
 | T04 | Diseño logo + identidad | 2–3 sem | T03 | Socio EU + diseñador |
@@ -105,7 +105,7 @@ T03 → T04 → T06 → T07 → T08 → T21 → T22 → T23 → T24 → T25
 
 | Criterio | Obligatorio |
 |----------|:-----------:|
-| LEALTIS constituida legalmente | Sí |
+| [NOMBRE DE EMPRESA] constituida legalmente | Sí |
 | Acuerdo de partnership firmado | Sí |
 | Identidad de marca definida | Sí |
 | Paquetes y precios confirmados | Sí |

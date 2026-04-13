@@ -1,4 +1,4 @@
-# Estrategia de Referidos — LEALTIS
+# Estrategia de Referidos — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -30,17 +30,17 @@
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Potencial** | Muy alto — sus clientes son exactamente el target de LEALTIS |
+| **Potencial** | Muy alto — sus clientes son exactamente el target de [NOMBRE DE EMPRESA] |
 | **Incentivo propuesto** | Comisión del 5–10% del programa contratado (USD 220–690 por cliente) |
-| **Activación** | Outreach directo, presentación de LEALTIS, acuerdo formal de colaboración |
+| **Activación** | Outreach directo, presentación de [NOMBRE DE EMPRESA], acuerdo formal de colaboración |
 | **Tracking** | Acuerdo firmado con identificación de referidos |
-| **Nota clave** | El asesor fiscal refiere al cliente para establecimiento en Paraguay; LEALTIS no da asesoramiento fiscal en jurisdicción europea |
+| **Nota clave** | El asesor fiscal refiere al cliente para establecimiento en Paraguay; [NOMBRE DE EMPRESA] no da asesoramiento fiscal en jurisdicción europea |
 
 ### 2.3 Agentes inmobiliarios (Paraguay y Europa)
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Potencial** | Medio-alto — referidos cruzados (ellos refieren clientes con interés en Paraguay, LEALTIS facilita la inversión) |
+| **Potencial** | Medio-alto — referidos cruzados (ellos refieren clientes con interés en Paraguay, [NOMBRE DE EMPRESA] facilita la inversión) |
 | **Incentivo propuesto** | Acuerdo de referidos recíprocos o comisión por referido |
 | **Activación** | Red existente de Daniel + outreach en Europa |
 | **Tracking** | Registro de origen del lead |
@@ -59,7 +59,7 @@
 | Aspecto | Detalle |
 |---------|---------|
 | **Potencial** | Variable — depende del influencer y su audiencia |
-| **Incentivo propuesto** | Caso por caso: contenido patrocinado, comisión por lead, experiencia LEALTIS |
+| **Incentivo propuesto** | Caso por caso: contenido patrocinado, comisión por lead, experiencia [NOMBRE DE EMPRESA] |
 | **Activación** | Identificación selectiva de influencers alineados con el posicionamiento |
 | **Tracking** | Link/código de seguimiento |
 
@@ -71,17 +71,17 @@
 
 | Regla | Detalle |
 |-------|---------|
-| **Quién puede referir** | Cualquier cliente activo o pasado de LEALTIS |
+| **Quién puede referir** | Cualquier cliente activo o pasado de [NOMBRE DE EMPRESA] |
 | **Qué se recompensa** | Referido que contrate un programa completo (Business o Investor) |
 | **Incentivo** | USD 300 (por referido Business) / USD 500 (por referido Investor) |
-| **Forma de pago** | Transferencia bancaria o crédito para servicios LEALTIS |
+| **Forma de pago** | Transferencia bancaria o crédito para servicios [NOMBRE DE EMPRESA] |
 | **Límite** | Sin límite de referidos |
 | **Cuándo se paga** | Una vez que el referido haya completado el pago del programa |
 | **Acumulable** | Sí, se puede referir a múltiples personas |
 
 ### Materiales para el referidor
 
-- Resumen de una página sobre LEALTIS y programas (PDF compartible)
+- Resumen de una página sobre [NOMBRE DE EMPRESA] y programas (PDF compartible)
 - Link personalizado o código de referido
 - Mensaje sugerido para compartir (email, WhatsApp)
 - Respuestas a preguntas frecuentes que el referidor pueda recibir
@@ -94,18 +94,18 @@
 
 | Elemento | Contenido |
 |----------|-----------|
-| **Partes** | LEALTIS + Partner (asesor fiscal, agente, etc.) |
-| **Alcance** | El partner refiere clientes potenciales a LEALTIS |
+| **Partes** | [NOMBRE DE EMPRESA] + Partner (asesor fiscal, agente, etc.) |
+| **Alcance** | El partner refiere clientes potenciales a [NOMBRE DE EMPRESA] |
 | **Comisión** | 5–10% del programa contratado, pagado tras cobro completo |
 | **Exclusividad** | No exclusivo (salvo acuerdo especial) |
 | **Duración** | 12 meses renovable |
-| **Obligaciones del partner** | Referir de buena fe, no hacer representaciones sobre servicios de LEALTIS más allá de lo autorizado |
-| **Obligaciones de LEALTIS** | Atender al referido con el estándar habitual, reportar estado, pagar comisión según acuerdo |
+| **Obligaciones del partner** | Referir de buena fe, no hacer representaciones sobre servicios de [NOMBRE DE EMPRESA] más allá de lo autorizado |
+| **Obligaciones de [NOMBRE DE EMPRESA]** | Atender al referido con el estándar habitual, reportar estado, pagar comisión según acuerdo |
 
 ### Proceso de onboarding de partners
 
 1. Identificación del partner potencial
-2. Presentación de LEALTIS y propuesta de colaboración
+2. Presentación de [NOMBRE DE EMPRESA] y propuesta de colaboración
 3. Negociación de términos
 4. Firma de acuerdo de referidos
 5. Entrega de materiales (presentación, FAQ, código de tracking)
@@ -120,7 +120,7 @@
 
 | Pueden decir | NO pueden decir |
 |-------------|-----------------|
-| "LEALTIS ofrece programas de establecimiento en Paraguay" | "LEALTIS le ayuda a evadir impuestos" |
+| "[NOMBRE DE EMPRESA] ofrece programas de establecimiento en Paraguay" | "[NOMBRE DE EMPRESA] le ayuda a evadir impuestos" |
 | "Integran residencia, sociedad y cuenta bancaria" | "Garantizan aprobación bancaria" |
 | "Tienen un equipo profesional en Paraguay" | Cualquier promesa sobre resultados fiscales específicos |
 | "El proceso se completa en un viaje" | Comparaciones despectivas con competidores |
@@ -128,7 +128,7 @@
 
 ### Regla general
 
-> Los partners son referidores, no representantes de LEALTIS. No deben asesorar sobre servicios que no ofrecen ni hacer promesas que LEALTIS no haya autorizado.
+> Los partners son referidores, no representantes de [NOMBRE DE EMPRESA]. No deben asesorar sobre servicios que no ofrecen ni hacer promesas que [NOMBRE DE EMPRESA] no haya autorizado.
 
 ---
 

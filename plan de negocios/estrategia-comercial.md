@@ -1,4 +1,4 @@
-# Estrategia Comercial — LEALTIS
+# Estrategia Comercial — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -20,14 +20,15 @@
 |--------|-----|
 | Neerlandés | Mercado primario, web, contenido |
 | Inglés | Mercado europeo amplio, web, contenido |
-| Español | Operaciones internas, documentación legal |
+| Alemán | Mercado alemán, austriaco y suizo-alemán, web, contenido |
+| Español | Operaciones internas, documentación legal, clientes hispanohablantes |
 
 ---
 
 ## 2. Funnel de adquisición de clientes
 
 ```
-CONCIENCIA          → Descubren LEALTIS (web, redes, referidos)
+CONCIENCIA          → Descubren [NOMBRE DE EMPRESA] (web, redes, referidos)
     ↓
 INTERÉS             → Consumen contenido, investigan Paraguay
     ↓
@@ -53,7 +54,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 | Aspecto | Detalle |
 |---------|---------|
 | **Objetivo** | Generar leads cualificados y convertir visitantes en consultas |
-| **Idiomas** | Neerlandés (principal), Inglés, Español |
+| **Idiomas** | Neerlandés (principal), Inglés, Alemán, Español |
 | **Enfoque** | Orientado a conversión: claro, profesional, con llamadas a acción visibles |
 | **Contenido clave** | Programas, proceso paso a paso, por qué Paraguay, equipo, FAQ, blog |
 | **SEO** | Keywords en NL/EN: "residencia Paraguay", "empresa Paraguay", "invertir Paraguay", "relocación Paraguay" |
@@ -74,7 +75,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 |-------------------|----------------|
 | **Clientes satisfechos** | Programa de referidos con incentivo |
 | **Asesores fiscales en EU** | Acuerdo de colaboración, comisión por referido |
-| **Agentes inmobiliarios** | Referidos cruzados (ellos refieren clientes, LEALTIS facilita inversión) |
+| **Agentes inmobiliarios** | Referidos cruzados (ellos refieren clientes, [NOMBRE DE EMPRESA] facilita inversión) |
 | **Comunidades de expatriados** | Presencia en foros, grupos, eventos |
 | **Influencers de finanzas/expatriados** | Colaboraciones selectivas |
 
@@ -100,7 +101,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 | Pilar | Mensaje central | Ejemplo de copy |
 |-------|----------------|-----------------|
 | **Oportunidad** | Paraguay ofrece un entorno favorable para emprender, invertir y vivir | "Un mercado en crecimiento, con reglas claras y costos competitivos" |
-| **Simplicidad** | LEALTIS elimina la complejidad | "Todo resuelto en un solo programa, un solo viaje" |
+| **Simplicidad** | [NOMBRE DE EMPRESA] elimina la complejidad | "Todo resuelto en un solo programa, un solo viaje" |
 | **Seguridad** | Proceso profesional, legal, predecible | "Equipo de primer nivel, proceso validado, sin sorpresas" |
 | **Confianza** | Relaciones y experiencia comprobadas | "Años de experiencia operando en el mercado paraguayo" |
 
@@ -125,7 +126,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 |-------|-----------|-------------|-----------------|
 | 1. Lead | Visitante completa formulario o solicita consulta | Web / redes | — |
 | 2. Cualificación | Evaluación inicial del perfil (segmento, motivación, capital, urgencia) | CRM | 1–2 días |
-| 3. Consulta | Videollamada personalizada: escuchar necesidades, presentar LEALTIS | Zoom/Meet | 30–45 min |
+| 3. Consulta | Videollamada personalizada: escuchar necesidades, presentar [NOMBRE DE EMPRESA] | Zoom/Meet | 30–45 min |
 | 4. Propuesta | Envío de programa recomendado con alcance detallado | Email + PDF | 1–2 días |
 | 5. Seguimiento | Resolución de dudas, segunda llamada si necesario | Email / llamada | 3–7 días |
 | 6. Cierre | Aceptación formal, envío de acuerdo de servicios | Email + contrato | 1–3 días |

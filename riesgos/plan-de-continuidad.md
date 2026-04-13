@@ -1,4 +1,4 @@
-# Plan de Continuidad del Negocio — LEALTIS
+# Plan de Continuidad del Negocio — [NOMBRE DE EMPRESA]
 
 ---
 

@@ -1,4 +1,4 @@
-# Política de Privacidad — LEALTIS
+# Política de Privacidad — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## 1. Responsable del tratamiento
 
-**LEALTIS** [razón social completa]
+**[NOMBRE DE EMPRESA]** [razón social completa]
 RUC: [número]
 Domicilio: [dirección], Asunción, Paraguay
 Email de contacto para privacidad: [email]
@@ -51,15 +51,15 @@ Los datos personales del Cliente pueden ser compartidos exclusivamente con:
 | **Entidades bancarias** | Apertura de cuenta, cumplimiento KYC/AML | Necesario para el servicio |
 | **Escribanías / notarías** | Formalización de documentos y sociedades | Necesario para el servicio |
 | **Subsecretaría de Estado de Tributación (SET)** | Inscripción fiscal (RUC) | Necesario para el servicio |
-| **Equipo técnico de LEALTIS** | Abogados, contadores, asesores involucrados en el programa | Necesario para el servicio |
+| **Equipo técnico de [NOMBRE DE EMPRESA]** | Abogados, contadores, asesores involucrados en el programa | Necesario para el servicio |
 
-**LEALTIS no vende, alquila ni cede datos personales a terceros con fines comerciales.**
+**[NOMBRE DE EMPRESA] no vende, alquila ni cede datos personales a terceros con fines comerciales.**
 
 ---
 
 ## 5. Transferencias internacionales de datos
 
-Dado que LEALTIS opera en Paraguay y sus clientes residen en Europa, existe una transferencia internacional de datos. LEALTIS se compromete a:
+Dado que [NOMBRE DE EMPRESA] opera en Paraguay y sus clientes residen en Europa, existe una transferencia internacional de datos. [NOMBRE DE EMPRESA] se compromete a:
 
 - Proteger los datos con medidas técnicas y organizativas adecuadas.
 - No transferir datos a jurisdicciones adicionales sin justificación ni consentimiento.
@@ -88,7 +88,7 @@ El Cliente tiene derecho a:
 
 | Derecho | Descripción |
 |---------|-------------|
-| **Acceso** | Solicitar copia de sus datos personales en poder de LEALTIS |
+| **Acceso** | Solicitar copia de sus datos personales en poder de [NOMBRE DE EMPRESA] |
 | **Rectificación** | Solicitar la corrección de datos inexactos |
 | **Supresión** | Solicitar la eliminación de sus datos (sujeto a obligaciones legales de retención) |
 | **Limitación** | Solicitar la restricción del tratamiento en determinadas circunstancias |
@@ -104,7 +104,7 @@ Plazo de respuesta: 30 días desde la recepción de la solicitud.
 
 ## 8. Medidas de seguridad
 
-LEALTIS implementa las siguientes medidas para proteger los datos personales:
+[NOMBRE DE EMPRESA] implementa las siguientes medidas para proteger los datos personales:
 
 | Tipo | Medida |
 |------|--------|
@@ -128,7 +128,7 @@ El usuario puede gestionar sus preferencias de cookies a través del banner de c
 
 ## 10. Modificaciones a esta política
 
-LEALTIS se reserva el derecho de actualizar esta política. Cualquier cambio significativo será comunicado a los clientes activos por email. La versión vigente estará siempre disponible en el sitio web.
+[NOMBRE DE EMPRESA] se reserva el derecho de actualizar esta política. Cualquier cambio significativo será comunicado a los clientes activos por email. La versión vigente estará siempre disponible en el sitio web.
 
 **Última actualización:** [fecha]
 

@@ -1,4 +1,4 @@
-# Catálogo de Servicios — LEALTIS
+# Catálogo de Servicios — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -117,4 +117,4 @@
 
 ---
 
-*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*

@@ -81,14 +81,14 @@ Ver documento: `blueprint-operativo-paraguay-business.md`
 
 | Actividad | Responsable | Frecuencia | Entregable |
 |-----------|-------------|------------|------------|
-| Identificación de oportunidades inmobiliarias | Asesor LEALTIS | Continuo | Fichas de oportunidad |
+| Identificación de oportunidades inmobiliarias | Asesor [NOMBRE DE EMPRESA] | Continuo | Fichas de oportunidad |
 | Evaluación técnica de proyectos | Equipo multidisciplinario | Según demanda | Informe de evaluación |
-| Análisis de perfil de desarrolladoras | Asesor LEALTIS | Según demanda | Evaluación de contraparte |
+| Análisis de perfil de desarrolladoras | Asesor [NOMBRE DE EMPRESA] | Según demanda | Evaluación de contraparte |
 | Evaluación de proyectos productivos | Equipo multidisciplinario | Según demanda | Informe técnico |
-| Recomendaciones estratégicas | Asesor LEALTIS | Trimestral (mínimo) | Memo estratégico |
-| Coordinación con actores del sector | Coordinador LEALTIS | Según oportunidad | Reuniones facilitadas |
+| Recomendaciones estratégicas | Asesor [NOMBRE DE EMPRESA] | Trimestral (mínimo) | Memo estratégico |
+| Coordinación con actores del sector | Coordinador [NOMBRE DE EMPRESA] | Según oportunidad | Reuniones facilitadas |
 
-**Nota:** LEALTIS proporciona análisis y recomendaciones. Las decisiones de inversión son exclusivamente del cliente.
+**Nota:** [NOMBRE DE EMPRESA] proporciona análisis y recomendaciones. Las decisiones de inversión son exclusivamente del cliente.
 
 ---
 
@@ -106,7 +106,7 @@ Mes 12         → Sesión de cierre anual y propuesta de continuidad
 
 ## Renovación
 
-Al finalizar los 12 meses del programa, LEALTIS presentará una propuesta de continuidad que puede incluir:
+Al finalizar los 12 meses del programa, [NOMBRE DE EMPRESA] presentará una propuesta de continuidad que puede incluir:
 
 - Renovación del servicio contable anual
 - Continuidad del asesoramiento jurídico y fiscal
@@ -117,4 +117,4 @@ Las condiciones de renovación se acuerdan de manera independiente.
 
 ---
 
-*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `blueprint-operativo-paraguay-business.md`.*
+*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `blueprint-operativo-paraguay-business.md`.*

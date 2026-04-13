@@ -1,4 +1,4 @@
-# Proyección Financiera a 3 Años — LEALTIS
+# Proyección Financiera a 3 Años — [NOMBRE DE EMPRESA]
 
 ---
 

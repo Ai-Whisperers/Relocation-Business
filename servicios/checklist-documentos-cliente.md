@@ -1,4 +1,4 @@
-# Checklist de Documentos del Cliente — LEALTIS
+# Checklist de Documentos del Cliente — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -7,7 +7,7 @@
 - Todos los documentos deben ser enviados en formato digital (escaneo de alta calidad) para **validación previa**.
 - Los originales o copias certificadas se presentan durante la **jornada operativa** en Paraguay.
 - Las apostillas y legalizaciones deben gestionarse en el **país de origen** antes del viaje.
-- LEALTIS proporcionará un **checklist personalizado** según la jurisdicción de origen del cliente.
+- [NOMBRE DE EMPRESA] proporcionará un **checklist personalizado** según la jurisdicción de origen del cliente.
 
 ---
 
@@ -21,8 +21,8 @@
 | 4 | Certificado de nacimiento | Apostillado | — |
 | 5 | Certificado de estado civil | Apostillado | Matrimonio, divorcio o soltería según corresponda |
 | 6 | Comprobante de medios económicos | Original o certificado | Extractos bancarios, certificados de inversión, declaraciones de renta |
-| 7 | Declaración jurada de domicilio en Paraguay | Preparada por LEALTIS | Se gestiona durante la jornada |
-| 8 | Formularios migratorios | Preparados por LEALTIS | Completados en fase de preparación del expediente |
+| 7 | Declaración jurada de domicilio en Paraguay | Preparada por [NOMBRE DE EMPRESA] | Se gestiona durante la jornada |
+| 8 | Formularios migratorios | Preparados por [NOMBRE DE EMPRESA] | Completados en fase de preparación del expediente |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | # | Documento | Formato requerido | Observación |
 |---|-----------|-------------------|-------------|
-| 1 | Comprobante de residencia en trámite o aprobada | Gestionado por LEALTIS | Resultado de la presentación migratoria |
+| 1 | Comprobante de residencia en trámite o aprobada | Gestionado por [NOMBRE DE EMPRESA] | Resultado de la presentación migratoria |
 | 2 | Fotografías adicionales | Según especificaciones | Si difieren de las migratorias |
 | 3 | Pasaporte vigente | Original | Para verificación presencial |
 
@@ -41,7 +41,7 @@
 | # | Documento | Formato requerido | Observación |
 |---|-----------|-------------------|-------------|
 | 1 | Cédula de identidad paraguaya | En trámite o emitida | Necesaria para actuar como socio/director |
-| 2 | Definición de objeto social | Acordado con equipo legal | LEALTIS asesora sobre la formulación |
+| 2 | Definición de objeto social | Acordado con equipo legal | [NOMBRE DE EMPRESA] asesora sobre la formulación |
 | 3 | Datos de socios (si aplica) | Documentación de identidad de cada socio | — |
 | 4 | Capital social definido | Monto acordado | Según análisis estratégico del tipo societario |
 | 5 | Domicilio fiscal | Dirección en Paraguay | Puede ser la dirección de la oficina registrada |
@@ -58,8 +58,8 @@
 | 4 | Certificado de residencia fiscal (país de origen) | Original o apostillado | Emitido por autoridad fiscal del país de origen |
 | 5 | Declaración de impuestos reciente | Copia | Del país de origen, último ejercicio fiscal |
 | 6 | Referencia bancaria | Carta del banco actual | Del banco donde actualmente opera el cliente |
-| 7 | Perfil de actividad económica | Preparado por LEALTIS | Descripción de actividades, fuentes de ingreso, volumen estimado de operaciones |
-| 8 | Documentación societaria | Estatutos, RUC | Si la cuenta es empresarial (preparado por LEALTIS) |
+| 7 | Perfil de actividad económica | Preparado por [NOMBRE DE EMPRESA] | Descripción de actividades, fuentes de ingreso, volumen estimado de operaciones |
+| 8 | Documentación societaria | Estatutos, RUC | Si la cuenta es empresarial (preparado por [NOMBRE DE EMPRESA]) |
 
 ---
 
@@ -81,7 +81,7 @@
 | **Cuándo se requieren** | Documentos emitidos en idioma distinto al español. |
 | **Tipo** | Traducción jurada por traductor público matriculado. |
 | **Dónde se gestionan** | En país de origen (preferible) o en Paraguay por traductor habilitado. |
-| **Nota** | LEALTIS puede orientar sobre traductores de confianza. |
+| **Nota** | [NOMBRE DE EMPRESA] puede orientar sobre traductores de confianza. |
 
 ### Copias certificadas
 
@@ -92,14 +92,14 @@
 
 ---
 
-## 6. Proceso de pre-validación LEALTIS
+## 6. Proceso de pre-validación [NOMBRE DE EMPRESA]
 
 ```
 1. Cliente envía documentación escaneada
          ↓
-2. LEALTIS revisa completitud y coherencia
+2. [NOMBRE DE EMPRESA] revisa completitud y coherencia
          ↓
-3. LEALTIS identifica observaciones o faltantes
+3. [NOMBRE DE EMPRESA] identifica observaciones o faltantes
          ↓
 4. Cliente subsana observaciones
          ↓
@@ -116,11 +116,11 @@
 
 ## 7. Notas importantes
 
-- **Cada jurisdicción tiene particularidades.** Los requisitos exactos de apostilla, legalización y documentación varían según el país de origen. LEALTIS proporciona orientación específica.
+- **Cada jurisdicción tiene particularidades.** Los requisitos exactos de apostilla, legalización y documentación varían según el país de origen. [NOMBRE DE EMPRESA] proporciona orientación específica.
 - **No se agenda la jornada operativa** hasta que la documentación esté 100% validada.
 - **La documentación bancaria es la más sensible.** La calidad y completitud de la prueba de origen de fondos es el factor más determinante para la aprobación de la cuenta.
-- **Información veraz.** Toda la documentación proporcionada debe ser auténtica y veraz. LEALTIS no procesa documentación de origen dudoso.
+- **Información veraz.** Toda la documentación proporcionada debe ser auténtica y veraz. [NOMBRE DE EMPRESA] no procesa documentación de origen dudoso.
 
 ---
 
-*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/research-materials-local-paraguay.md`.*
+*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/research-materials-local-paraguay.md`.*

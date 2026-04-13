@@ -1,16 +1,16 @@
-# Identidad de Marca — LEALTIS
+# Identidad de Marca — [NOMBRE DE EMPRESA]
 
 ---
 
 ## 1. El nombre
 
-**LEALTIS** — derivado de **lealtad** (loyalty). Transmite compromiso, fidelidad y relación a largo plazo.
+**[POR DEFINIR]** — El nombre comercial aún no ha sido decidido.
 
-El nombre fue elegido porque:
-- Es memorable y fácil de pronunciar en español, neerlandés e inglés.
-- Evoca confianza sin ser genérico.
-- No limita la marca a un servicio específico (no es "Paraguay Legal" ni "Relocation SA").
-- Funciona como marca profesional de alto nivel.
+Criterios para la selección del nombre:
+- Debe ser memorable y fácil de pronunciar en español, neerlandés, inglés y alemán.
+- Debe evocar confianza sin ser genérico.
+- No debe limitar la marca a un servicio específico (evitar nombres como "Paraguay Legal" o "Relocation SA").
+- Debe funcionar como marca profesional de alto nivel en mercados europeos y latinoamericanos.
 
 ---
 
@@ -30,7 +30,7 @@ El nombre fue elegido porque:
 
 ### Personalidad
 
-LEALTIS habla como un **asesor senior de confianza**: profesional pero accesible, seguro pero no arrogante, directo pero empático.
+[NOMBRE DE EMPRESA] habla como un **asesor senior de confianza**: profesional pero accesible, seguro pero no arrogante, directo pero empático.
 
 | Dimensión | Es | No es |
 |-----------|-----|-------|
@@ -46,7 +46,7 @@ LEALTIS habla como un **asesor senior de confianza**: profesional pero accesible
 |-------|------|---------|
 | **Sitio web** | Profesional, informativo, orientado a acción | "Establecemos su operación en Paraguay en un solo programa." |
 | **LinkedIn** | Thought leadership, datos, insights | "El mercado inmobiliario paraguayo creció X% — esto es lo que significa para el inversor europeo." |
-| **Instagram** | Aspiracional, visual, humano | "Así luce un día de tramitación con LEALTIS en Asunción." |
+| **Instagram** | Aspiracional, visual, humano | "Así luce un día de tramitación con [NOMBRE DE EMPRESA] en Asunción." |
 | **YouTube** | Educativo, personal, cercano | "En este video les explico paso a paso cómo funciona la apertura de empresa en Paraguay." |
 | **Email** | Directo, personalizado, valioso | "Hola [nombre], quería compartir algo relevante para su proceso..." |
 | **Comunicación directa** | Cálido, profesional, resolutivo | "Revisamos su documentación y todo está en orden. Estos son los próximos pasos." |
@@ -71,9 +71,9 @@ LEALTIS habla como un **asesor senior de confianza**: profesional pero accesible
 
 ---
 
-## 5. Lo que LEALTIS es y lo que no es
+## 5. Lo que [NOMBRE DE EMPRESA] es y lo que no es
 
-| LEALTIS es | LEALTIS no es |
+| [NOMBRE DE EMPRESA] es | [NOMBRE DE EMPRESA] no es |
 |------------|---------------|
 | Un sistema integral de relocalización | Una gestoría de trámites |
 | Un equipo técnico multidisciplinario | Un abogado independiente |
@@ -144,11 +144,11 @@ El logo debe transmitir:
 | Material | Lineamiento |
 |----------|-------------|
 | Sitio web | Colores primarios, tipografía consistente, fotos profesionales, mucho espacio en blanco |
-| Presentaciones / PDFs | Template con header LEALTIS, colores de marca, formateo consistente |
+| Presentaciones / PDFs | Template con header [NOMBRE DE EMPRESA], colores de marca, formateo consistente |
 | Redes sociales | Templates para posts con identidad visual coherente |
 | Firmas de email | Diseño limpio con logo, datos de contacto, sin exceso de información |
-| Documentos para clientes | Membrete LEALTIS, formato profesional, tono consistente |
+| Documentos para clientes | Membrete [NOMBRE DE EMPRESA], formato profesional, tono consistente |
 
 ---
 
-*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*

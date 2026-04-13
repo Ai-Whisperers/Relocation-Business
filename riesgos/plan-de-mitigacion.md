@@ -149,13 +149,13 @@ Tasa de aprobación bancaria > 85%.
 ### Medidas preventivas
 | Acción | Plazo | Responsable |
 |--------|-------|-------------|
-| Clarificar que LEALTIS NO asesora en jurisdicción europea | Mes 0 | Ambos socios |
+| Clarificar que [NOMBRE DE EMPRESA] NO asesora en jurisdicción europea | Mes 0 | Ambos socios |
 | Incluir disclaimer en acuerdo de servicios | Mes 0 | Equipo legal |
 | Recomendar a clientes consultar asesor fiscal en su país | Por cliente | Socio EU |
 | Monitoreo general de cambios CRS relevantes | Semestral | Socio EU |
 
 ### Indicador de éxito
-Cero clientes que confundan LEALTIS con asesor fiscal europeo.
+Cero clientes que confundan [NOMBRE DE EMPRESA] con asesor fiscal europeo.
 
 ---
 

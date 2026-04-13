@@ -1,4 +1,4 @@
-# Registro de Riesgos — LEALTIS
+# Registro de Riesgos — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -44,15 +44,15 @@
 | R06 | **Cambio en ley migratoria** — Paraguay endurece requisitos de residencia | Media | Alto | **Alto** | Monitoreo trimestral, adaptación de programas, comunicación a clientes | Equipo legal | Pendiente |
 | R07 | **Endurecimiento bancario** — Nuevas regulaciones KYC/AML dificultan apertura | Media | Alto | **Alto** | Monitoreo de circulares BCP, adaptación de pre-validación | Daniel | Pendiente |
 | R08 | **Reforma fiscal Paraguay** — Cambio en régimen tributario reduce atractivo | Baja | Alto | Medio | Monitoreo legislativo, diversificación de propuesta de valor | Equipo legal | Pendiente |
-| R09 | **Regulación europea (CRS/exit tax)** — Cambios en reportes o impuestos de salida en EU | Media | Medio | Alto | Monitoreo, comunicación clara de que LEALTIS no asesora en jurisdicción europea | Socio EU | Pendiente |
-| R10 | **Obligaciones SEPRELAD** — LEALTIS clasificada como sujeto obligado AML | Baja | Medio | Bajo | Verificar con asesor legal, implementar compliance proactivo | Equipo legal | Pendiente |
+| R09 | **Regulación europea (CRS/exit tax)** — Cambios en reportes o impuestos de salida en EU | Media | Medio | Alto | Monitoreo, comunicación clara de que [NOMBRE DE EMPRESA] no asesora en jurisdicción europea | Socio EU | Pendiente |
+| R10 | **Obligaciones SEPRELAD** — [NOMBRE DE EMPRESA] clasificada como sujeto obligado AML | Baja | Medio | Bajo | Verificar con asesor legal, implementar compliance proactivo | Equipo legal | Pendiente |
 
 ### Riesgos reputacionales
 
 | ID | Riesgo | Prob. | Impacto | Nivel | Estrategia de mitigación | Owner | Estado |
 |----|--------|:-----:|:-------:|:-----:|--------------------------|-------|:------:|
 | R11 | **Insatisfacción de cliente** — Cliente tiene experiencia negativa y lo comunica públicamente | Media | Alto | **Alto** | SLAs claros, comunicación proactiva, encuesta NPS, protocolo de resolución | Ambos socios | Pendiente |
-| R12 | **Asociación con mercado gris** — Percepción de que LEALTIS facilita actividades cuestionables | Baja | Alto | Medio | Política de compliance estricta, messaging cuidadoso, screening de clientes | Ambos socios | Pendiente |
+| R12 | **Asociación con mercado gris** — Percepción de que [NOMBRE DE EMPRESA] facilita actividades cuestionables | Baja | Alto | Medio | Política de compliance estricta, messaging cuidadoso, screening de clientes | Ambos socios | Pendiente |
 | R13 | **Comportamiento de competidores** — Otro operador genera escándalo que daña al sector | Media | Medio | Alto | Posicionamiento diferenciado, transparencia activa | Socio EU | Activo |
 
 ### Riesgos financieros

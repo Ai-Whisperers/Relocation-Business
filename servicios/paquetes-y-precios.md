@@ -1,4 +1,4 @@
-# Paquetes y Precios — LEALTIS
+# Paquetes y Precios — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -34,7 +34,7 @@ Diseñado para el empresario o profesional europeo que necesita establecerse ope
 
 ### Paraguay Investor Program — USD 6.900
 
-El programa más completo de LEALTIS. Para el inversor, empresario o familia de alto patrimonio que busca un socio estratégico durante todo el primer año en Paraguay.
+El programa más completo de [NOMBRE DE EMPRESA]. Para el inversor, empresario o familia de alto patrimonio que busca un socio estratégico durante todo el primer año en Paraguay.
 
 **Incluye todo lo del Paraguay Business, más:**
 
@@ -49,7 +49,7 @@ El programa más completo de LEALTIS. Para el inversor, empresario o familia de 
 | 7 | Estructuración fiscal estratégica | 12 meses |
 | 8 | Análisis de inversiones y proyectos | 12 meses |
 | 9 | Evaluación técnica de oportunidades inmobiliarias y productivas | 12 meses |
-| 10 | Acceso directo al equipo LEALTIS para decisiones estratégicas | 12 meses |
+| 10 | Acceso directo al equipo [NOMBRE DE EMPRESA] para decisiones estratégicas | 12 meses |
 
 ---
 
@@ -87,7 +87,7 @@ El programa más completo de LEALTIS. Para el inversor, empresario o familia de 
 | Concepto | Observación |
 |----------|-------------|
 | Vuelos internacionales | A cargo del cliente |
-| Alojamiento en Paraguay | A cargo del cliente (LEALTIS puede coordinar recomendaciones) |
+| Alojamiento en Paraguay | A cargo del cliente ([NOMBRE DE EMPRESA] puede coordinar recomendaciones) |
 | Gastos personales durante la estadía | Alimentación, turismo, compras personales |
 | Traducciones juradas de documentos | Cuando sean requeridas desde país de origen |
 | Apostillas en país de origen | A gestionar por el cliente antes del viaje |
@@ -107,4 +107,4 @@ El precio de cada programa cubre no solo los trámites, sino la **infraestructur
 
 ---
 
-*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`.*
+*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`.*

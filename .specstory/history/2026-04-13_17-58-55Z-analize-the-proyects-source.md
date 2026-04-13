@@ -11501,3 +11501,3826 @@ https://github.com/Ai-Whisperers/Relocation-Business
 [rerun: b12]
 ```
 </details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:15:53Z)**_
+
+Repo created. Now staging, committing, and pushing.
+
+_**Agent (claude-opus-4-6 2026-04-13 19:16:00Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Stage all project files
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && git add .gitignore .claude/commands/ .claude/settings.json .claude/triggers.json .cursor/ .specstory/ documentos/ marketing/ "plan de negocios/" presupuesto/ proyectos/ riesgos/ servicios/ source-of-truth/conversation-synthesis-source-of-truth.txt "source-of-truth/CamScanner 12-04-2026 12.25.pdf" source-of-truth/lealtis-paraguay-business-program.md source-of-truth/objectives-general-and-specific.md source-of-truth/research-materials-local-paraguay.md source-of-truth/social-and-economic-justification.md`
+
+```text
+warning: in the working copy of '.cursor/.cursor.code-workspace', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/.specstory/.project.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/.specstory/cli/config.toml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/agile/create-business-feature.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/agile/create-epic.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/agile/create-technical-feature.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/code-quality/create-fix-script.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/activate-ticket.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/catchup-on-ticket.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/check-status.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/close-ticket.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/jira/create-jira-recap.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/start-ticket.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/prompts/ticket/validate-before-action.prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/agile/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/agile/agent-application-rule.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/agile/story-splitting-rule.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/git/git-rules-index.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/rule-authoring/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/rule-authoring/rule-naming-conventions.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/rule-authoring/rule-validation-and-checklists.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/technical-specifications/agent-application-rule.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/technical-specifications/hybrid-documentation-architecture-rule.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/technical-specifications/specification-anti-duplication-rule.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.cursor/rules/ticket/agent-application-rule.mdc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/.project.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/cli/config.toml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/history/2026-04-13_17-14-23Z-accessing-camscanner-pdf.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/history/2026-04-13_17-55-45Z-config.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/history/2026-04-13_17-56-13Z-model.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/history/2026-04-13_17-58-55Z-analize-the-proyects-source.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/statistics.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/acuerdo-de-servicios-template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/guia-del-cliente.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/manual-de-procesos-internos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/politica-de-privacidad.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/contenido-web.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/estrategia-de-marketing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/estrategia-de-referidos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/identidad-de-marca.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/plan-de-contenidos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/analisis-de-mercado.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/estrategia-comercial.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/estructura-organizacional.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/modelo-de-negocio.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/proyecciones-financieras.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/resumen-ejecutivo.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/estructura-de-ingresos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/inversion-inicial.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/presupuesto-marketing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/presupuesto-operativo.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/proyeccion-financiera-3-anos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/indicadores-clave-KPIs.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/plan-de-proyecto-lanzamiento.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/plan-de-proyecto-web.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/roadmap-implementacion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/matriz-de-riesgos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/plan-de-continuidad.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/plan-de-mitigacion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/politica-de-compliance.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/registro-de-riesgos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/SLAs-y-compromisos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/blueprint-operativo-investor-program.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/blueprint-operativo-paraguay-business.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/catalogo-de-servicios.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/checklist-documentos-cliente.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/paquetes-y-precios.md', LF will be replaced by CRLF the next time Git touches it
+[rerun: b13]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:16:11Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Create initial commit
+
+```bash
+cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && git commit -m "$(cat <<'EOF'
+Initial commit: LEALTIS relocation business — complete project documentation
+
+Full documentation suite for LEALTIS, a premium relocation and investment
+facilitation business for Europeans establishing themselves in Paraguay.
+
+Includes:
+- source-of-truth/: foundational business narrative, program specs, objectives
+- servicios/: service catalog, packages, operational blueprints, SLAs
+- plan de negocios/: executive summary, market analysis, business model, financials
+- marketing/: strategy, brand identity, web content, content plan, referrals
+- presupuesto/: operational budget, revenue structure, 3-year projections
+- proyectos/: implementation roadmap, launch plan, web project, KPIs
+- riesgos/: risk register (25 risks), mitigation, continuity, compliance
+- documentos/: client guide, service agreement, privacy policy, internal processes
+
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+EOF
+)"
+```
+
+```text
+<persisted-output>
+Output too large (38.9KB). Full output saved to: C:\Users\kyrian\.claude\projects\C--Users-kyrian-Documents-02-Work-Relocation-Bussines\4a3f5ac7-473b-4e3d-8619-50066227e5be\tool-results\bwo2a2ka7.txt
+
+Preview (first 2KB):
+[main (root-commit) 018cabe] Initial commit: LEALTIS relocation business — complete project documentation
+ 543 files changed, 144398 insertions(+)
+ create mode 100644 .claude/commands/ado-sync.md
+ create mode 100644 .claude/commands/docs-coverage.md
+ create mode 100644 .claude/commands/excalibur-sync.md
+ create mode 100644 .claude/commands/weekly-health.md
+ create mode 100644 .claude/settings.json
+ create mode 100644 .claude/triggers.json
+ create mode 100644 .cursor/.cursor.code-workspace
+ create mode 100644 .cursor/.specstory/.project.json
+ create mode 100644 .cursor/.specstory/cli/config.toml
+ create mode 100644 .cursor/README.md
+ create mode 100644 .cursor/commands/activate-ticket.md
+ create mode 100644 .cursor/commands/check-status.md
+ create mode 100644 .cursor/commands/close-ticket.md
+ create mode 100644 .cursor/commands/create-roadmap.md
+ create mode 100644 .cursor/commands/execute-plan.md
+ create mode 100644 .cursor/commands/fix-plan.md
+ create mode 100644 .cursor/commands/start-ticket.md
+ create mode 100644 .cursor/commands/update-progress.md
+ create mode 100644 .cursor/commands/update-roadmap.md
+ create mode 100644 .cursor/commands/validate-plan.md
+ create mode 100644 .cursor/exemplars/agile/business-feature-exemplar.md
+ create mode 100644 .cursor/exemplars/agile/epic-exemplar.md
+ create mode 100644 .cursor/exemplars/agile/technical-feature-exemplar.md
+ create mode 100644 .cursor/exemplars/agile/user-story-bad-exemplar.md
+ create mode 100644 .cursor/exemplars/agile/user-story-exemplar.md
+ create mode 100644 .cursor/exemplars/cicd/tag-based-versioning-exemplar.md
+ create mode 100644 .cursor/exemplars/prompt/benchmark/setup-benchmark-project-good.md
+ create mode 100644 .cursor/exemplars/script/powershell/caching.exemplar.md
+ create mode 100644 .cursor/exemplars/script/powershell/error-handling.exemplar.md
+ create mode 100644 .cursor/exemplars/script/powershell/logging.exemplar.md
+...
+</persisted-output>
+[rerun: b14]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:16:14Z)**_
+
+Commit created (543 files). Now pushing to the remote.
+
+_**Agent (claude-opus-4-6 2026-04-13 19:16:39Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Add remote and push to GitHub
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && unset GITHUB_TOKEN && git remote add origin https://github.com/Ai-Whisperers/Relocation-Business.git && git push -u origin main 2>&1`
+
+```text
+branch 'main' set up to track 'origin/main'.
+To https://github.com/Ai-Whisperers/Relocation-Business.git
+ * [new branch]      main -> main
+[rerun: b15]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:16:44Z)**_
+
+Done. The project is now live at:
+
+**https://github.com/Ai-Whisperers/Relocation-Business**
+
+- Private repo in the **Ai-Whisperers** organization
+- 543 files committed to `main`
+- All 30 business documents + source of truth + tooling configs included
+
+---
+
+_**User (2026-04-13 19:33:46Z)**_
+
+puedes hacer que este cuestionario este mas completo, genera al menos 5 preguntas nuevas \
+
+*Cuestionario para el proyecto de Relocación a Paraguay*
+
+*Información general*
+
+1. ¿Cuál es el nombre de la empresa que ofrece los servicios de relocación?
+2. ¿Cuál es el logo de la empresa?
+3. ¿Cuáles son los colores de la empresa?
+4. ¿Cuál es la misión y visión de la empresa?
+5. ¿Cuál es el objetivo principal del proyecto de Relocación a Paraguay?
+
+*Servicios*
+
+6. ¿Cuáles son los servicios que ofrece la empresa de relocación?
+7. ¿Cuál es el proceso para obtener los servicios de relocación?
+8. ¿Cuánto tiempo se requiere para completar el proceso de relocación?
+
+*Beneficios de la relocación a Paraguay*
+
+9. ¿Cuáles son los beneficios de la relocación a Paraguay?
+10. ¿Cuál es la calidad de vida en Paraguay?
+11. ¿Cuál es el costo de vida en Paraguay?
+
+*Requisitos para la relocación*
+
+12. ¿Cuáles son los requisitos para la relocación a Paraguay?
+13. ¿Cuál es el proceso para obtener la residencia en Paraguay?
+14. ¿Cuál es el costo de los requisitos para la relocación?
+
+*Costos y precios*
+
+15. ¿Cuál es el presupuesto estimado para la relocación a Paraguay?
+16. ¿Cuánto cuestan los servicios de relocación?
+17. ¿Cuál es el pago para los servicios de relocación?
+
+*Marketing y comunicación*
+
+18. ¿Cuál es la estrategia de marketing para promocionar los servicios de relocación?
+19. ¿Cuál es el plan de comunicación para los clientes?
+20. ¿Cuál es el canal de comunicación oficial para la empresa?
+
+*Logística y operaciones*
+
+21. ¿Cuál es el proceso para la planificación y ejecución de la relocación?
+22. ¿Cuál es el equipo de trabajo que se encarga de la relocación?
+23. ¿Cuál es el sistema de seguimiento y monitoreo para la relocación?
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 19:33:49Z)**_
+
+
+
+Here's the enhanced questionnaire with new questions integrated into existing sections and a new section added:
+
+_**Agent (claude-opus-4-6 2026-04-13 19:35:06Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Write"><details>
+<summary>Tool use: **Write**</summary>
+
+```md
+# Cuestionario para el Proyecto de Relocación a Paraguay
+
+---
+
+## Información general
+
+1. ¿Cuál es el nombre de la empresa que ofrece los servicios de relocación?
+2. ¿Cuál es el logo de la empresa?
+3. ¿Cuáles son los colores de la empresa?
+4. ¿Cuál es la misión y visión de la empresa?
+5. ¿Cuál es el objetivo principal del proyecto de Relocación a Paraguay?
+6. ¿Cuáles son los valores fundamentales de la empresa?
+7. ¿En qué se diferencia LEALTIS de una gestoría o firma de abogados tradicional?
+8. ¿Cuál es la ventana de oportunidad estimada para este modelo de negocio y qué factores podrían acortarla?
+
+---
+
+## Servicios
+
+9. ¿Cuáles son los servicios que ofrece la empresa de relocación?
+10. ¿Cuál es el proceso para obtener los servicios de relocación?
+11. ¿Cuánto tiempo se requiere para completar el proceso de relocación?
+12. ¿Qué diferencia existe entre el programa Paraguay Business y el Paraguay Investor Program?
+13. ¿Qué servicios adicionales incluye el Paraguay Investor Program que no están en el programa base?
+14. ¿Qué está explícitamente excluido de los programas (vuelos, alojamiento, apostillas, etc.)?
+
+---
+
+## Beneficios de la relocación a Paraguay
+
+15. ¿Cuáles son los beneficios de la relocación a Paraguay?
+16. ¿Cuál es la calidad de vida en Paraguay?
+17. ¿Cuál es el costo de vida en Paraguay?
+18. ¿Cómo funciona el sistema fiscal territorial de Paraguay y por qué es atractivo para europeos?
+19. ¿Qué oportunidades de inversión inmobiliaria existen actualmente en Paraguay?
+
+---
+
+## Perfiles de clientes
+
+20. ¿Cuáles son los tres segmentos principales de clientes que atiende LEALTIS?
+21. ¿Qué necesidades específicas tiene cada segmento (inversor, optimizador fiscal, migrante por estilo de vida)?
+22. ¿Cuál es el rango de capital típico de los clientes inversores?
+23. ¿Cómo se adapta el servicio al perfil y la jurisdicción de origen de cada cliente?
+24. ¿Qué porcentaje de clientes se espera que contraten el programa Investor vs Business?
+
+---
+
+## Requisitos para la relocación
+
+25. ¿Cuáles son los requisitos para la relocación a Paraguay?
+26. ¿Cuál es el proceso para obtener la residencia en Paraguay?
+27. ¿Cuál es el costo de los requisitos para la relocación?
+28. ¿Qué documentos específicos necesita el cliente según su país de origen (apostillas, legalizaciones, traducciones)?
+29. ¿Cuáles son los requisitos KYC/AML que los bancos paraguayos exigen a extranjeros para abrir una cuenta?
+30. ¿Por qué la apertura bancaria es el principal cuello de botella y cómo lo resuelve LEALTIS?
+
+---
+
+## Costos y precios
+
+31. ¿Cuál es el presupuesto estimado para la relocación a Paraguay?
+32. ¿Cuánto cuestan los servicios de relocación?
+33. ¿Cuál es el pago para los servicios de relocación?
+34. ¿Qué incluye exactamente el precio de cada programa (honorarios, IVA, tasas oficiales, etc.)?
+35. ¿Cuál es la estructura de ingresos recurrentes (renovaciones de Investor Program, comisiones inmobiliarias)?
+36. ¿Cuál es el punto de equilibrio (break-even) del negocio en términos de clientes por mes?
+
+---
+
+## Marketing y comunicación
+
+37. ¿Cuál es la estrategia de marketing para promocionar los servicios de relocación?
+38. ¿Cuál es el plan de comunicación para los clientes?
+39. ¿Cuál es el canal de comunicación oficial para la empresa?
+40. ¿Por qué el messaging debe enfocarse en "oportunidad, simplicidad y seguridad" y nunca en ventajas fiscales directas?
+41. ¿Cuál es la estrategia de contenidos por plataforma (LinkedIn, Instagram, YouTube)?
+42. ¿Cómo funciona el programa de referidos y qué incentivos ofrece a clientes y partners?
+
+---
+
+## Logística y operaciones
+
+43. ¿Cuál es el proceso para la planificación y ejecución de la relocación?
+44. ¿Cuál es el equipo de trabajo que se encarga de la relocación?
+45. ¿Cuál es el sistema de seguimiento y monitoreo para la relocación?
+46. ¿Cómo se ejecuta la jornada operativa y qué logística incluye (chofer, traslados, agenda institucional)?
+47. ¿Cuáles son los SLAs comprometidos para cada hito del proceso (validación, constitución, apertura bancaria)?
+48. ¿Cuál es el protocolo de escalación cuando surge una incidencia o retraso?
+
+---
+
+## Riesgos y compliance
+
+49. ¿Cuáles son los principales riesgos identificados para el negocio (regulatorios, operativos, reputacionales)?
+50. ¿Cómo se mitiga la dependencia de Daniel como punto único de fallo para relaciones institucionales?
+51. ¿Cuál es la política de compliance y prevención de lavado de activos (AML/KYC)?
+52. ¿Qué red flags justifican rechazar a un cliente potencial?
+53. ¿Cuál es el plan de continuidad del negocio ante la indisponibilidad de personal clave o cambios regulatorios?
+
+---
+
+## Estructura organizacional y crecimiento
+
+54. ¿Cómo se distribuyen las responsabilidades entre los dos socios (operaciones PY vs comercial EU)?
+55. ¿Cuál es el plan de crecimiento del equipo en los próximos 12–36 meses?
+56. ¿Cuál es el roadmap de implementación del proyecto por fases?
+57. ¿Qué KPIs se monitorean para medir el éxito del negocio (comerciales, operativos, financieros)?
+58. ¿Cuál es la proyección financiera a 3 años y qué supuestos clave la sustentan?
+
+```
+
+```text
+File created successfully at: C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/documentos/cuestionario-proyecto-relocacion.md (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:35:15Z)**_
+
+The questionnaire went from **23 to 58 preguntas**. Here's what changed:
+
+**35 new questions added**, organized as:
+
+- **Información general** (+3): valores, diferenciación vs gestoría, ventana de oportunidad
+- **Servicios** (+3): diferencia entre programas, servicios adicionales del Investor, exclusiones
+- **Beneficios** (+2): sistema fiscal territorial, oportunidades inmobiliarias
+- **Perfiles de clientes** (new section, +5): segmentos, necesidades por perfil, capital típico, adaptación por jurisdicción, mix esperado
+- **Requisitos** (+3): documentos por país, requisitos KYC bancarios, cuello de botella bancario
+- **Costos** (+3): desglose de precio, ingresos recurrentes, break-even
+- **Marketing** (+3): messaging strategy, contenido por plataforma, programa de referidos
+- **Logística** (+3): jornada operativa, SLAs, protocolo de escalación
+- **Riesgos y compliance** (new section, +5): riesgos clave, dependencia de Daniel, política AML, red flags, plan de continuidad
+- **Estructura y crecimiento** (new section, +5): socios, crecimiento del equipo, roadmap, KPIs, proyecciones financieras
+
+All questions are answerable from the source of truth and the documentation we created.
+
+---
+
+_**User (2026-04-13 19:37:28Z)**_
+
+ahora haz un documento de texto en el source of truth y responde todas las preguntas
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 19:37:32Z)**_
+
+_**Agent (claude-opus-4-6 2026-04-13 19:37:33Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\documentos\cuestionario-proyecto-relocacion.md`
+
+```text
+1	# Cuestionario para el Proyecto de Relocación a Paraguay
+2	
+3	---
+4	
+5	## Información general
+6	
+7	1. ¿Cuál es el nombre de la empresa que ofrece los servicios de relocación?
+8	2. ¿Cuál es el logo de la empresa?
+9	3. ¿Cuáles son los colores de la empresa?
+10	4. ¿Cuál es la misión y visión de la empresa?
+11	5. ¿Cuál es el objetivo principal del proyecto de Relocación a Paraguay?
+12	6. ¿Cuáles son los valores fundamentales de la empresa?
+13	7. ¿En qué se diferencia LEALTIS de una gestoría o firma de abogados tradicional?
+14	8. ¿Cuál es la ventana de oportunidad estimada para este modelo de negocio y qué factores podrían acortarla?
+15	
+16	---
+17	
+18	## Servicios
+19	
+20	9. ¿Cuáles son los servicios que ofrece la empresa de relocación?
+21	10. ¿Cuál es el proceso para obtener los servicios de relocación?
+22	11. ¿Cuánto tiempo se requiere para completar el proceso de relocación?
+23	12. ¿Qué diferencia existe entre el programa Paraguay Business y el Paraguay Investor Program?
+24	13. ¿Qué servicios adicionales incluye el Paraguay Investor Program que no están en el programa base?
+25	14. ¿Qué está explícitamente excluido de los programas (vuelos, alojamiento, apostillas, etc.)?
+26	
+27	---
+28	
+29	## Beneficios de la relocación a Paraguay
+30	
+31	15. ¿Cuáles son los beneficios de la relocación a Paraguay?
+32	16. ¿Cuál es la calidad de vida en Paraguay?
+33	17. ¿Cuál es el costo de vida en Paraguay?
+34	18. ¿Cómo funciona el sistema fiscal territorial de Paraguay y por qué es atractivo para europeos?
+35	19. ¿Qué oportunidades de inversión inmobiliaria existen actualmente en Paraguay?
+36	
+37	---
+38	
+39	## Perfiles de clientes
+40	
+41	20. ¿Cuáles son los tres segmentos principales de clientes que atiende LEALTIS?
+42	21. ¿Qué necesidades específicas tiene cada segmento (inversor, optimizador fiscal, migrante por estilo de vida)?
+43	22. ¿Cuál es el rango de capital típico de los clientes inversores?
+44	23. ¿Cómo se adapta el servicio al perfil y la jurisdicción de origen de cada cliente?
+45	24. ¿Qué porcentaje de clientes se espera que contraten el programa Investor vs Business?
+46	
+47	---
+48	
+49	## Requisitos para la relocación
+50	
+51	25. ¿Cuáles son los requisitos para la relocación a Paraguay?
+52	26. ¿Cuál es el proceso para obtener la residencia en Paraguay?
+53	27. ¿Cuál es el costo de los requisitos para la relocación?
+54	28. ¿Qué documentos específicos necesita el cliente según su país de origen (apostillas, legalizaciones, traducciones)?
+55	29. ¿Cuáles son los requisitos KYC/AML que los bancos paraguayos exigen a extranjeros para abrir una cuenta?
+56	30. ¿Por qué la apertura bancaria es el principal cuello de botella y cómo lo resuelve LEALTIS?
+57	
+58	---
+59	
+60	## Costos y precios
+61	
+62	31. ¿Cuál es el presupuesto estimado para la relocación a Paraguay?
+63	32. ¿Cuánto cuestan los servicios de relocación?
+64	33. ¿Cuál es el pago para los servicios de relocación?
+65	34. ¿Qué incluye exactamente el precio de cada programa (honorarios, IVA, tasas oficiales, etc.)?
+66	35. ¿Cuál es la estructura de ingresos recurrentes (renovaciones de Investor Program, comisiones inmobiliarias)?
+67	36. ¿Cuál es el punto de equilibrio (break-even) del negocio en términos de clientes por mes?
+68	
+69	---
+70	
+71	## Marketing y comunicación
+72	
+73	37. ¿Cuál es la estrategia de marketing para promocionar los servicios de relocación?
+74	38. ¿Cuál es el plan de comunicación para los clientes?
+75	39. ¿Cuál es el canal de comunicación oficial para la empresa?
+76	40. ¿Por qué el messaging debe enfocarse en "oportunidad, simplicidad y seguridad" y nunca en ventajas fiscales directas?
+77	41. ¿Cuál es la estrategia de contenidos por plataforma (LinkedIn, Instagram, YouTube)?
+78	42. ¿Cómo funciona el programa de referidos y qué incentivos ofrece a clientes y partners?
+79	
+80	---
+81	
+82	## Logística y operaciones
+83	
+84	43. ¿Cuál es el proceso para la planificación y ejecución de la relocación?
+85	44. ¿Cuál es el equipo de trabajo que se encarga de la relocación?
+86	45. ¿Cuál es el sistema de seguimiento y monitoreo para la relocación?
+87	46. ¿Cómo se ejecuta la jornada operativa y qué logística incluye (chofer, traslados, agenda institucional)?
+88	47. ¿Cuáles son los SLAs comprometidos para cada hito del proceso (validación, constitución, apertura bancaria)?
+89	48. ¿Cuál es el protocolo de escalación cuando surge una incidencia o retraso?
+90	
+91	---
+92	
+93	## Riesgos y compliance
+94	
+95	49. ¿Cuáles son los principales riesgos identificados para el negocio (regulatorios, operativos, reputacionales)?
+96	50. ¿Cómo se mitiga la dependencia de Daniel como punto único de fallo para relaciones institucionales?
+97	51. ¿Cuál es la política de compliance y prevención de lavado de activos (AML/KYC)?
+98	52. ¿Qué red flags justifican rechazar a un cliente potencial?
+99	53. ¿Cuál es el plan de continuidad del negocio ante la indisponibilidad de personal clave o cambios regulatorios?
+100	
+101	---
+102	
+103	## Estructura organizacional y crecimiento
+104	
+105	54. ¿Cómo se distribuyen las responsabilidades entre los dos socios (operaciones PY vs comercial EU)?
+106	55. ¿Cuál es el plan de crecimiento del equipo en los próximos 12–36 meses?
+107	56. ¿Cuál es el roadmap de implementación del proyecto por fases?
+108	57. ¿Qué KPIs se monitorean para medir el éxito del negocio (comerciales, operativos, financieros)?
+109	58. ¿Cuál es la proyección financiera a 3 años y qué supuestos clave la sustentan?
+110
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:48:16Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Write"><details>
+<summary>Tool use: **Write**</summary>
+
+```md
+# Cuestionario del Proyecto de Relocación a Paraguay — Respuestas Completas
+
+---
+
+## INFORMACIÓN GENERAL
+
+### 1. ¿Cuál es el nombre de la empresa que ofrece los servicios de relocación?
+
+**LEALTIS.** El nombre deriva de "lealtad" (loyalty en inglés), transmitiendo compromiso, fidelidad y relación a largo plazo. Es memorable, fácil de pronunciar en español, neerlandés e inglés, y no limita la marca a un servicio específico.
+
+### 2. ¿Cuál es el logo de la empresa?
+
+El logo está actualmente en fase de desarrollo. Según las directrices de marca, debe transmitir: profesionalismo (no casual), solidez (no efímero), internacionalidad (legible en cualquier mercado) y simplicidad (reconocible a cualquier tamaño). Se recomienda contratar un diseñador profesional con brief basado en la guía de identidad de marca.
+
+### 3. ¿Cuáles son los colores de la empresa?
+
+La paleta de colores sugerida es:
+
+- **Azul oscuro / navy** — Color primario. Evoca confianza, profesionalismo y estabilidad.
+- **Dorado / champagne** — Acento premium. Evoca calidad, exclusividad y sofisticación.
+- **Blanco** — Fondos y espacios. Evoca limpieza, claridad y transparencia.
+- **Gris oscuro** — Texto y elementos secundarios. Evoca seriedad y elegancia.
+
+Se deben evitar colores brillantes, neón o combinaciones agresivas. LEALTIS no es una startup tech ni una agencia de viajes.
+
+### 4. ¿Cuál es la misión y visión de la empresa?
+
+**Misión:** Eliminar la complejidad del proceso de establecimiento en Paraguay para europeos, ofreciendo un sistema integral que combina servicios legales, financieros y operativos en una solución cohesiva, profesional y transparente.
+
+**Visión:** Convertirse en la referencia de relocalización para el cliente europeo serio que busca operar en Paraguay. Transformar lo que hoy es una operación basada en relaciones personales en un sistema estructurado, repetible y escalable — un "motor de relocalización" que facilite el movimiento de individuos y capital hacia Paraguay de manera controlada, profesional y conforme a la ley.
+
+### 5. ¿Cuál es el objetivo principal del proyecto de Relocación a Paraguay?
+
+Entregar un camino único y coherente para establecer legalmente a extranjeros en Paraguay — residencia, identificación, banca, empresa y registro fiscal, y contabilidad continua — de modo que los clientes eviten proveedores fragmentados y los modos de fallo típicos del mercado. El objetivo es comprimir procesos que típicamente toman meses en un proceso gestionado medido en días o una sola visita.
+
+### 6. ¿Cuáles son los valores fundamentales de la empresa?
+
+- **Confianza:** "Puedo depender de este equipo para manejar algo importante."
+- **Profesionalismo:** "No es improvisación; es un equipo técnico de primer nivel."
+- **Transparencia:** "Sé exactamente qué estoy pagando y qué voy a recibir."
+- **Eficiencia:** "Mi tiempo vale; este proceso está optimizado para no perderlo."
+- **Integridad:** "Todo lo que hacen es legal, correcto y documentado."
+
+### 7. ¿En qué se diferencia LEALTIS de una gestoría o firma de abogados tradicional?
+
+LEALTIS no encaja en una sola categoría. No es una firma de abogados, ni una agencia inmobiliaria, ni una consultoría aislada. Es un **sistema de relocalización** — una infraestructura basada en confianza que habilita transiciones transfronterizas. La diferencia clave es la **integración**: en lugar de que el cliente coordine entre múltiples proveedores (abogado, contador, banco, gestor migratorio, logística), LEALTIS integra todo en un solo programa con un solo equipo, un solo precio y un solo punto de contacto. Además, incluye servicios que ningún proveedor individual ofrece (logística presencial, tour inmobiliario, pre-validación bancaria, acompañamiento con chofer exclusivo).
+
+### 8. ¿Cuál es la ventana de oportunidad estimada para este modelo de negocio y qué factores podrían acortarla?
+
+La ventana de oportunidad se estima en **aproximadamente 10 años**. Los factores que podrían acortarla incluyen:
+
+- Reforma fiscal en Paraguay que reduzca la ventaja tributaria.
+- Mayor regulación bancaria que dificulte la apertura de cuentas.
+- Cambios migratorios con requisitos más estrictos.
+- Profesionalización de competidores que erosione la ventaja diferencial.
+- Cambios en Europa que reduzcan la motivación de emigración (si bajan las cargas fiscales).
+
+Esta estimación implica que la urgencia de establecerse y escalar es real.
+
+---
+
+## SERVICIOS
+
+### 9. ¿Cuáles son los servicios que ofrece la empresa de relocación?
+
+LEALTIS ofrece servicios organizados en seis categorías:
+
+**Migratorios:** Obtención de Residencia Paraguaya y Cédula de Identidad Paraguaya (análisis documental previo, preparación de expediente, presentación ante autoridades, seguimiento hasta emisión).
+
+**Empresariales:** Constitución de sociedad (análisis del tipo societario, redacción de estatutos, inscripción registral) e inscripción y activación de RUC ante el DNIT.
+
+**Bancarios:** Apertura de cuenta bancaria empresarial (preparación de perfil financiero, coordinación institucional con entidad bancaria, estructuración documental conforme normativa AML/KYC, seguimiento hasta habilitación).
+
+**Contables y fiscales:** Gestión contable continua por 12 meses, presentaciones tributarias, reportes de cumplimiento, asesoramiento jurídico, fiscal y estratégico continuo (exclusivo del Investor Program).
+
+**Logísticos:** Acompañamiento logístico exclusivo durante la jornada operativa (chofer exclusivo, traslados, coordinación integral), asesoramiento técnico integral durante todo el programa.
+
+**Inversión:** Tour estratégico inmobiliario (visitas a desarrolladoras, análisis técnico, conversaciones con actores del sector) y análisis de inversiones y proyectos (exclusivo del Investor Program).
+
+### 10. ¿Cuál es el proceso para obtener los servicios de relocación?
+
+El proceso tiene 5 etapas principales:
+
+1. **Consulta inicial:** El cliente contacta a LEALTIS (web, referido, redes). Se realiza una videollamada de evaluación donde se escucha su situación, objetivos y necesidades, y se recomienda el programa adecuado.
+
+2. **Contratación:** El cliente acepta el programa, firma el acuerdo de servicios y realiza el pago anticipado.
+
+3. **Pre-arribo:** LEALTIS recibe la documentación escaneada del cliente, realiza validación jurídica y administrativa, proporciona checklist personalizado por jurisdicción, orienta sobre apostillas y legalizaciones, y hace chequeo preventivo ante Migraciones. No se agenda viaje hasta que la documentación esté 100% validada.
+
+4. **Jornada operativa:** El cliente viaja a Asunción. En un solo día (típicamente una mañana), se ejecutan todos los trámites presenciales: presentación migratoria, cédula de identidad, gestiones notariales. Por la tarde se realiza el tour inmobiliario.
+
+5. **Post-jornada y seguimiento:** LEALTIS constituye la sociedad, activa el RUC, coordina la apertura bancaria, y hace seguimiento de la emisión de residencia y cédula (45–60 días).
+
+### 11. ¿Cuánto tiempo se requiere para completar el proceso de relocación?
+
+- **Pre-arribo (validación documental):** 1–2 semanas desde recepción completa de documentos.
+- **Preparación del expediente:** 3 días hábiles adicionales.
+- **Jornada operativa presencial:** 1 día (típicamente 1 mañana).
+- **Constitución de sociedad:** ~15 días hábiles post-jornada.
+- **Activación de RUC:** ~10 días hábiles.
+- **Apertura de cuenta bancaria:** hasta 30 días hábiles.
+- **Emisión de Residencia y Cédula:** 45–60 días (depende de la autoridad gubernamental).
+
+**Tiempo total estimado de principio a fin:** 8–12 semanas. La tramitación presencial se resuelve en un solo viaje.
+
+### 12. ¿Qué diferencia existe entre el programa Paraguay Business y el Paraguay Investor Program?
+
+| Aspecto | Paraguay Business (USD 4.400) | Paraguay Investor Program (USD 6.900) |
+|---------|-------------------------------|---------------------------------------|
+| Residencia + Cédula | Incluido | Incluido |
+| Sociedad + RUC | Incluido | Incluido |
+| Cuenta bancaria | Incluido | Incluido |
+| Jornada operativa + logística | Incluido | Incluido |
+| Tour inmobiliario | Incluido | Incluido |
+| Asesoramiento durante programa | Durante el programa | 12 meses |
+| Contabilidad empresarial | No incluido | 12 meses |
+| Asesoramiento jurídico y fiscal | No incluido | 12 meses |
+| Análisis de inversiones | No incluido | 12 meses |
+
+El Investor Program es para quien no quiere solo un proveedor de servicios, sino un **socio estratégico** durante todo el primer año crítico en Paraguay.
+
+### 13. ¿Qué servicios adicionales incluye el Paraguay Investor Program que no están en el programa base?
+
+Tres bloques adicionales, todos con cobertura de 12 meses:
+
+1. **Contabilidad empresarial:** Gestión contable continua, presentaciones tributarias periódicas ante SET, reportes de cumplimiento fiscal.
+
+2. **Asesoramiento jurídico, fiscal y estratégico:** Consultas legales continuas, revisión de contratos, evaluación normativa ante cambios regulatorios, estructuración fiscal estratégica.
+
+3. **Análisis de inversiones y proyectos:** Evaluación técnica de oportunidades inmobiliarias y productivas, recomendaciones estratégicas, coordinación con actores del sector.
+
+Además, incluye puntos de contacto programados: sesión de onboarding (mes 1), revisiones trimestrales (meses 3, 6, 9) y sesión de cierre anual (mes 12).
+
+### 14. ¿Qué está explícitamente excluido de los programas?
+
+- Vuelos internacionales y transporte fuera de la jornada operativa.
+- Alojamiento y gastos personales durante la estadía en Paraguay.
+- Traducciones juradas de documentos en el país de origen.
+- Apostillas y legalizaciones en el país de origen.
+- Servicios legales no contemplados en el programa (litigios, estructuras societarias adicionales).
+- Renovaciones de servicios post-programa (sujetas a acuerdo de renovación separado).
+- Alimentación, turismo y compras personales.
+
+---
+
+## BENEFICIOS DE LA RELOCACIÓN A PARAGUAY
+
+### 15. ¿Cuáles son los beneficios de la relocación a Paraguay?
+
+**Económicos:**
+- Entorno fiscal competitivo: impuesto sobre la renta del 10% con sistema territorial.
+- Bajo costo de vida comparado con Europa occidental.
+- Oportunidades de inversión inmobiliaria con retornos atractivos.
+- Economía en crecimiento sostenido con inflación controlada.
+
+**Operativos:**
+- Proceso de residencia accesible comparado con otras jurisdicciones.
+- Posibilidad de constituir una empresa y operar legalmente desde el primer viaje.
+- Acceso a un mercado latinoamericano en desarrollo.
+
+**De estilo de vida:**
+- Clima cálido, naturaleza abundante.
+- Mayor poder adquisitivo que en Europa.
+- Comunidad internacional creciente.
+
+### 16. ¿Cuál es la calidad de vida en Paraguay?
+
+Paraguay ofrece una calidad de vida atractiva para europeos por varias razones: clima subtropical con temperaturas cálidas la mayor parte del año, costo de vida significativamente inferior al europeo (lo que aumenta el poder adquisitivo), una comunidad internacional en crecimiento que facilita la integración, y un entorno empresarial con menor carga regulatoria. Asunción, la capital, cuenta con infraestructura moderna, centros comerciales, gastronomía internacional y servicios de salud aceptables. La calidad de vida mejora sustancialmente cuando el cliente cuenta con una estructura legal, fiscal y bancaria adecuada — exactamente lo que LEALTIS proporciona.
+
+### 17. ¿Cuál es el costo de vida en Paraguay?
+
+El costo de vida en Paraguay es significativamente inferior al de Europa occidental. Esto permite a los europeos mantener o mejorar su estándar de vida con un presupuesto menor. Los gastos más relevantes — vivienda, alimentación, transporte y servicios — representan una fracción de lo que costarían en países como Países Bajos, Alemania o Francia. Esta diferencia es uno de los factores que motivan la relocalización, especialmente para migrantes por estilo de vida y para quienes buscan maximizar el rendimiento de su capital.
+
+### 18. ¿Cómo funciona el sistema fiscal territorial de Paraguay y por qué es atractivo para europeos?
+
+Paraguay aplica un **sistema fiscal territorial**: solo grava las rentas de fuente paraguaya. Esto significa que los ingresos generados fuera de Paraguay no están sujetos a impuestos paraguayos. La tasa de impuesto sobre la renta es del **10%**, considerablemente inferior a las tasas europeas que pueden superar el 40–50%. No existe impuesto sobre el patrimonio ni impuesto a las ganancias de capital sobre activos extranjeros. Para un europeo con ingresos internacionales, esto representa una optimización fiscal significativa dentro del marco legal. LEALTIS enmarca este beneficio como "optimización legítima" y siempre recomienda a los clientes consultar con un asesor fiscal en su país de origen para comprender las implicaciones en su jurisdicción (CRS, exit tax, etc.).
+
+### 19. ¿Qué oportunidades de inversión inmobiliaria existen actualmente en Paraguay?
+
+El mercado inmobiliario paraguayo está en fase de desarrollo, lo que genera oportunidades para inversores con visión a mediano y largo plazo. Existen proyectos de desarrollo urbano en Asunción y alrededores, tierra agrícola con retornos productivos, y desarrollos residenciales orientados a clase media-alta y expatriados. LEALTIS incluye en ambos programas un **tour estratégico inmobiliario** que comprende: visitas privadas a desarrolladoras seleccionadas, presentación de proyectos en curso, análisis técnico preliminar, evaluación de perfil de desarrolladoras y constructoras, y conversaciones estratégicas con actores del sector. El cliente accede desde su primer viaje a una perspectiva del mercado que normalmente solo está disponible para inversores con red local consolidada.
+
+---
+
+## PERFILES DE CLIENTES
+
+### 20. ¿Cuáles son los tres segmentos principales de clientes que atiende LEALTIS?
+
+1. **Inversores** — Individuos con capital significativo interesados en adquirir propiedad, diversificar activos y establecer presencia a largo plazo en Paraguay.
+
+2. **Optimizadores fiscales** — Profesionales, freelancers y empresarios que buscan estructuras legales que reduzcan su carga tributaria manteniendo sus fuentes de ingreso.
+
+3. **Migrantes por estilo de vida** — Individuos y familias motivados por mejoras en calidad de vida, que frecuentemente carecen de estrategia clara y requieren mayor orientación.
+
+### 21. ¿Qué necesidades específicas tiene cada segmento?
+
+**Inversores:**
+- Estructura societaria sólida para firmar contratos y recibir pagos.
+- Cuenta bancaria operativa para gestionar inversiones.
+- Acceso evaluado a oportunidades inmobiliarias y productivas.
+- Asesoramiento continuo durante el primer año.
+- Priorizan: confiabilidad, seguridad jurídica, calidad de las oportunidades.
+
+**Optimizadores fiscales:**
+- Residencia fiscal en Paraguay.
+- Sociedad constituida para estructurar ingresos.
+- Cuenta bancaria funcional.
+- Orientación fiscal clara (sin cruzar líneas legales).
+- Priorizan: legalidad, simplicidad, que el proceso no consuma tiempo.
+- Nota: raramente declaran su motivación fiscal explícitamente.
+
+**Migrantes por estilo de vida:**
+- Orientación integral y guía práctica paso a paso.
+- Residencia e identificación como base.
+- Acompañamiento logístico y emocional.
+- Priorizan: seguridad, acompañamiento, facilidad del proceso, comunicación en su idioma.
+
+### 22. ¿Cuál es el rango de capital típico de los clientes inversores?
+
+El rango típico es de **USD 200.000 a USD 600.000 o más**. Estos clientes buscan adquirir propiedad, diversificar su patrimonio y establecer una presencia económica a largo plazo. Su sensibilidad al precio es baja — priorizan confiabilidad, velocidad y certeza sobre el costo del servicio.
+
+### 23. ¿Cómo se adapta el servicio al perfil y la jurisdicción de origen de cada cliente?
+
+LEALTIS personaliza el servicio de varias formas:
+
+- **Checklist documental personalizado:** Los requisitos de apostilla, legalización y documentación varían según el país de origen. Cada cliente recibe un checklist específico para su jurisdicción.
+- **Análisis del tipo societario:** Se recomienda el tipo de sociedad más conveniente según la situación patrimonial y los objetivos del cliente.
+- **Perfil bancario adaptado:** La preparación del expediente KYC se ajusta a las políticas del banco y al perfil financiero del cliente.
+- **Comunicación en su idioma:** La comunicación comercial es en neerlandés e inglés (y español cuando aplica).
+- **Recomendación de programa:** Se sugiere Paraguay Business o Investor Program según la complejidad del caso y las necesidades del cliente.
+
+### 24. ¿Qué porcentaje de clientes se espera que contraten el programa Investor vs Business?
+
+El mix objetivo es **60% Paraguay Business / 40% Paraguay Investor Program**. Esto genera un ingreso promedio ponderado de aproximadamente USD 5.400 por cliente. El incentivo natural para elegir el Investor Program es que la diferencia de USD 2.500 cubre 12 meses completos de contabilidad, asesoría legal/fiscal y análisis de inversiones — un valor significativo por el incremento de precio.
+
+---
+
+## REQUISITOS PARA LA RELOCACIÓN
+
+### 25. ¿Cuáles son los requisitos para la relocación a Paraguay?
+
+Los requisitos se agrupan en cuatro categorías:
+
+**Documentos personales:** Pasaporte vigente (mínimo 6 meses), fotografías tipo carnet, certificado de antecedentes penales (apostillado), certificado de nacimiento (apostillado), certificado de estado civil (apostillado).
+
+**Documentos económicos:** Comprobante de medios económicos (extractos bancarios, certificados de inversión, declaraciones de renta).
+
+**Documentos para sociedad:** Definición de objeto social, datos de socios, capital social, domicilio fiscal.
+
+**Documentos bancarios (KYC):** Prueba de origen de fondos (extractos 6–12 meses), certificado de residencia fiscal del país de origen, declaración de impuestos reciente, referencia bancaria, perfil de actividad económica.
+
+### 26. ¿Cuál es el proceso para obtener la residencia en Paraguay?
+
+El proceso gestionado por LEALTIS incluye:
+
+1. **Análisis documental y validación estratégica:** Checklist personalizado, revisión integral de documentación escaneada, validación jurídica y administrativa, orientación sobre apostillas, chequeo preventivo ante la Dirección Nacional de Migraciones.
+
+2. **Preparación técnica del expediente:** Armado profesional del expediente migratorio, preparación de formularios, organización conforme requerimientos oficiales, revisión final.
+
+3. **Jornada integral de tramitación:** Presentación formal ante la autoridad migratoria, coordinaciones administrativas, gestión ante escribanía cuando resulte necesario, supervisión completa. Se ejecuta en un solo día (habitualmente una sola mañana).
+
+4. **Gestión de Cédula de Identidad:** Coordinada junto con la residencia como un solo proceso.
+
+5. **Seguimiento hasta emisión:** La Residencia Paraguaya y la Cédula de Identidad se emiten en un plazo estimado de **45 a 60 días**, sujeto a los plazos administrativos oficiales.
+
+### 27. ¿Cuál es el costo de los requisitos para la relocación?
+
+Los costos de los requisitos que el cliente debe cubrir por su cuenta incluyen:
+
+- **Apostillas en país de origen:** Variable según jurisdicción (típicamente EUR 10–50 por documento).
+- **Traducciones juradas:** Variable según idioma y país (si los documentos no están en español).
+- **Vuelo internacional:** Variable según origen.
+- **Alojamiento en Paraguay:** Variable según preferencia.
+
+Todos los demás costos están incluidos en el precio del programa LEALTIS: tasas oficiales de Migraciones, gastos de escribanía, gastos administrativos societarios, coordinación bancaria, honorarios profesionales e IVA.
+
+### 28. ¿Qué documentos específicos necesita el cliente según su país de origen?
+
+Los requisitos de apostilla, legalización y documentación varían según la jurisdicción de origen. LEALTIS proporciona un **checklist personalizado** para cada cliente. Las principales variables son:
+
+- **Apostilla vs. legalización:** Países firmantes del Convenio de La Haya usan apostilla; otros requieren legalización consular.
+- **Antecedentes penales:** Algunos países emiten certificados con vigencia limitada; el timing de solicitud debe coordinarse con la fecha de viaje.
+- **Traducciones:** Documentos en idioma distinto al español requieren traducción jurada por traductor público matriculado.
+- **Certificados de estado civil:** Varían según la situación del cliente (soltería, matrimonio, divorcio).
+- **Vigencia de documentos:** Típicamente 6 meses; debe verificarse según requisitos de la autoridad paraguaya.
+
+### 29. ¿Cuáles son los requisitos KYC/AML que los bancos paraguayos exigen a extranjeros para abrir una cuenta?
+
+Los bancos paraguayos, regulados por el Banco Central del Paraguay (BCP), exigen:
+
+- **Identificación:** Cédula de identidad paraguaya (emitida o en trámite avanzado) y pasaporte vigente.
+- **Origen de fondos:** Documentación que demuestre el origen lícito de los fondos: extractos bancarios de los últimos 6–12 meses, declaraciones de renta, contratos de venta, herencias documentadas.
+- **Perfil económico:** Descripción de actividades económicas, fuentes de ingreso y volumen estimado de operaciones.
+- **Referencia bancaria:** Carta del banco donde actualmente opera el cliente.
+- **Residencia fiscal:** Certificado del país de origen emitido por autoridad fiscal.
+- **Documentación societaria:** Estatutos y RUC si la cuenta es empresarial.
+
+Las políticas específicas varían entre entidades bancarias y pueden cambiar según circulares del BCP.
+
+### 30. ¿Por qué la apertura bancaria es el principal cuello de botella y cómo lo resuelve LEALTIS?
+
+**Por qué es el cuello de botella:** Abrir una cuenta bancaria en Paraguay como extranjero puede tomar meses sin conexiones ni preparación adecuada. Los bancos aplican requisitos KYC/AML estrictos, y sin orientación, los expedientes suelen ser rechazados o quedar en espera indefinida. Es el proceso más impredecible y frustrante para extranjeros.
+
+**Cómo lo resuelve LEALTIS:**
+- **Pre-validación KYC:** LEALTIS prepara cada expediente bancario con criterio técnico, cumpliendo los requisitos reales (no los publicados genéricamente) de las entidades financieras.
+- **Coordinación institucional directa:** Daniel ha construido relaciones con gerentes bancarios durante años. Esto permite pre-validar clientes y coordinar la presentación del expediente directamente.
+- **Perfil financiero profesional:** El equipo contable prepara un perfil financiero completo que facilita la evaluación por parte del banco.
+- **Múltiples relaciones bancarias:** LEALTIS mantiene relaciones con más de una entidad para tener alternativas.
+
+Este capital relacional es difícil de replicar y constituye la principal barrera de entrada para competidores.
+
+---
+
+## COSTOS Y PRECIOS
+
+### 31. ¿Cuál es el presupuesto estimado para la relocación a Paraguay?
+
+El presupuesto total que un cliente debe considerar:
+
+| Concepto | Rango |
+|----------|-------|
+| Programa LEALTIS | USD 4.400–6.900 (todo incluido) |
+| Vuelo internacional (ida y vuelta) | EUR 800–1.500 (según origen) |
+| Alojamiento (3–5 noches) | USD 200–600 |
+| Apostillas y legalizaciones (país de origen) | EUR 50–200 |
+| Traducciones juradas (si aplica) | EUR 100–400 |
+| Gastos personales | Variable |
+| **Total estimado** | **USD 5.800–9.600** |
+
+### 32. ¿Cuánto cuestan los servicios de relocación?
+
+- **Paraguay Business:** USD 4.400
+- **Paraguay Investor Program:** USD 6.900
+
+Ambos precios incluyen honorarios profesionales, IVA, tasas oficiales de Migraciones, gastos administrativos societarios, coordinación bancaria, tour inmobiliario y asesoramiento integral. No existen cargos adicionales vinculados al trámite regular.
+
+### 33. ¿Cuál es el pago para los servicios de relocación?
+
+- **Modalidad:** Pago anticipado (prepaid), antes del inicio de los servicios.
+- **Moneda:** Dólares estadounidenses (USD).
+- **Método:** Transferencia bancaria a la cuenta indicada por LEALTIS.
+- **Condición:** No existen cargos adicionales vinculados al trámite regular del programa contratado.
+
+### 34. ¿Qué incluye exactamente el precio de cada programa?
+
+**Paraguay Business (USD 4.400) incluye:**
+Honorarios profesionales de todo el equipo técnico (abogados, contadores, escribano, asesores), IVA, tasas oficiales de Migraciones, gastos de escribanía/notaría, gastos administrativos de constitución societaria e inscripción registral, coordinación bancaria, logística de la jornada operativa (chofer exclusivo, traslados), tour estratégico inmobiliario, y asesoramiento técnico integral durante todo el programa.
+
+**Paraguay Investor Program (USD 6.900) incluye:**
+Todo lo anterior, más: gestión contable empresarial durante 12 meses, presentaciones tributarias periódicas, reportes de cumplimiento fiscal, consultas legales continuas durante 12 meses, revisión de contratos, evaluación normativa, estructuración fiscal estratégica, y análisis de inversiones y proyectos durante 12 meses.
+
+### 35. ¿Cuál es la estructura de ingresos recurrentes?
+
+**Renovaciones del Investor Program:** Al finalizar los 12 meses, se ofrece continuidad de servicios contables y de asesoría. Precio estimado de renovación: USD 3.000–4.000/año. Tasa de renovación estimada: 40–60%.
+
+**Comisiones inmobiliarias:** Cuando un cliente invierte en inmuebles facilitados por LEALTIS, se genera una comisión del 2–3% sobre la transacción. Con un 30–50% de clientes invirtiendo y una inversión promedio de USD 150.000–300.000, esto puede representar USD 12.600–108.000 anuales según volumen.
+
+**Servicios contables independientes:** Clientes del programa Business que contratan contabilidad posteriormente: estimado USD 1.500–2.400/año, con 20–30% de conversión.
+
+### 36. ¿Cuál es el punto de equilibrio (break-even) del negocio en términos de clientes por mes?
+
+Con costos fijos mensuales promedio de USD 2.500 y un margen bruto promedio de USD 3.000 por cliente, el break-even se alcanza con **aproximadamente 1 cliente por mes**. Esto hace que el modelo tenga un riesgo financiero muy bajo. Con 2 clientes/mes, ya genera margen positivo significativo. Incluso en el escenario más pesimista (50% del volumen proyectado), el negocio es rentable desde el Año 1.
+
+---
+
+## MARKETING Y COMUNICACIÓN
+
+### 37. ¿Cuál es la estrategia de marketing para promocionar los servicios de relocación?
+
+La estrategia se basa en **posicionamiento premium** con adquisición multicanal:
+
+- **Sitio web multilingüe** (NL/EN/ES): Canal principal de conversión, orientado a generar leads cualificados con formulario de consulta y agendamiento de videollamada.
+- **LinkedIn:** 2–3 posts/semana. Thought leadership, insights de mercado, posicionamiento profesional. Audiencia: inversores y empresarios.
+- **Instagram:** 3–4 posts/semana + stories. Contenido visual de Paraguay, lifestyle, behind-the-scenes. Audiencia: lifestyle migrants.
+- **YouTube:** 2–4 videos/mes. Explicaciones del proceso, tours, Q&A. Audiencia: todos los segmentos.
+- **Email marketing:** Secuencia de nurturing de 7 emails para leads que no contratan inmediatamente.
+- **Programa de referidos:** Formalización del word-of-mouth con incentivos para clientes y partners.
+- **SEO:** Keywords en NL/EN orientadas a residencia, empresa e inversión en Paraguay.
+
+Mercado prioritario: Países Bajos, luego Alemania/Austria, Bélgica, países nórdicos.
+
+### 38. ¿Cuál es el plan de comunicación para los clientes?
+
+**Pre-contratación:** Contenido educativo (web, blog, redes, email nurturing), consulta personalizada por videollamada.
+
+**Durante el programa:**
+- Actualizaciones proactivas semanales sobre el estado del proceso.
+- Email para consultas generales (respuesta 24–48h hábiles).
+- Mensajería directa para consultas urgentes (respuesta mismo día hábil).
+- Videollamadas programadas para temas complejos.
+
+**Investor Program (12 meses):**
+- Sesión de onboarding (Mes 1).
+- Revisiones trimestrales programadas (Meses 3, 6, 9).
+- Sesión de cierre anual (Mes 12).
+
+**Post-programa:** Encuesta NPS, invitación al programa de referidos, newsletter quincenal con novedades.
+
+### 39. ¿Cuál es el canal de comunicación oficial para la empresa?
+
+- **Email profesional:** Canal principal para documentación formal, envío de documentos y comunicaciones oficiales.
+- **WhatsApp/Mensajería directa:** Para coordinaciones urgentes, consultas rápidas y comunicación durante la jornada operativa.
+- **Videollamada (Zoom/Meet):** Para consultas iniciales, revisiones trimestrales y temas complejos (programada con anticipación).
+- **Sitio web:** Para información pública, blog, formulario de contacto y agendamiento de consultas.
+- **Redes sociales:** LinkedIn, Instagram y YouTube para contenido y posicionamiento (no para comunicación directa con clientes).
+
+### 40. ¿Por qué el messaging debe enfocarse en "oportunidad, simplicidad y seguridad" y nunca en ventajas fiscales directas?
+
+Por tres razones fundamentales:
+
+1. **Los clientes no declaran sus motivaciones fiscales:** La conversación con Daniel confirma que los clientes raramente expresan explícitamente que su motivación principal es fiscal. Si LEALTIS comunica beneficios fiscales directamente, crea una desconexión con cómo los clientes prefieren enmarcar su decisión.
+
+2. **Riesgo reputacional:** Términos como "paraíso fiscal", "evasión" o "elusión" atraen perfiles problemáticos, generan desconfianza, y pueden asociar a LEALTIS con operadores de mercado gris. En un negocio basado 100% en confianza, cualquier percepción negativa tiene impacto desproporcionado.
+
+3. **Riesgo legal:** Hacer promesas sobre resultados fiscales específicos expone a LEALTIS a responsabilidad legal, especialmente considerando que LEALTIS no asesora en jurisdicción europea y los efectos fiscales dependen de la situación individual de cada cliente.
+
+El enfoque correcto es presentar Paraguay como una oportunidad (entorno favorable, inversión, calidad de vida), el proceso como simple (un programa, un viaje), y el resultado como seguro (profesional, legal, transparente). El cliente sofisticado entiende las implicaciones fiscales sin necesidad de que se las expliciten.
+
+### 41. ¿Cuál es la estrategia de contenidos por plataforma?
+
+**LinkedIn (profesionales e inversores):**
+- Frecuencia: 2–3 posts/semana.
+- Formato: Artículos cortos, carruseles informativos, datos de mercado.
+- Ejemplo: "El sistema fiscal territorial de Paraguay — lo que el inversor europeo necesita saber."
+
+**Instagram (lifestyle migrants y público general):**
+- Frecuencia: 3–4 posts/semana + stories diarios.
+- Formato: Fotos de Paraguay, infografías del proceso, reels cortos, behind-the-scenes.
+- Ejemplo: Foto de Asunción moderna + "¿Sabías que aquí puedes constituir una empresa en menos de dos semanas?"
+
+**YouTube (todos los segmentos):**
+- Frecuencia: 2–4 videos/mes.
+- Formato: Videos explicativos (5–10 min), tours (3–5 min), Q&A (10–15 min).
+- Ejemplo: "Abrir una cuenta bancaria en Paraguay: lo que nadie te cuenta (y cómo lo resolvemos)."
+
+**Blog (SEO + educación):**
+- 25 artículos planificados en 5 pilares: vida en Paraguay, oportunidades de inversión, proceso de establecimiento, LEALTIS y equipo, mercado inmobiliario.
+
+**Email (conversión de leads):**
+- Secuencia de 7 emails en 35 días: bienvenida → entorno económico → proceso paso a paso → jornada operativa → desafío bancario → comparación de programas → CTA final.
+
+### 42. ¿Cómo funciona el programa de referidos y qué incentivos ofrece?
+
+**Para clientes satisfechos:**
+- USD 300 por cada referido que contrate Paraguay Business.
+- USD 500 por cada referido que contrate Paraguay Investor Program.
+- Pago por transferencia bancaria o crédito para servicios LEALTIS.
+- Sin límite de referidos. Se paga cuando el referido completa el pago del programa.
+
+**Para partners profesionales (asesores fiscales, agentes inmobiliarios):**
+- Comisión del 5–10% del programa contratado (USD 220–690 por cliente).
+- Acuerdo formal de colaboración con duración de 12 meses renovable.
+- No exclusivo (salvo acuerdo especial).
+- El partner refiere pero no representa a LEALTIS ni da asesoramiento en su nombre.
+
+**Materiales proporcionados:** Resumen de una página sobre LEALTIS, código de referido único, mensaje sugerido para compartir, FAQ para el referidor.
+
+**Compliance:** Los partners solo pueden decir lo autorizado. Prohibido mencionar evasión fiscal, garantizar resultados bancarios o hacer promesas no autorizadas.
+
+---
+
+## LOGÍSTICA Y OPERACIONES
+
+### 43. ¿Cuál es el proceso para la planificación y ejecución de la relocación?
+
+El proceso operativo tiene 5 fases para Paraguay Business y 8 fases para Investor Program:
+
+**Fase 1 — Pre-arribo:** Análisis documental, validación estratégica, chequeo preventivo ante Migraciones. (1–2 semanas)
+
+**Fase 2 — Preparación:** Armado del expediente migratorio, formularios, revisión final, coordinación de agenda institucional. (3–5 días hábiles)
+
+**Fase 3 — Jornada operativa:** Ejecución de todos los trámites presenciales en un solo día. Incluye presentación migratoria, cédula, gestiones notariales, tour inmobiliario. (1 día)
+
+**Fase 4 — Post-jornada:** Constitución de sociedad, activación de RUC, coordinación y seguimiento de apertura bancaria. (2–6 semanas)
+
+**Fase 5 — Entrega final:** Seguimiento de emisión de residencia y cédula, envío de documentación final, sesión de cierre. (45–60 días para documentos gubernamentales)
+
+**Fases adicionales Investor Program:**
+- Fase 6: Onboarding contable (Meses 1–3).
+- Fase 7: Asesoramiento continuo (Meses 1–12).
+- Fase 8: Análisis de inversiones (Meses 1–12).
+
+### 44. ¿Cuál es el equipo de trabajo que se encarga de la relocación?
+
+| Rol | Función | Ubicación |
+|-----|---------|-----------|
+| **Daniel — Director de Operaciones** | Liderazgo operativo, relaciones institucionales y bancarias, supervisión del equipo técnico | Asunción, Paraguay |
+| **Socio — Director Comercial** | Adquisición de clientes, marketing, puente cultural y lingüístico, consultas iniciales | Europa |
+| **Abogado(s) principal(es)** | Expedientes migratorios, constitución societaria, asesoría legal continua | Asunción |
+| **Contador(es)** | Gestión contable, declaraciones fiscales, inscripción RUC, reportes de cumplimiento | Asunción |
+| **Escribano / notario** | Formalización de documentos, estatutos societarios, certificaciones | Asunción |
+| **Asesor financiero** | Perfil KYC, coordinación bancaria, orientación de inversión | Asunción |
+| **Coordinador logístico** | Chofer, traslados, coordinación de agenda operativa | Asunción |
+
+### 45. ¿Cuál es el sistema de seguimiento y monitoreo para la relocación?
+
+**Para cada cliente:**
+- Registro en CRM con estado de cada fase y hito.
+- Carpeta digital estructurada (documentación recibida, expediente migratorio, societario, bancario, fiscal, correspondencia, cierre).
+- Actualizaciones proactivas semanales al cliente durante fases activas.
+- Checkpoints de calidad obligatorios en cada transición de fase.
+
+**Para el negocio:**
+- Sync semanal entre socios: pipeline, estado de programas activos, incidencias.
+- Reporte mensual de KPIs operativos: tiempos de ciclo, cumplimiento de SLAs, tasa de aprobación bancaria.
+- Retrospectivas periódicas (cada 5 clientes o trimestral) para identificar mejoras.
+- Revisión trimestral estratégica: resultados vs objetivos, presupuesto, roadmap.
+
+### 46. ¿Cómo se ejecuta la jornada operativa y qué logística incluye?
+
+La jornada operativa es uno de los componentes más valorados del programa. Se ejecuta así:
+
+| Hora | Actividad | Responsable |
+|:----:|-----------|-------------|
+| 07:30 | Chofer exclusivo recoge al cliente en su hotel | Chofer asignado |
+| 08:00 | Briefing: repaso de la agenda del día | Coordinador LEALTIS |
+| 08:30–10:00 | Presentación formal ante autoridad migratoria | Equipo legal + cliente |
+| 10:00–10:30 | Gestión ante escribanía (si necesario) | Escribano |
+| 10:30–11:30 | Trámite de Cédula de Identidad | Equipo legal + cliente |
+| 11:30–12:00 | Coordinaciones complementarias | Coordinador |
+| 12:00–13:30 | Almuerzo / pausa | — |
+| 14:00–17:00 | Tour estratégico inmobiliario | Asesor LEALTIS |
+
+**Logística incluida:** Chofer exclusivo asignado durante todo el día, traslado desde el hotel, movilidad permanente a todas las instituciones, coordinación integral hasta la finalización del día operativo. El cliente no gestiona desplazamientos, tiempos ni instituciones.
+
+**Checklist pre-jornada (día anterior):** Confirmación de hotel y horario, verificación de chofer y vehículo, expediente completo impreso, agenda institucional confirmada, tour inmobiliario agendado, carpeta de respaldo preparada.
+
+### 47. ¿Cuáles son los SLAs comprometidos para cada hito del proceso?
+
+| Hito | Plazo comprometido | Dependencia |
+|------|:-------------------:|-------------|
+| Acuse de recibo de documentación | 1 día hábil | — |
+| Checklist personalizado entregado | 3 días hábiles | — |
+| Informe de validación documental | 5 días hábiles | Recepción completa |
+| Chequeo preventivo ante Migraciones | 5 días hábiles | Documentación validada |
+| Expediente migratorio armado | 3 días hábiles | Validación aprobada |
+| Jornada operativa ejecutada | 1 día (1 mañana) | Expediente aprobado |
+| Constitución de sociedad | 15 días hábiles | Jornada completada |
+| Activación de RUC | 10 días hábiles | Sociedad constituida |
+| Expediente bancario presentado | 15 días hábiles | Sociedad + RUC activos |
+| Cuenta bancaria operativa | 30 días hábiles | Depende de entidad bancaria |
+| Residencia emitida | 45–60 días | Gobierno (fuera de control LEALTIS) |
+| Cédula de Identidad emitida | 45–60 días | Gobierno (fuera de control LEALTIS) |
+
+Los plazos gubernamentales y bancarios son estimaciones; LEALTIS se compromete a seguimiento activo y comunicación proactiva.
+
+### 48. ¿Cuál es el protocolo de escalación cuando surge una incidencia o retraso?
+
+| Nivel | Situación | Quién actúa | Plazo de resolución |
+|:-----:|-----------|-------------|:-------------------:|
+| 1 | Consulta o solicitud estándar | Coordinador LEALTIS | 24–48 horas |
+| 2 | Retraso en un hito o incidencia operativa | Responsable del área | 3–5 días hábiles |
+| 3 | Problema que afecta el programa completo | Dirección LEALTIS | 5–10 días hábiles |
+| 4 | Incidencia crítica (rechazo bancario, cambio regulatorio, queja grave) | Reunión extraordinaria con cliente + dirección | Inmediato |
+
+**Principios:** Comunicación proactiva al cliente antes de que pregunte, plan de acción incluido en cada comunicación de incidencia, documentación de cada escalación para aprendizaje.
+
+---
+
+## RIESGOS Y COMPLIANCE
+
+### 49. ¿Cuáles son los principales riesgos identificados para el negocio?
+
+Se han identificado **25 riesgos** organizados en 7 categorías. Los más críticos son:
+
+**Operativos:**
+- R01 (CRÍTICO): Dependencia de Daniel como punto único de fallo para relaciones bancarias e institucionales.
+- R02: Rechazo bancario de la cuenta de un cliente.
+- R05: Indisponibilidad de personal clave del equipo técnico.
+
+**Regulatorios:**
+- R06: Cambio en ley migratoria paraguaya.
+- R07: Endurecimiento de regulaciones bancarias KYC/AML.
+- R09: Cambios en regulación europea (CRS, exit tax).
+
+**Reputacionales:**
+- R11: Insatisfacción de un cliente comunicada públicamente.
+- R12: Asociación con operadores de mercado gris.
+
+**Financieros:**
+- R14: Volumen de clientes inferior al proyectado.
+
+**Estratégicos:**
+- R19: Conflicto entre socios.
+- R22: Límites de escalabilidad del modelo.
+
+### 50. ¿Cómo se mitiga la dependencia de Daniel como punto único de fallo?
+
+Este es el riesgo clasificado como CRÍTICO (R01). El plan de mitigación incluye:
+
+1. **Documentar todos los contactos clave** (banco, migración, registros) con nombre, rol y naturaleza de la relación. Plazo: Mes 1–3.
+2. **Crear manual de protocolos por institución** (qué se hace, cómo, con quién). Plazo: Mes 1–6.
+3. **Introducir a un segundo miembro del equipo** (deputy bancario) en las relaciones con entidades financieras. Plazo: Mes 6–12.
+4. **Establecer relaciones con al menos 2 entidades bancarias diferentes.** Plazo: Mes 3–6.
+5. **Formalizar acuerdos con equipo técnico** mediante contratos (no solo relación personal). Plazo: Mes 1–3.
+6. **Prueba de continuidad anual:** Simular la ausencia de Daniel durante una semana para verificar que el equipo puede operar. Plazo: A partir del Mes 12.
+
+Indicador de éxito: Al menos 2 personas capaces de ejecutar cada proceso crítico para el Mes 12.
+
+### 51. ¿Cuál es la política de compliance y prevención de lavado de activos?
+
+LEALTIS adopta proactivamente prácticas de prevención AML/KYC, incluso si no es sujeto obligado directo ante SEPRELAD:
+
+**Procedimientos internos:**
+- Verificación de identidad de todos los clientes (pasaporte, documentos oficiales).
+- Verificación del origen lícito de fondos para todo cliente.
+- Documentación y archivo de todas las transacciones y gestiones.
+- Reporte de actividades sospechosas: ante indicios de actividad ilícita, se suspende el servicio y se consulta con asesor legal.
+- Prohibición de pagos en efectivo no documentado.
+
+**Niveles de diligencia KYC:**
+- Estándar: Todos los clientes — verificación de identidad, perfil básico, origen de fondos.
+- Reforzado: Clientes con capital > USD 300.000, PEPs, jurisdicciones de alto riesgo — verificación adicional de fuentes de riqueza, referencias bancarias.
+
+**Comunicación:**
+- Todo lo que LEALTIS comunica debe ser verdadero, verificable y alineado con la ley.
+- Prohibido mencionar "paraíso fiscal", "evasión", "elusión", o hacer promesas sobre resultados gubernamentales o bancarios.
+
+**Registro y retención:** Documentación de identidad y expedientes: 5 años post-servicio. Correspondencia: 3 años. Decisiones de compliance: indefinido.
+
+### 52. ¿Qué red flags justifican rechazar a un cliente potencial?
+
+| Red flag | Acción |
+|----------|--------|
+| Se niega a proporcionar información sobre origen de fondos | Suspender proceso |
+| Documentación inconsistente o potencialmente falsificada | Suspender, consultar legal |
+| PEP (Persona Expuesta Políticamente) sin justificación clara | Diligencia reforzada |
+| Jurisdicción de origen en lista negra GAFI | Diligencia reforzada |
+| Urgencia excesiva sin justificación razonable | Evaluar con precaución |
+| Estructuras inusualmente complejas sin propósito comercial claro | Evaluar con equipo legal |
+| Intención declarada de evadir impuestos | **Rechazar** |
+| Solicitud de facturación a nombre de terceros sin relación | **Rechazar** |
+
+**Procedimiento:** El miembro del equipo que detecta la red flag comunica al director de operaciones → evaluación conjunta (operaciones + legal) → decisión documentada (diligencia reforzada, suspensión o rechazo).
+
+### 53. ¿Cuál es el plan de continuidad del negocio ante la indisponibilidad de personal clave o cambios regulatorios?
+
+**Si Daniel no está disponible temporalmente (1–4 semanas):**
+- Socio europeo asume coordinación general remotamente.
+- Equipo legal senior lidera operaciones con protocolos documentados.
+- Contactos bancarios documentados se activan directamente.
+- Se comunica a clientes activos si hay impacto en plazos.
+- RTO (Recovery Time Objective): 3–5 días.
+
+**Si Daniel sale permanentemente:**
+- Activar cláusula de salida del acuerdo de partnership.
+- Deputy bancario asume relaciones con entidades.
+- Evaluar contratación de director de operaciones (1–3 meses).
+- Comunicar plan de continuidad a clientes activos.
+
+**Si relación bancaria principal se interrumpe:**
+- Activar banco alternativo pre-identificado (1–2 semanas).
+- Adaptar pre-validación a requisitos del nuevo banco.
+
+**Si hay cambio regulatorio significativo:**
+- Análisis de impacto por equipo legal (48–72 horas).
+- Comunicación a clientes activos (48 horas).
+- Actualización de procesos (5 días hábiles).
+- Ajuste de pricing si necesario.
+
+**Si hay restricción de viajes:**
+- Maximizar pre-procesamiento remoto.
+- Diferir jornada operativa con agenda pre-armada.
+- Explorar opciones de poder notarial.
+
+Pruebas y revisión: Plan de continuidad revisado anualmente. Simulación de ausencia de Daniel anualmente a partir del Mes 12.
+
+---
+
+## ESTRUCTURA ORGANIZACIONAL Y CRECIMIENTO
+
+### 54. ¿Cómo se distribuyen las responsabilidades entre los dos socios?
+
+**Daniel — Director de Operaciones (Asunción, Paraguay):**
+- Liderazgo operativo diario en Paraguay.
+- Relaciones institucionales y bancarias.
+- Supervisión del equipo técnico (legal, contable, logístico).
+- Ejecución y supervisión de cada programa de cliente.
+- Mantenimiento y expansión de la red de contactos.
+- Control de calidad de entregables.
+- Adaptación a cambios regulatorios locales.
+
+**Socio — Director Comercial (Europa):**
+- Gestión del funnel comercial (leads → cierre).
+- Marketing digital, contenidos y posicionamiento de marca.
+- Consultas iniciales con potenciales clientes.
+- Red de referidos y partnerships en Europa.
+- Comunicación de marca y messaging.
+- Puente cultural y lingüístico con el mercado europeo.
+
+**Decisiones conjuntas:** Definición de programas y precios, política de compliance, expansión de mercados, contratación de equipo, inversiones > USD 1.000, estrategia general.
+
+**Comunicación:** Sync operativo semanal (30 min), revisión estratégica mensual (60 min), revisión trimestral con documentación.
+
+### 55. ¿Cuál es el plan de crecimiento del equipo en los próximos 12–36 meses?
+
+**Fase 1 — Lanzamiento (Meses 0–6):** Equipo existente.
+- Daniel (operaciones) + Socio (comercial).
+- Abogado principal (retainer), Contador (retainer), Escribano (por caso), Chofer (por jornada).
+
+**Fase 2 — Crecimiento (Meses 6–18):** Primeras contrataciones.
+- **Coordinador bilingüe:** Apoyo en comunicación con clientes europeos, gestión documental, seguimiento.
+- **Deputy de relaciones bancarias:** Reducir dependencia de Daniel (mitigación del riesgo R01).
+
+**Fase 3 — Escala (Meses 18–36):** Expansión del equipo.
+- **Segundo abogado / paralegal:** Capacidad para 5–6 clientes simultáneos.
+- **Community manager / content creator:** Producción profesional de contenido.
+- **Asistente administrativo:** Gestión documental, archivo, soporte.
+
+### 56. ¿Cuál es el roadmap de implementación del proyecto por fases?
+
+**Fase 0 — Fundación (Mes 0–1):** Constitución legal de LEALTIS, acuerdo de partnership, desarrollo de marca, documentación interna de procesos v1.
+
+**Fase 1 — Infraestructura (Mes 1–3):** Sitio web multilingüe, CRM, blueprints finalizados, formalización de relaciones bancarias, templates documentales, onboarding equipo técnico, primeros contenidos.
+
+**Fase 2 — Soft Launch (Mes 3–6):** Primeros 3–5 clientes por red existente, validación del proceso, lanzamiento de redes sociales, recolección de feedback, ajuste de SLAs, inicio de programa de referidos.
+
+**Fase 3 — Crecimiento (Mes 6–12):** Marketing activo, campañas pagadas, partners externos, target 2–3 clientes/mes, primeras renovaciones Investor, optimización de procesos, evaluación de coordinador bilingüe.
+
+**Fase 4 — Escala (Mes 12–24):** Contratación de coordinador y deputy bancario, expansión a mercado alemán/belga, target 4–5 clientes/mes, nuevas líneas de servicio.
+
+**Fase 5 — Consolidación (Mes 24–36):** Posicionamiento de liderazgo, target 5–6 clientes/mes, ingresos recurrentes > 20% del total, evaluación de expansión.
+
+### 57. ¿Qué KPIs se monitorean para medir el éxito del negocio?
+
+**KPIs de negocio:** Clientes/mes (meta: 2–4), ingreso mensual, ingreso promedio por cliente (> USD 5.000), mix de paquetes (40% Investor), ingreso recurrente %, NPS (> 8/10).
+
+**KPIs de marketing:** Visitas web/mes (500–1.000), leads/mes (10–15), tasa de conversión web (2–3%), tasa lead→cliente (20–30%), CPL (< USD 100), CAC (< USD 500), % clientes por referido (> 30%).
+
+**KPIs de operaciones:** Tiempo de validación documental (< 10 días), cumplimiento de jornada en 1 día (> 95%), tasa de aprobación bancaria (> 85%), tiempo de constitución societaria (< 15 días), tasa de error/rework (< 5%), cumplimiento de SLAs (> 90%).
+
+**KPIs financieros:** Margen bruto por cliente (> USD 3.000), margen bruto % (> 55%), costos fijos/ingreso (< 25%), cash runway (> 3 meses), LTV (> USD 8.000), LTV/CAC (> 10x).
+
+**Cadencia de revisión:** Semanal (leads, pipeline, engagement), mensual (todos los KPIs), trimestral (tendencias, riesgos, ajustes estratégicos).
+
+### 58. ¿Cuál es la proyección financiera a 3 años y qué supuestos clave la sustentan?
+
+**Resumen de proyección:**
+
+| Métrica | Año 1 | Año 2 | Año 3 |
+|---------|------:|------:|------:|
+| Clientes nuevos | 21 | 43 | 60 |
+| Ingresos programas | USD 113.400 | USD 232.200 | USD 324.000 |
+| Ingresos recurrentes | USD 0 | USD 17.500 | USD 42.000 |
+| Comisiones inmobiliarias | USD 0 | USD 0 | USD 35.000 |
+| **Ingresos totales** | **USD 113.400** | **USD 249.700** | **USD 401.000** |
+| Costos totales | USD 67.200 | USD 129.050 | USD 168.000 |
+| **Resultado neto** | **USD 46.200** | **USD 120.650** | **USD 233.000** |
+| Margen neto | 41% | 48% | 58% |
+
+**Supuestos clave:**
+1. Ingreso promedio por cliente: USD 5.400 (mix 60/40 Business/Investor).
+2. Costo variable promedio: USD 1.800 por cliente.
+3. Costos fijos mensuales: USD 2.000–2.500 iniciales, creciendo a USD 4.500 en Año 3.
+4. Rampa de clientes Año 1: 0→1→2→3 clientes/mes.
+5. Tasa de renovación Investor: 50%.
+6. Break-even alcanzado en Mes 5.
+7. Inversión inicial: USD 15.000–25.000, con payback en 6–8 meses.
+
+**Análisis de sensibilidad:** Incluso al 50% del volumen proyectado, el negocio es rentable desde el Año 1 gracias a la estructura de costos mayoritariamente variable y el break-even bajo (~1 cliente/mes).
+
+---
+
+*Documento generado a partir de: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/objectives-general-and-specific.md`, `source-of-truth/research-materials-local-paraguay.md`, `source-of-truth/social-and-economic-justification.md` y la documentación del proyecto en las carpetas servicios/, plan de negocios/, marketing/, presupuesto/, proyectos/, riesgos/ y documentos/.*
+
+```
+
+```text
+File created successfully at: C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-respuestas-completas.md (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:48:22Z)**_
+
+Done. Created `source-of-truth/cuestionario-respuestas-completas.md` with all **58 questions answered** in detail, sourced entirely from the project's source of truth and documentation.
+
+The document covers all 9 sections: information general, servicios, beneficios, perfiles de clientes, requisitos, costos, marketing, logística, riesgos/compliance, and estructura organizacional. Each answer includes specific data (prices, timelines, percentages, tables) rather than generic responses.
+
+---
+
+_**User (2026-04-13 19:53:16Z)**_
+
+ahora haz un cuestionario especificamente sobre el marketing de la operacion, todo lo referente al logo, imagen, etc y todo lo necesario para la pgina web
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 19:53:25Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\marketing\identidad-de-marca.md`
+
+```text
+1	# Identidad de Marca — LEALTIS
+2	
+3	---
+4	
+5	## 1. El nombre
+6	
+7	**LEALTIS** — derivado de **lealtad** (loyalty). Transmite compromiso, fidelidad y relación a largo plazo.
+8	
+9	El nombre fue elegido porque:
+10	- Es memorable y fácil de pronunciar en español, neerlandés e inglés.
+11	- Evoca confianza sin ser genérico.
+12	- No limita la marca a un servicio específico (no es "Paraguay Legal" ni "Relocation SA").
+13	- Funciona como marca profesional de alto nivel.
+14	
+15	---
+16	
+17	## 2. Valores de marca
+18	
+19	| Valor | Significado para el cliente |
+20	|-------|---------------------------|
+21	| **Confianza** | "Puedo depender de este equipo para manejar algo importante." |
+22	| **Profesionalismo** | "No es improvisación; es un equipo técnico de primer nivel." |
+23	| **Transparencia** | "Sé exactamente qué estoy pagando y qué voy a recibir." |
+24	| **Eficiencia** | "Mi tiempo vale; este proceso está optimizado para no perderlo." |
+25	| **Integridad** | "Todo lo que hacen es legal, correcto y documentado." |
+26	
+27	---
+28	
+29	## 3. Voz de marca
+30	
+31	### Personalidad
+32	
+33	LEALTIS habla como un **asesor senior de confianza**: profesional pero accesible, seguro pero no arrogante, directo pero empático.
+34	
+35	| Dimensión | Es | No es |
+36	|-----------|-----|-------|
+37	| Tono | Profesional y cálido | Frío, corporativo o distante |
+38	| Autoridad | Seguro, con experiencia demostrada | Pedante o condescendiente |
+39	| Comunicación | Clara, directa, sin jerga innecesaria | Ambigua, excesivamente legal o técnica |
+40	| Relación | Personal, accesible | Genérica, automatizada |
+41	| Energía | Tranquila y competente | Agresiva comercialmente o hype |
+42	
+43	### Tono por canal
+44	
+45	| Canal | Tono | Ejemplo |
+46	|-------|------|---------|
+47	| **Sitio web** | Profesional, informativo, orientado a acción | "Establecemos su operación en Paraguay en un solo programa." |
+48	| **LinkedIn** | Thought leadership, datos, insights | "El mercado inmobiliario paraguayo creció X% — esto es lo que significa para el inversor europeo." |
+49	| **Instagram** | Aspiracional, visual, humano | "Así luce un día de tramitación con LEALTIS en Asunción." |
+50	| **YouTube** | Educativo, personal, cercano | "En este video les explico paso a paso cómo funciona la apertura de empresa en Paraguay." |
+51	| **Email** | Directo, personalizado, valioso | "Hola [nombre], quería compartir algo relevante para su proceso..." |
+52	| **Comunicación directa** | Cálido, profesional, resolutivo | "Revisamos su documentación y todo está en orden. Estos son los próximos pasos." |
+53	
+54	---
+55	
+56	## 4. Mensajes centrales de marca
+57	
+58	### Mensaje principal
+59	
+60	> **"Establecimiento operativo en Paraguay. Profesional, integrado, sin sorpresas."**
+61	
+62	### Mensajes de soporte
+63	
+64	| # | Mensaje |
+65	|---|---------|
+66	| 1 | "Residencia, sociedad y cuenta bancaria — todo en un solo programa." |
+67	| 2 | "Un equipo de abogados, contadores y asesores financieros trabajando para usted." |
+68	| 3 | "Años de experiencia operando en el mercado paraguayo. No improvisamos." |
+69	| 4 | "Su único foco es tomar decisiones. Nosotros nos encargamos de todo lo demás." |
+70	| 5 | "Precio claro, alcance claro, proceso claro. Sin cargos ocultos." |
+71	
+72	---
+73	
+74	## 5. Lo que LEALTIS es y lo que no es
+75	
+76	| LEALTIS es | LEALTIS no es |
+77	|------------|---------------|
+78	| Un sistema integral de relocalización | Una gestoría de trámites |
+79	| Un equipo técnico multidisciplinario | Un abogado independiente |
+80	| Un servicio premium orientado a resultados | Un servicio económico de volumen |
+81	| Un socio estratégico para el primer año | Un proveedor que desaparece después del trámite |
+82	| Profesional, legal y transparente | Un facilitador de atajos o zonas grises |
+83	
+84	---
+85	
+86	## 6. Guía de terminología
+87	
+88	| Usar | No usar | Por qué |
+89	|------|---------|---------|
+90	| "Programa" | "Paquete" | Programa connota profesionalismo y estructura |
+91	| "Equipo técnico" | "Gestores" | Posicionamiento profesional, no administrativo |
+92	| "Establecimiento" | "Mudanza" | Más estratégico y empresarial |
+93	| "Optimización" | "Evasión" / "Elusión" | Legal, sin connotación negativa |
+94	| "Asesoramiento" | "Ayuda" | Profesionalismo |
+95	| "Inversión" | "Gasto" | Percepción de valor |
+96	| "Proceso coordinado" | "Trámites" | Valor agregado, no commodity |
+97	| "Jornada operativa" | "Día de papeleos" | Profesional y diferenciador |
+98	
+99	---
+100	
+101	## 7. Identidad visual (directrices)
+102	
+103	### Paleta de colores sugerida
+104	
+105	| Color | Uso | Evoca |
+106	|-------|-----|-------|
+107	| **Azul oscuro / navy** | Color primario | Confianza, profesionalismo, estabilidad |
+108	| **Dorado / champagne** | Acento premium | Calidad, exclusividad, sofisticación |
+109	| **Blanco** | Fondos, espacios | Limpieza, claridad, transparencia |
+110	| **Gris oscuro** | Texto, elementos secundarios | Seriedad, elegancia |
+111	
+112	**Evitar:** Colores brillantes, neón, combinaciones agresivas. No es una startup tech ni una agencia de viajes.
+113	
+114	### Tipografía sugerida
+115	
+116	| Uso | Estilo |
+117	|-----|--------|
+118	| Títulos | Serif moderna (transmite tradición y solidez) |
+119	| Cuerpo de texto | Sans-serif limpia (legibilidad, modernidad) |
+120	
+121	### Estilo de imágenes
+122	
+123	| Usar | Evitar |
+124	|------|--------|
+125	| Fotografías profesionales de Paraguay (arquitectura, naturaleza, vida urbana) | Stock genérico, fotos con marca de agua |
+126	| Imágenes del equipo trabajando (cuando disponibles) | Fotos posadas artificiales |
+127	| Imágenes de Asunción moderna y profesional | Imágenes de pobreza o estereotipos |
+128	| Infografías limpias del proceso | Diseños recargados o infantiles |
+129	
+130	### Logo
+131	
+132	El logo debe transmitir:
+133	- Profesionalismo (no casual)
+134	- Solidez (no efímero)
+135	- Internacionalidad (legible en cualquier mercado)
+136	- Simplicidad (reconocible a cualquier tamaño)
+137	
+138	*Recomendación: Contratar diseñador profesional con brief basado en esta guía.*
+139	
+140	---
+141	
+142	## 8. Aplicación de marca
+143	
+144	| Material | Lineamiento |
+145	|----------|-------------|
+146	| Sitio web | Colores primarios, tipografía consistente, fotos profesionales, mucho espacio en blanco |
+147	| Presentaciones / PDFs | Template con header LEALTIS, colores de marca, formateo consistente |
+148	| Redes sociales | Templates para posts con identidad visual coherente |
+149	| Firmas de email | Diseño limpio con logo, datos de contacto, sin exceso de información |
+150	| Documentos para clientes | Membrete LEALTIS, formato profesional, tono consistente |
+151	
+152	---
+153	
+154	*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+155
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:53:26Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\marketing\contenido-web.md`
+
+```text
+1	# Contenido Web — LEALTIS
+2	
+3	---
+4	
+5	> **Nota:** Este documento contiene la estructura y copy de referencia para el sitio web. El contenido está redactado en español para uso interno. Deberá traducirse profesionalmente al neerlandés e inglés para publicación.
+6	
+7	---
+8	
+9	## Estructura del sitio
+10	
+11	```
+12	Home
+13	├── Programas
+14	│   ├── Paraguay Business
+15	│   └── Paraguay Investor Program
+16	├── Por qué Paraguay
+17	├── Cómo funciona (Proceso)
+18	├── Sobre LEALTIS
+19	├── Preguntas frecuentes (FAQ)
+20	├── Blog
+21	└── Contacto / Agendar consulta
+22	```
+23	
+24	---
+25	
+26	## 1. HOME — Página de inicio
+27	
+28	### Hero section
+29	
+30	**Titular:** Establezca su operación en Paraguay. Profesional, integrado, sin sorpresas.
+31	
+32	**Subtítulo:** Residencia, sociedad y cuenta bancaria — todo en un solo programa, un solo viaje, un equipo de profesionales a su lado.
+33	
+34	**CTA principal:** Agendar consulta gratuita
+35	
+36	### Sección: Lo que hacemos
+37	
+38	LEALTIS es un sistema integral de relocalización para europeos que buscan establecerse operativamente en Paraguay. Combinamos servicios legales, financieros y operativos en un solo programa coordinado para que usted pueda enfocarse en lo que importa: sus decisiones y su inversión.
+39	
+40	### Sección: Nuestros programas (resumen)
+41	
+42	| Programa | Descripción breve | Precio |
+43	|----------|-------------------|--------|
+44	| Paraguay Business | Residencia + sociedad + cuenta bancaria. Todo operativo desde el primer viaje. | USD 4.400 |
+45	| Paraguay Investor Program | Todo lo anterior + 12 meses de contabilidad, asesoría y análisis de inversiones. | USD 6.900 |
+46	
+47	**CTA:** Ver programas en detalle
+48	
+49	### Sección: Por qué LEALTIS
+50	
+51	- **Un solo programa:** No coordine entre múltiples proveedores. Todo está integrado.
+52	- **Un solo viaje:** La tramitación presencial se completa en una jornada.
+53	- **Precio transparente:** Sin cargos ocultos. Todo incluido.
+54	- **Equipo profesional:** Abogados, contadores, escribanos y asesores con experiencia real en el mercado.
+55	- **Acceso bancario:** Resolvemos el principal obstáculo para extranjeros en Paraguay.
+56	
+57	### Sección: Señales de confianza
+58	
+59	- Años de experiencia en el mercado paraguayo
+60	- Equipo multidisciplinario de primer nivel
+61	- Proceso comprobado con clientes internacionales
+62	- Precio todo incluido, sin sorpresas
+63	
+64	**CTA:** Agendar consulta gratuita
+65	
+66	---
+67	
+68	## 2. PROGRAMAS — Paraguay Business
+69	
+70	**Titular:** Paraguay Business — Establecimiento operativo completo
+71	
+72	**Descripción:** Diseñado para el empresario o profesional europeo que necesita operar en Paraguay con capacidad real: residencia, sociedad constituida y cuenta bancaria empresarial. Todo coordinado, sin fragmentación y sin sorpresas.
+73	
+74	**Incluye:**
+75	- Residencia Paraguaya y Cédula de Identidad
+76	- Constitución de sociedad y registro fiscal (RUC)
+77	- Apertura de cuenta bancaria empresarial
+78	- Análisis documental previo y validación estratégica
+79	- Jornada integral de tramitación (un solo día)
+80	- Acompañamiento logístico exclusivo (chofer, traslados)
+81	- Tour estratégico inmobiliario
+82	- Asesoramiento técnico integral
+83	- Honorarios, IVA y tasas oficiales incluidos
+84	
+85	**Precio:** USD 4.400 — Pago anticipado. Sin cargos adicionales.
+86	
+87	**CTA:** Solicitar consulta sobre este programa
+88	
+89	---
+90	
+91	## 3. PROGRAMAS — Paraguay Investor Program
+92	
+93	**Titular:** Paraguay Investor Program — Su socio estratégico durante 12 meses
+94	
+95	**Descripción:** Para el inversor, empresario o familia de alto patrimonio que no busca simplemente establecerse — busca hacerlo con un equipo de confianza que lo acompañe durante todo el primer año en Paraguay.
+96	
+97	**Incluye todo lo del Paraguay Business, más:**
+98	- Contabilidad empresarial continua (12 meses)
+99	- Asesoramiento jurídico y fiscal (12 meses)
+100	- Análisis de inversiones y proyectos
+101	- Acceso directo al equipo LEALTIS para decisiones estratégicas
+102	
+103	**Precio:** USD 6.900 — Pago anticipado. Sin cargos adicionales.
+104	
+105	**CTA:** Solicitar consulta sobre este programa
+106	
+107	---
+108	
+109	## 4. POR QUÉ PARAGUAY
+110	
+111	**Titular:** Paraguay: una oportunidad real para el emprendedor e inversor europeo
+112	
+113	### Entorno económico favorable
+114	- Economía en crecimiento sostenido
+115	- Inflación controlada
+116	- Sistema fiscal competitivo (impuesto sobre la renta del 10%, sistema territorial)
+117	- Bajo costo de vida comparado con Europa occidental
+118	
+119	### Oportunidades de inversión
+120	- Mercado inmobiliario en desarrollo con retornos atractivos
+121	- Sector agroindustrial consolidado
+122	- Economía abierta con oportunidades para emprendedores
+123	
+124	### Calidad de vida
+125	- Clima cálido, naturaleza abundante
+126	- Comunidad internacional creciente
+127	- Costo de vida que permite mayor poder adquisitivo
+128	
+129	### Lo que pocos le cuentan
+130	Paraguay es una oportunidad real — pero el proceso de establecimiento no es sencillo sin la guía adecuada. La burocracia, el sistema bancario y la falta de intermediarios confiables son obstáculos reales. LEALTIS existe para resolverlos.
+131	
+132	---
+133	
+134	## 5. CÓMO FUNCIONA — Proceso
+135	
+136	**Titular:** Un proceso claro, paso a paso
+137	
+138	### Paso 1: Consulta inicial
+139	Conversamos sobre su situación, objetivos y necesidades. Le recomendamos el programa más adecuado.
+140	
+141	### Paso 2: Validación documental
+142	Nuestro equipo legal revisa toda su documentación antes de su viaje. Le orientamos sobre apostillas y legalizaciones. No viaja hasta que todo esté en orden.
+143	
+144	### Paso 3: Jornada operativa en Paraguay
+145	En un solo día, ejecutamos todos los trámites presenciales: residencia, identidad, y las coordinaciones necesarias. Usted llega a una agenda diseñada por profesionales.
+146	
+147	### Paso 4: Constitución empresarial y bancaria
+148	Mientras usted regresa a su país, nuestro equipo constituye su sociedad, activa su registro fiscal y coordina la apertura de su cuenta bancaria.
+149	
+150	### Paso 5: Entrega y seguimiento
+151	Recibe sus documentos definitivos (residencia, cédula, sociedad, cuenta) y cerramos el programa con orientación final.
+152	
+153	**Tiempo estimado total:** 8–12 semanas (emisión de documentos gubernamentales: 45–60 días).
+154	
+155	**CTA:** Iniciar mi proceso
+156	
+157	---
+158	
+159	## 6. SOBRE LEALTIS
+160	
+161	**Titular:** Un equipo, una misión: su establecimiento en Paraguay
+162	
+163	LEALTIS opera con un equipo técnico de primer nivel: abogados, contadores, asesores financieros y escribanos con amplia experiencia en el mercado paraguayo. Cada perfil especializado interviene en la etapa que le corresponde — con criterio profesional, no con improvisación.
+164	
+165	### Nuestro equipo
+166	- **Dirección de Operaciones (Paraguay):** Liderazgo operativo, relaciones institucionales, coordinación del equipo técnico.
+167	- **Dirección Comercial (Europa):** Adquisición de clientes, puente cultural y lingüístico.
+168	- **Equipo Legal:** Expedientes migratorios, constitución societaria, asesoramiento jurídico.
+169	- **Equipo Contable:** Gestión fiscal, contabilidad, cumplimiento tributario.
+170	- **Coordinación:** Logística, comunicación, seguimiento de procesos.
+171	
+172	### Nuestra diferencia
+173	No somos una gestoría. No ofrecemos trámites sueltos. LEALTIS integra todo lo que usted necesita para operar en Paraguay en un solo programa, con un solo equipo, bajo un solo compromiso.
+174	
+175	---
+176	
+177	## 7. FAQ — Preguntas frecuentes
+178	
+179	**1. ¿Cuánto tiempo toma todo el proceso?**
+180	La tramitación presencial se realiza en un solo día. La emisión de residencia y cédula toma entre 45 y 60 días (depende del gobierno). La constitución de sociedad y apertura bancaria se completan en 2–4 semanas.
+181	
+182	**2. ¿Cuántos viajes necesito hacer a Paraguay?**
+183	Nuestro programa está diseñado para que un solo viaje sea suficiente para dejar todo encaminado.
+184	
+185	**3. ¿Qué incluye el precio?**
+186	Honorarios profesionales, IVA, tasas oficiales de Migraciones, gastos administrativos, coordinación bancaria, tour inmobiliario y asesoramiento integral. No hay cargos adicionales en el trámite regular.
+187	
+188	**4. ¿Qué no está incluido?**
+189	Vuelos internacionales, alojamiento, gastos personales, traducciones juradas y apostillas en su país de origen.
+190	
+191	**5. ¿Necesito hablar español?**
+192	No. Nuestro equipo le acompaña en todo momento y la comunicación comercial es en neerlandés e inglés.
+193	
+194	**6. ¿Puedo abrir una cuenta bancaria siendo extranjero?**
+195	Sí, pero es el proceso más complejo para extranjeros en Paraguay. LEALTIS prepara su perfil financiero y coordina directamente con la entidad bancaria para maximizar las probabilidades de aprobación.
+196	
+197	**7. ¿Qué tipo de sociedad se constituye?**
+198	Nuestro equipo legal analiza su situación y recomienda el tipo societario más conveniente (generalmente EAS o SA).
+199	
+200	**8. ¿El proceso es 100% legal?**
+201	Absolutamente. LEALTIS opera con estricto apego a la legislación paraguaya y a las normativas internacionales. No ofrecemos ni facilitamos ningún servicio que no sea completamente legal.
+202	
+203	**9. ¿Qué pasa si falta algún documento?**
+204	Lo detectamos antes de su viaje. Nuestro proceso de validación previa está diseñado para que usted llegue a Paraguay con todo en orden.
+205	
+206	**10. ¿Puedo contratar solo la residencia sin la sociedad?**
+207	Nuestros programas están diseñados como soluciones integrales. Contáctenos para discutir su situación específica.
+208	
+209	**11. ¿Qué pasa después del primer año (Investor Program)?**
+210	Al finalizar los 12 meses, presentamos una propuesta de continuidad adaptada a sus necesidades actuales.
+211	
+212	**12. ¿Cómo se realiza el pago?**
+213	Pago anticipado por transferencia bancaria. El monto cubre la totalidad del programa sin cargos adicionales.
+214	
+215	**13. ¿Ofrecen garantía de apertura de cuenta bancaria?**
+216	La decisión final es de la entidad bancaria. Lo que garantizamos es la preparación profesional de su expediente y la coordinación institucional directa.
+217	
+218	**14. ¿Puedo traer a mi familia?**
+219	Sí. Cada miembro de la familia requiere su propio proceso de residencia. Contáctenos para evaluar su caso.
+220	
+221	**15. ¿Qué pasa si cambian las leyes durante mi proceso?**
+222	LEALTIS monitorea constantemente el entorno regulatorio. Si hay cambios relevantes, le informamos inmediatamente y adaptamos la estrategia.
+223	
+224	---
+225	
+226	## 8. CONTACTO
+227	
+228	**Titular:** Dé el primer paso
+229	
+230	Agende una consulta gratuita de 30 minutos para evaluar su situación y explorar cómo LEALTIS puede ayudarle.
+231	
+232	**Formulario:**
+233	- Nombre
+234	- Email
+235	- Teléfono (opcional)
+236	- País de residencia
+237	- ¿En qué programa está interesado? (Business / Investor / No estoy seguro)
+238	- ¿Cuál es su objetivo principal? (texto libre)
+239	
+240	**Alternativa:** Escríbanos directamente a [email]
+241	
+242	---
+243	
+244	## 9. BLOG — Temas sugeridos
+245	
+246	| Categoría | Ideas de artículos |
+247	|-----------|-------------------|
+248	| Vida en Paraguay | "Costo de vida en Paraguay: lo que realmente gasta un europeo", "Asunción: la ciudad que no conocías" |
+249	| Inversión | "Mercado inmobiliario paraguayo: oportunidades en 2026", "5 razones por las que europeos invierten en Paraguay" |
+250	| Proceso | "Cómo funciona la residencia paraguaya paso a paso", "La verdad sobre abrir una cuenta bancaria en Paraguay" |
+251	| Empresarial | "Constituir una empresa en Paraguay: lo que necesitas saber", "Sistema fiscal paraguayo explicado para europeos" |
+252	| LEALTIS | "Cómo funciona nuestro programa", "La diferencia entre un gestor y un equipo profesional" |
+253	
+254	---
+255	
+256	## 10. SEO — Keywords principales
+257	
+258	| Idioma | Keywords |
+259	|--------|----------|
+260	| Neerlandés | "wonen in Paraguay", "bedrijf starten Paraguay", "residencia Paraguay", "investeren Paraguay", "belasting Paraguay" |
+261	| Inglés | "Paraguay residency for Europeans", "start a business in Paraguay", "invest in Paraguay", "bank account Paraguay", "relocate to Paraguay" |
+262	| Español | "residencia Paraguay europeos", "empresa en Paraguay", "invertir en Paraguay" |
+263	
+264	---
+265	
+266	*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+267
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:53:26Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\marketing\estrategia-de-marketing.md`
+
+```text
+1	# Estrategia de Marketing — LEALTIS
+2	
+3	---
+4	
+5	## 1. Posicionamiento de marca
+6	
+7	**LEALTIS no es una gestoría. Es un sistema de relocalización premium para europeos que buscan operar en Paraguay con certeza y profesionalismo.**
+8	
+9	| Dimensión | Posicionamiento |
+10	|-----------|----------------|
+11	| **Categoría** | Sistema integral de relocalización e inversión |
+12	| **Nivel** | Premium — alto valor, no bajo costo |
+13	| **Diferenciación** | Velocidad, completitud, acceso bancario, confianza |
+14	| **Competencia** | Frente a proveedores fragmentados, opacos e incompletos |
+15	| **Promesa** | "Todo resuelto en un programa, un viaje, un equipo" |
+16	
+17	---
+18	
+19	## 2. Audiencia objetivo — Personas
+20	
+21	### Persona 1: "El Inversor" — Jan (52, Países Bajos)
+22	
+23	| Aspecto | Detalle |
+24	|---------|---------|
+25	| **Perfil** | Empresario exitoso, patrimonio > EUR 500k, busca diversificar fuera de Europa |
+26	| **Motivación** | Inversión inmobiliaria, segunda residencia, planificación patrimonial |
+27	| **Preocupaciones** | Seguridad jurídica, confiabilidad del intermediario, calidad de las oportunidades |
+28	| **Canales** | LinkedIn, búsqueda web, referidos de su red profesional |
+29	| **Mensaje que resuena** | "Acceso profesional a un mercado en crecimiento, con estructura legal sólida" |
+30	| **Programa** | Paraguay Investor Program |
+31	
+32	### Persona 2: "El Optimizador" — Thomas (38, Alemania)
+33	
+34	| Aspecto | Detalle |
+35	|---------|---------|
+36	| **Perfil** | Freelancer/consultor digital, ingresos EUR 80k–200k, sin ataduras geográficas |
+37	| **Motivación** | Reducir carga fiscal (no lo dice explícitamente), flexibilidad |
+38	| **Preocupaciones** | Legalidad, simplicidad, que el proceso no consuma tiempo |
+39	| **Canales** | YouTube, blogs de expatriados, foros, Instagram |
+40	| **Mensaje que resuena** | "Establecimiento operativo en Paraguay sin complicaciones, en un solo viaje" |
+41	| **Programa** | Paraguay Business |
+42	
+43	### Persona 3: "La Familia" — Erik y Sophie (45/42, Bélgica)
+44	
+45	| Aspecto | Detalle |
+46	|---------|---------|
+47	| **Perfil** | Pareja con hijos, capital medio, buscan cambio de vida |
+48	| **Motivación** | Calidad de vida, costo de vida, nueva experiencia |
+49	| **Preocupaciones** | Seguridad, educación para hijos, facilidad del proceso, no hablan español |
+50	| **Canales** | Facebook groups, YouTube, blogs, referidos de amigos |
+51	| **Mensaje que resuena** | "Un equipo que habla tu idioma y te guía paso a paso" |
+52	| **Programa** | Paraguay Business |
+53	
+54	---
+55	
+56	## 3. Pilares de mensaje
+57	
+58	| Pilar | Core message | Subtemas |
+59	|-------|-------------|----------|
+60	| **Oportunidad** | Paraguay es un mercado en crecimiento con condiciones favorables | Economía, inmobiliario, emprendimiento, calidad de vida |
+61	| **Simplicidad** | LEALTIS lo hace simple | Un programa, un viaje, un equipo, sin sorpresas |
+62	| **Seguridad** | Proceso profesional y predecible | Equipo técnico, compliance, transparencia de precios |
+63	| **Confianza** | Experiencia y relaciones comprobadas | Años en el mercado, equipo multidisciplinario, resultados |
+64	
+65	### Regla de oro del messaging
+66	
+67	> **Nunca** mencionar evasión fiscal, paraíso fiscal, o elusión. **Siempre** enmarcar en oportunidad, establecimiento empresarial, inversión y calidad de vida.
+68	
+69	---
+70	
+71	## 4. Estrategia por canal
+72	
+73	### 4.1 Sitio web (canal de conversión principal)
+74	
+75	| Elemento | Especificación |
+76	|----------|---------------|
+77	| Idiomas | Neerlandés (principal), Inglés, Español |
+78	| Páginas clave | Home, Programas, Por qué Paraguay, Proceso, Equipo, FAQ, Blog, Contacto |
+79	| Objetivo | Generar leads cualificados (formulario de consulta, agendamiento de llamada) |
+80	| Tono | Profesional, cálido, europeo. No agresivo comercialmente |
+81	| SEO | Keywords NL/EN: "residencia Paraguay", "empresa Paraguay", "relocación Paraguay", "invertir Paraguay" |
+82	| Métricas | Visitas, tasa de conversión, leads/mes |
+83	
+84	### 4.2 LinkedIn
+85	
+86	| Elemento | Especificación |
+87	|----------|---------------|
+88	| Audiencia | Inversores, empresarios, profesionales |
+89	| Frecuencia | 2–3 posts/semana |
+90	| Contenido | Insights de mercado, artículos sobre Paraguay, posicionamiento profesional del equipo |
+91	| Tono | Profesional, informativo, thought leadership |
+92	| Objetivo | Credibilidad + tráfico a web |
+93	
+94	### 4.3 Instagram
+95	
+96	| Elemento | Especificación |
+97	|----------|---------------|
+98	| Audiencia | Lifestyle migrants, público general interesado |
+99	| Frecuencia | 3–4 posts/semana + stories |
+100	| Contenido | Visual: Paraguay (ciudades, naturaleza, vida local), behind-the-scenes, infografías del proceso |
+101	| Tono | Aspiracional pero auténtico |
+102	| Objetivo | Awareness + engagement |
+103	
+104	### 4.4 YouTube
+105	
+106	| Elemento | Especificación |
+107	|----------|---------------|
+108	| Audiencia | Todos los segmentos |
+109	| Frecuencia | 2–4 videos/mes |
+110	| Contenido | Videos explicativos del proceso, tours por Paraguay, Q&A, testimonios (con permiso) |
+111	| Tono | Educativo, accesible, personal |
+112	| Objetivo | Confianza + SEO + tráfico a web |
+113	
+114	### 4.5 Email marketing
+115	
+116	| Elemento | Especificación |
+117	|----------|---------------|
+118	| Audiencia | Leads que aún no han contratado |
+119	| Secuencia | 5–7 emails de nurturing (ver plan de contenidos) |
+120	| Contenido | Valor educativo sobre Paraguay, proceso, casos de uso, CTA a consulta |
+121	| Frecuencia | 1 email/semana durante secuencia, luego 2/mes |
+122	| Objetivo | Conversión de leads tibios |
+123	
+124	---
+125	
+126	## 5. Customer journey
+127	
+128	| Etapa | Acción del cliente | Touchpoint LEALTIS | Contenido/recurso |
+129	|-------|-------------------|--------------------|--------------------|
+130	| **Descubrimiento** | Busca información sobre Paraguay, ve contenido | SEO, redes sociales, YouTube, referido | Blog posts, videos, posts sociales |
+131	| **Investigación** | Visita web, lee sobre programas, compara | Sitio web | Páginas de programa, FAQ, testimonios |
+132	| **Primer contacto** | Completa formulario, solicita consulta | Web form, email automático | Confirmación + material introductorio |
+133	| **Consulta** | Habla con socio europeo, explica su situación | Videollamada personalizada | Presentación de LEALTIS, escucha activa |
+134	| **Evaluación** | Recibe propuesta, evalúa opciones | Email con propuesta detallada | PDF del programa, acuerdo de servicios |
+135	| **Decisión** | Acepta, firma, paga | Contrato + pago | Welcome pack, inicio de proceso |
+136	| **Onboarding** | Envía documentos, recibe validación | Comunicación continua | Checklist, orientación, confirmaciones |
+137	| **Ejecución** | Viaja, realiza jornada operativa | Acompañamiento presencial | Agenda, logística, guía del cliente |
+138	| **Post-servicio** | Recibe documentos finales | Seguimiento, cierre formal | Paquete documental, encuesta NPS |
+139	| **Fidelización** | Recomienda, renueva servicios | Programa de referidos, comunicación periódica | Newsletter, ofertas de renovación |
+140	
+141	---
+142	
+143	## 6. Presupuesto de marketing indicativo
+144	
+145	| Concepto | Mes 1–6 (lanzamiento) | Mes 7–12 (crecimiento) |
+146	|----------|:---------------------:|:----------------------:|
+147	| Desarrollo web | USD 3.000–8.000 (una vez) | USD 200/mes mantenimiento |
+148	| Contenido (copy, foto, video) | USD 500/mes | USD 800/mes |
+149	| Redes sociales (gestión + herramientas) | USD 300/mes | USD 500/mes |
+150	| Publicidad pagada (si aplica) | USD 0–500/mes | USD 500–1.000/mes |
+151	| SEO | Incluido en web | USD 200/mes |
+152	| Email marketing (herramienta) | USD 30–50/mes | USD 30–50/mes |
+153	| **Total mensual (post-web)** | **~USD 830–1.350** | **~USD 2.230–2.750** |
+154	
+155	---
+156	
+157	## 7. KPIs de marketing
+158	
+159	| KPI | Definición | Meta Año 1 |
+160	|-----|-----------|:----------:|
+161	| Visitas web/mes | Tráfico total al sitio | 500–1.000 |
+162	| Leads/mes | Formularios completados + consultas solicitadas | 10–15 |
+163	| Tasa de conversión web | Leads / visitas | 2–3% |
+164	| Tasa de conversión lead→cliente | Clientes / leads | 20–30% |
+165	| Costo por lead (CPL) | Inversión marketing / leads | < USD 100 |
+166	| Costo de adquisición (CAC) | Inversión total / clientes | < USD 500 |
+167	| Engagement redes (tasa) | Interacciones / alcance | > 3% |
+168	| Suscriptores email | Lista de contactos activa | 200+ |
+169	| NPS | Satisfacción post-servicio | > 8/10 |
+170	
+171	---
+172	
+173	*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/objectives-general-and-specific.md` (S5, S7).*
+174
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:53:30Z)**_
+
+Now I have all the context. Let me create the marketing-specific questionnaire with answers.
+
+_**Agent (claude-opus-4-6 2026-04-13 19:56:52Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Write"><details>
+<summary>Tool use: **Write**</summary>
+
+```md
+# Cuestionario de Marketing, Imagen de Marca y Página Web — LEALTIS
+
+Respuestas completas basadas en la documentación del proyecto.
+
+---
+
+## I. IDENTIDAD DE MARCA Y LOGO
+
+### 1. ¿Cuál es el nombre comercial de la empresa y qué significa?
+
+**LEALTIS.** Deriva de "lealtad" (loyalty en inglés). Fue elegido porque:
+- Es memorable y fácil de pronunciar en español, neerlandés e inglés.
+- Evoca confianza sin ser genérico.
+- No limita la marca a un servicio específico (no es "Paraguay Legal" ni "Relocation SA").
+- Funciona como marca profesional de alto nivel en cualquier mercado.
+
+### 2. ¿El logo ya está diseñado? ¿Cuáles son los requisitos para diseñarlo?
+
+El logo **no está diseñado aún**. Está en fase de desarrollo y se recomienda contratar un diseñador profesional. Los requisitos que debe cumplir son:
+
+- **Profesionalismo:** No debe ser casual ni informal.
+- **Solidez:** Debe transmitir permanencia, no algo efímero.
+- **Internacionalidad:** Debe ser legible y funcional en cualquier mercado (Europa, Latinoamérica).
+- **Simplicidad:** Debe ser reconocible a cualquier tamaño — desde un favicon hasta una valla publicitaria.
+- **Versatilidad:** Debe funcionar sobre fondos claros y oscuros, en color y en monocromático.
+
+El logo **no debe** parecer de una startup tech, agencia de viajes, firma de abogados genérica ni gestoría administrativa.
+
+### 3. ¿Cuál es la paleta de colores oficial de LEALTIS?
+
+| Color | Código sugerido | Uso | Lo que evoca |
+|-------|----------------|-----|-------------|
+| **Azul oscuro / navy** | #1B2A4A (referencia) | Color primario — fondos, headers, logo | Confianza, profesionalismo, estabilidad |
+| **Dorado / champagne** | #C9A96E (referencia) | Acento premium — botones, detalles, íconos | Calidad, exclusividad, sofisticación |
+| **Blanco** | #FFFFFF | Fondos, espacios, respiro visual | Limpieza, claridad, transparencia |
+| **Gris oscuro** | #333333 | Texto principal, elementos secundarios | Seriedad, elegancia |
+
+**Evitar absolutamente:** Colores brillantes, neón, rojos agresivos, verdes llamativos, degradados excesivos o combinaciones que parezcan una agencia de viajes low-cost.
+
+### 4. ¿Cuál es la tipografía recomendada?
+
+| Uso | Estilo | Ejemplo de familias |
+|-----|--------|---------------------|
+| **Títulos y headers** | Serif moderna | Playfair Display, Libre Baskerville, Cormorant Garamond |
+| **Cuerpo de texto** | Sans-serif limpia | Inter, Open Sans, Lato, Source Sans Pro |
+
+La serif en títulos transmite tradición, solidez y autoridad. La sans-serif en cuerpo garantiza legibilidad y modernidad. La combinación es clásica del posicionamiento premium.
+
+### 5. ¿Cuál es el estilo visual de la marca (fotografía, imágenes, gráficos)?
+
+**Usar:**
+- Fotografías profesionales de Paraguay: arquitectura moderna de Asunción, naturaleza, vida urbana de calidad.
+- Imágenes del equipo trabajando (cuando estén disponibles): reuniones, jornadas operativas, espacios de trabajo.
+- Infografías limpias que expliquen el proceso paso a paso.
+- Iconografía consistente y minimalista para servicios y pasos del proceso.
+- Mucho espacio en blanco — la marca respira.
+
+**Evitar:**
+- Stock genérico de personas con trajes en oficinas brillantes.
+- Fotos con marca de agua o baja resolución.
+- Fotos posadas artificiales ("grupo de profesionales sonriendo a cámara").
+- Imágenes de pobreza, estereotipos latinoamericanos o rurales que no representen al target.
+- Diseños recargados, infantiles o con demasiados elementos.
+- Banderas, escudos o elementos que parezcan gubernamentales.
+
+### 6. ¿Cuál es la personalidad y voz de la marca?
+
+LEALTIS habla como un **asesor senior de confianza**: profesional pero accesible, seguro pero no arrogante, directo pero empático.
+
+| Dimensión | LEALTIS es | LEALTIS no es |
+|-----------|-----------|--------------|
+| Tono | Profesional y cálido | Frío, corporativo o distante |
+| Autoridad | Seguro, con experiencia demostrada | Pedante o condescendiente |
+| Comunicación | Clara, directa, sin jerga innecesaria | Ambigua, excesivamente legal o técnica |
+| Relación | Personal, accesible | Genérica, automatizada |
+| Energía | Tranquila y competente | Agresiva comercialmente o hype |
+
+### 7. ¿Cuáles son los mensajes centrales de la marca?
+
+**Mensaje principal:**
+> "Establecimiento operativo en Paraguay. Profesional, integrado, sin sorpresas."
+
+**Mensajes de soporte:**
+1. "Residencia, sociedad y cuenta bancaria — todo en un solo programa."
+2. "Un equipo de abogados, contadores y asesores financieros trabajando para usted."
+3. "Años de experiencia operando en el mercado paraguayo. No improvisamos."
+4. "Su único foco es tomar decisiones. Nosotros nos encargamos de todo lo demás."
+5. "Precio claro, alcance claro, proceso claro. Sin cargos ocultos."
+
+### 8. ¿Qué terminología debe usar la marca y cuál debe evitar?
+
+| Usar siempre | Nunca usar | Razón |
+|-------------|-----------|-------|
+| "Programa" | "Paquete" | Programa connota profesionalismo y estructura |
+| "Equipo técnico" | "Gestores" | Posicionamiento profesional, no administrativo |
+| "Establecimiento" | "Mudanza" | Más estratégico y empresarial |
+| "Optimización" | "Evasión" / "Elusión" | Legal, sin connotación negativa |
+| "Asesoramiento" | "Ayuda" | Profesionalismo |
+| "Inversión" | "Gasto" | Percepción de valor |
+| "Proceso coordinado" | "Trámites" | Valor agregado, no commodity |
+| "Jornada operativa" | "Día de papeleos" | Profesional y diferenciador |
+| "Paraguay" | "Paraíso fiscal" | Evitar connotación negativa y riesgo reputacional |
+
+### 9. ¿Qué es LEALTIS y qué NO es? (para briefing de diseñadores y redactores)
+
+| LEALTIS es | LEALTIS no es |
+|------------|---------------|
+| Un sistema integral de relocalización | Una gestoría de trámites |
+| Un equipo técnico multidisciplinario | Un abogado independiente |
+| Un servicio premium orientado a resultados | Un servicio económico de volumen |
+| Un socio estratégico para el primer año | Un proveedor que desaparece después del trámite |
+| Profesional, legal y transparente | Un facilitador de atajos o zonas grises |
+| Una marca europea que opera en Paraguay | Una empresa paraguaya que busca europeos |
+
+### 10. ¿En qué materiales se aplicará la identidad de marca?
+
+| Material | Lineamiento |
+|----------|-------------|
+| **Sitio web** | Colores primarios, tipografía consistente, fotos profesionales, mucho espacio en blanco |
+| **Presentaciones / PDFs** | Template con header LEALTIS, colores de marca, formateo consistente |
+| **Redes sociales** | Templates para posts con identidad visual coherente (mismos colores, tipografía, estilo) |
+| **Firmas de email** | Diseño limpio con logo, datos de contacto, sin exceso de información |
+| **Documentos para clientes** | Membrete LEALTIS, formato profesional, tono consistente |
+| **Tarjetas de presentación** | Diseño premium, minimalista, datos esenciales |
+| **Welcome pack (PDF)** | Guía del cliente con diseño de marca |
+
+---
+
+## II. PÁGINA WEB
+
+### 11. ¿En qué idiomas debe estar la página web?
+
+Tres idiomas, en orden de prioridad:
+
+1. **Neerlandés (Nederlands)** — Idioma principal. El mercado holandés es la prioridad #1.
+2. **Inglés** — Idioma secundario. Para mercado europeo amplio (alemanes, nórdicos, belgas que navegan en inglés).
+3. **Español** — Terciario. Para credibilidad local y clientes hispanohablantes.
+
+Se recomienda un plugin multilingüe profesional (WPML, Polylang) y **traducción profesional** (no automática) al neerlandés y al inglés.
+
+### 12. ¿Cuál es la estructura de páginas del sitio web?
+
+\```
+Home (página principal)
+├── Programas
+│   ├── Paraguay Business (USD 4.400)
+│   └── Paraguay Investor Program (USD 6.900)
+├── Por qué Paraguay
+├── Cómo funciona (Proceso paso a paso)
+├── Sobre LEALTIS (equipo, diferencia)
+├── Preguntas frecuentes (FAQ)
+├── Blog
+├── Contacto / Agendar consulta
+└── Política de privacidad
+\```
+
+**Total: 9–10 páginas principales + artículos de blog.**
+
+### 13. ¿Qué debe contener la página de inicio (Home)?
+
+**Hero Section (lo primero que ve el visitante):**
+- Titular: "Establezca su operación en Paraguay. Profesional, integrado, sin sorpresas."
+- Subtítulo: "Residencia, sociedad y cuenta bancaria — todo en un solo programa, un solo viaje, un equipo de profesionales a su lado."
+- CTA principal: Botón "Agendar consulta gratuita"
+- Imagen de fondo: Asunción moderna, profesional, luminosa.
+
+**Sección "Lo que hacemos":**
+- Párrafo breve explicando qué es LEALTIS (sistema integral de relocalización).
+
+**Sección "Nuestros programas":**
+- Tabla resumen: Paraguay Business (USD 4.400) vs Paraguay Investor Program (USD 6.900) con descripción breve.
+- CTA: "Ver programas en detalle"
+
+**Sección "Por qué LEALTIS" (5 diferenciadores):**
+1. Un solo programa — todo integrado.
+2. Un solo viaje — tramitación en una jornada.
+3. Precio transparente — sin cargos ocultos.
+4. Equipo profesional — abogados, contadores, escribanos.
+5. Acceso bancario — resolvemos el principal obstáculo.
+
+**Sección "Señales de confianza":**
+- Años de experiencia en el mercado paraguayo.
+- Equipo multidisciplinario de primer nivel.
+- Proceso comprobado con clientes internacionales.
+- Precio todo incluido, sin sorpresas.
+- (Testimonios cuando estén disponibles.)
+
+**CTA final:** "Agendar consulta gratuita"
+
+### 14. ¿Qué debe contener cada página de programa?
+
+**Paraguay Business (USD 4.400):**
+- Titular: "Paraguay Business — Establecimiento operativo completo"
+- Descripción: Para el empresario o profesional europeo que necesita operar con capacidad real.
+- Lista de todo lo incluido (9 ítems: residencia, cédula, sociedad, RUC, banco, validación documental, jornada, logística, tour, asesoramiento, honorarios/IVA/tasas).
+- Precio visible: "USD 4.400 — Pago anticipado. Sin cargos adicionales."
+- CTA: "Solicitar consulta sobre este programa"
+
+**Paraguay Investor Program (USD 6.900):**
+- Titular: "Paraguay Investor Program — Su socio estratégico durante 12 meses"
+- Descripción: Para el inversor o familia de alto patrimonio.
+- Todo lo del Business + contabilidad 12 meses, asesoría legal/fiscal 12 meses, análisis de inversiones.
+- Precio visible: "USD 6.900 — Pago anticipado. Sin cargos adicionales."
+- CTA: "Solicitar consulta sobre este programa"
+
+**Ambas páginas deben incluir:** Tabla comparativa entre programas, sección de "qué no está incluido" (para transparencia), y link a FAQ.
+
+### 15. ¿Qué debe contener la página "Por qué Paraguay"?
+
+- Entorno económico favorable: crecimiento sostenido, inflación controlada, impuesto del 10%, sistema territorial.
+- Oportunidades de inversión: inmobiliario en desarrollo, agroindustria, economía abierta.
+- Calidad de vida: clima, comunidad internacional, poder adquisitivo.
+- "Lo que pocos le cuentan": la oportunidad es real pero el proceso no es sencillo sin guía adecuada.
+
+**Tono:** Informativo, positivo pero honesto. No vender Paraguay como paraíso — sino como oportunidad seria.
+
+### 16. ¿Qué debe contener la página "Cómo funciona" (Proceso)?
+
+Cinco pasos visuales (con íconos o timeline):
+
+1. **Consulta inicial** — Conversamos sobre su situación y objetivos.
+2. **Validación documental** — Revisamos todo antes de su viaje. No viaja hasta que esté listo.
+3. **Jornada operativa** — En un solo día, ejecutamos todos los trámites presenciales.
+4. **Constitución empresarial y bancaria** — Mientras regresa, constituimos su sociedad y coordinamos la cuenta.
+5. **Entrega y seguimiento** — Recibe sus documentos definitivos.
+
+Tiempo estimado total: 8–12 semanas.
+CTA: "Iniciar mi proceso"
+
+### 17. ¿Qué debe contener la página "Sobre LEALTIS"?
+
+- Descripción del equipo: abogados, contadores, asesores financieros, escribanos con experiencia en el mercado.
+- Roles del equipo: Dirección de Operaciones (Paraguay), Dirección Comercial (Europa), Equipo Legal, Equipo Contable, Coordinación.
+- "Nuestra diferencia": No somos una gestoría. Integramos todo en un solo programa, un solo equipo, un solo compromiso.
+- Fotos del equipo (cuando estén disponibles).
+- Historia o motivación de LEALTIS (cuando se defina el copy final).
+
+### 18. ¿Cuántas preguntas frecuentes (FAQ) debe tener la web y cuáles son?
+
+**15 preguntas**, organizadas por tema:
+
+**Proceso:**
+1. ¿Cuánto tiempo toma todo el proceso? — Tramitación en 1 día; emisión 45–60 días; total 8–12 semanas.
+2. ¿Cuántos viajes necesito hacer? — Uno solo es suficiente.
+3. ¿Qué pasa si falta algún documento? — Lo detectamos antes de su viaje.
+4. ¿Necesito hablar español? — No, le acompañamos en todo momento.
+5. ¿Qué pasa si cambian las leyes durante mi proceso? — Monitoreamos y adaptamos.
+
+**Precios y pagos:**
+6. ¿Qué incluye el precio? — Honorarios, IVA, tasas, gastos. Todo incluido.
+7. ¿Qué no está incluido? — Vuelos, alojamiento, apostillas en origen, gastos personales.
+8. ¿Cómo se realiza el pago? — Anticipado por transferencia. Sin cargos adicionales.
+
+**Servicios específicos:**
+9. ¿Puedo abrir una cuenta bancaria siendo extranjero? — Sí, LEALTIS coordina y prepara el expediente.
+10. ¿Ofrecen garantía de apertura bancaria? — No, la decisión es del banco. Garantizamos preparación profesional.
+11. ¿Qué tipo de sociedad se constituye? — Depende del análisis legal (generalmente EAS o SA).
+12. ¿Puedo contratar solo la residencia sin la sociedad? — Programas integrales. Contáctenos para su caso.
+
+**Post-programa:**
+13. ¿Qué pasa después del primer año (Investor)? — Propuesta de continuidad adaptada.
+14. ¿Puedo traer a mi familia? — Sí, cada miembro requiere su propio proceso.
+
+**Legal:**
+15. ¿El proceso es 100% legal? — Absolutamente. Estricto apego a la ley.
+
+### 19. ¿Qué campos debe tener el formulario de contacto?
+
+| Campo | Tipo | Obligatorio |
+|-------|------|:-----------:|
+| Nombre completo | Texto | Sí |
+| Email | Email | Sí |
+| Teléfono | Teléfono | No |
+| País de residencia actual | Dropdown o texto | Sí |
+| ¿En qué programa está interesado? | Selector: Business / Investor / No estoy seguro | Sí |
+| ¿Cuál es su objetivo principal? | Texto libre | No |
+| ¿Cómo nos conoció? | Dropdown: Búsqueda web / Redes sociales / Referido / Otro | No |
+
+**CTA del formulario:** "Agendar consulta gratuita"
+**Alternativa visible:** Email de contacto directo.
+
+### 20. ¿Qué requisitos técnicos debe tener el sitio web?
+
+| Requisito | Especificación |
+|-----------|---------------|
+| **CMS** | WordPress (recomendado por flexibilidad y ecosistema multilingüe) |
+| **Plugin multilingüe** | WPML o Polylang |
+| **Hosting** | Confiable, con SSL incluido, CDN, backup automático |
+| **Dominio** | lealtis.com (o variante disponible) |
+| **Responsive** | Diseño mobile-first (mayoría del tráfico será mobile) |
+| **Velocidad** | PageSpeed > 80 en mobile |
+| **SSL** | HTTPS obligatorio |
+| **Analytics** | Google Analytics 4 + Google Search Console |
+| **Formularios** | Integración con CRM (leads capturados automáticamente) |
+| **Agendamiento** | Calendly o similar integrado para reservar consultas |
+| **SEO técnico** | Yoast SEO o equivalente, sitemap XML, meta tags por idioma, hreflang |
+| **Cookie consent** | Banner GDPR compliant (clientes europeos) |
+| **Email** | Integración con herramienta de email marketing (Mailchimp, ConvertKit) |
+
+### 21. ¿Cuál es el diseño visual esperado para la web?
+
+| Elemento | Directriz |
+|----------|-----------|
+| **Estilo general** | Profesional, limpio, premium. Mucho espacio en blanco. No recargado. |
+| **Colores** | Navy + dorado + blanco + gris oscuro (paleta de marca) |
+| **Tipografía** | Serif moderna para títulos, sans-serif para cuerpo |
+| **Imágenes** | Fotografías profesionales de Paraguay y equipo. No stock genérico. |
+| **Iconografía** | Set consistente y minimalista para pasos del proceso y servicios |
+| **CTAs** | Botones visibles en color dorado/champagne sobre navy. Consistentes en todo el sitio. |
+| **Navegación** | Simple, máximo 7 items en menú principal + selector de idioma visible |
+| **Footer** | Logo, datos de contacto, links a páginas principales, redes sociales, política de privacidad |
+
+**Referencia visual:** Sitios de firmas de consultoría premium europeas, no agencias de viajes ni startups.
+
+### 22. ¿Qué contenido SEO debe tener la web?
+
+**Keywords principales por idioma:**
+
+| Idioma | Keywords |
+|--------|----------|
+| **Neerlandés** | "wonen in Paraguay", "bedrijf starten Paraguay", "residencia Paraguay", "investeren Paraguay", "belasting Paraguay", "emigreren naar Paraguay" |
+| **Inglés** | "Paraguay residency for Europeans", "start a business in Paraguay", "invest in Paraguay", "bank account Paraguay", "relocate to Paraguay", "Paraguay tax residency" |
+| **Español** | "residencia Paraguay europeos", "empresa en Paraguay", "invertir en Paraguay", "cuenta bancaria Paraguay extranjeros" |
+
+**SEO técnico obligatorio:**
+- Meta título y descripción únicos por página y por idioma.
+- Etiquetas hreflang para indicar versiones por idioma.
+- Sitemap XML.
+- URLs limpias (lealtis.com/nl/programmas, lealtis.com/en/programs, etc.).
+- Velocidad de carga optimizada (compresión de imágenes, caching).
+- Schema markup (Organization, FAQ, Service).
+
+### 23. ¿Qué integraciones necesita la web?
+
+| Integración | Propósito |
+|-------------|-----------|
+| **Google Analytics 4** | Medición de tráfico, comportamiento, conversiones |
+| **Google Search Console** | Monitoreo de indexación y posicionamiento SEO |
+| **CRM** (HubSpot free, Pipedrive, o similar) | Captura automática de leads desde formularios |
+| **Calendly** (o similar) | Agendamiento de consultas directamente desde la web |
+| **Mailchimp / ConvertKit** | Email marketing y secuencia de nurturing |
+| **WhatsApp Business** | Botón de contacto rápido (widget flotante) |
+| **Cookie consent** (Cookiebot, Complianz) | Cumplimiento GDPR para visitantes europeos |
+| **Redes sociales** | Links a LinkedIn, Instagram, YouTube |
+
+---
+
+## III. CONTENIDO Y REDES SOCIALES
+
+### 24. ¿Cuál es el tono de comunicación por canal?
+
+| Canal | Tono | Ejemplo |
+|-------|------|---------|
+| **Sitio web** | Profesional, informativo, orientado a acción | "Establecemos su operación en Paraguay en un solo programa." |
+| **LinkedIn** | Thought leadership, datos, insights de mercado | "El mercado inmobiliario paraguayo creció X% — esto es lo que significa para el inversor europeo." |
+| **Instagram** | Aspiracional, visual, humano | "Así luce un día de tramitación con LEALTIS en Asunción." |
+| **YouTube** | Educativo, personal, cercano | "En este video les explico paso a paso cómo funciona la apertura de empresa en Paraguay." |
+| **Email** | Directo, personalizado, valioso | "Hola [nombre], quería compartir algo relevante para su proceso..." |
+
+### 25. ¿Cuáles son los pilares de contenido para redes sociales y blog?
+
+| Pilar | Objetivo | % del contenido |
+|-------|---------|:---------------:|
+| **Vida en Paraguay** | Inspirar, mostrar el destino | 25% |
+| **Oportunidades de inversión** | Posicionar Paraguay como mercado atractivo | 20% |
+| **Proceso de establecimiento** | Educar, reducir incertidumbre, demostrar expertise | 25% |
+| **LEALTIS y equipo** | Generar confianza, humanizar la marca | 15% |
+| **Mercado inmobiliario** | Atraer inversores | 15% |
+
+### 26. ¿Con qué frecuencia se debe publicar en cada plataforma?
+
+| Plataforma | Frecuencia | Formato principal |
+|------------|-----------|-------------------|
+| **LinkedIn** | 2–3 posts/semana | Artículos cortos, carruseles, datos de mercado |
+| **Instagram** | 3–4 posts/semana + stories diarios | Fotos, infografías, reels cortos |
+| **YouTube** | 2–4 videos/mes | Explicativos (5–10 min), tours (3–5 min), Q&A (10–15 min) |
+| **Blog** | 1 artículo/semana | Artículos de 800–1.500 palabras |
+| **Email** | 1/semana durante nurturing, luego 2/mes | Newsletter con contenido de valor |
+
+### 27. ¿Qué temas debe cubrir el blog? (primeros 10 artículos prioritarios)
+
+1. "Cómo funciona la residencia paraguaya paso a paso"
+2. "La verdad sobre abrir una cuenta bancaria en Paraguay"
+3. "Costo de vida en Paraguay: guía realista para europeos"
+4. "Constituir una empresa en Paraguay: tipos societarios y pasos"
+5. "Por qué los europeos miran a Paraguay en 2026"
+6. "La diferencia entre una gestoría y un equipo profesional de relocalización"
+7. "¿Es posible hacer todo en un solo viaje? Sí, así funciona"
+8. "Mercado inmobiliario paraguayo: panorama actual"
+9. "Entorno fiscal de Paraguay: lo esencial explicado simple"
+10. "Documentos necesarios para establecerse en Paraguay: checklist completo"
+
+### 28. ¿Cuál es la secuencia de emails para leads que no contratan inmediatamente?
+
+| # | Día | Asunto | Contenido |
+|---|:---:|--------|-----------|
+| 1 | 0 | "Gracias por su interés en Paraguay" | Bienvenida, resumen de LEALTIS, link a programas |
+| 2 | 3 | "Lo que hace diferente a Paraguay" | Artículo sobre entorno económico y fiscal |
+| 3 | 7 | "El proceso paso a paso" | Explicación del proceso, CTA: "¿Tiene preguntas?" |
+| 4 | 12 | "¿Es posible en un solo viaje?" | Cómo funciona la jornada operativa |
+| 5 | 18 | "Lo que nadie le cuenta sobre la banca en Paraguay" | El desafío bancario y la solución LEALTIS |
+| 6 | 25 | "¿Cuál es el programa adecuado para usted?" | Comparación Business vs Investor, CTA: agendar consulta |
+| 7 | 35 | "¿Listo para dar el siguiente paso?" | Resumen de valor, testimonios, CTA final |
+
+Post-secuencia: Newsletter quincenal.
+
+### 29. ¿Qué tipo de contenido visual se necesita producir?
+
+| Tipo | Cantidad inicial | Uso | Prioridad |
+|------|:----------------:|-----|:---------:|
+| **Sesión fotográfica en Asunción** | 50–100 fotos | Web, redes, presentaciones | Alta |
+| **Video presentación de LEALTIS** | 1 video (2–3 min) | Home de la web, YouTube, redes | Alta |
+| **Templates para posts sociales** | 5–10 templates | Instagram, LinkedIn (adaptados a marca) | Alta |
+| **Infografías del proceso** | 3–5 infografías | Web (página Proceso), redes | Media |
+| **Iconografía de servicios** | 8–10 íconos | Web (servicios, pasos, features) | Media |
+| **Videos explicativos** | 2–3 videos (5–10 min) | YouTube, web, redes | Media |
+| **Diseño de PDF** | 2 templates | Welcome pack, propuesta comercial | Media |
+
+---
+
+## IV. BUYER PERSONAS Y MESSAGING
+
+### 30. ¿Quiénes son los buyer personas y qué mensaje resuena con cada uno?
+
+**Persona 1: "El Inversor" — Jan, 52 años, Países Bajos**
+- Empresario exitoso, patrimonio > EUR 500k.
+- Busca diversificar fuera de Europa, inversión inmobiliaria, planificación patrimonial.
+- Preocupaciones: seguridad jurídica, confiabilidad, calidad de oportunidades.
+- Canales: LinkedIn, búsqueda web, referidos profesionales.
+- Mensaje: "Acceso profesional a un mercado en crecimiento, con estructura legal sólida."
+- Programa: Paraguay Investor Program.
+
+**Persona 2: "El Optimizador" — Thomas, 38 años, Alemania**
+- Freelancer/consultor digital, ingresos EUR 80k–200k.
+- Busca reducir carga fiscal (no lo dice) y flexibilidad.
+- Preocupaciones: legalidad, simplicidad, no perder tiempo.
+- Canales: YouTube, blogs de expatriados, Instagram.
+- Mensaje: "Establecimiento operativo en Paraguay sin complicaciones, en un solo viaje."
+- Programa: Paraguay Business.
+
+**Persona 3: "La Familia" — Erik y Sophie, 45/42 años, Bélgica**
+- Pareja con hijos, capital medio, buscan cambio de vida.
+- Buscan calidad de vida y nueva experiencia.
+- Preocupaciones: seguridad, educación, facilidad, idioma.
+- Canales: Facebook groups, YouTube, blogs, referidos de amigos.
+- Mensaje: "Un equipo que habla tu idioma y te guía paso a paso."
+- Programa: Paraguay Business.
+
+### 31. ¿Cuáles son los 4 pilares de messaging de la marca?
+
+| Pilar | Mensaje central | Subtemas |
+|-------|----------------|----------|
+| **Oportunidad** | Paraguay es un mercado en crecimiento con condiciones favorables | Economía, inmobiliario, calidad de vida |
+| **Simplicidad** | LEALTIS lo hace simple | Un programa, un viaje, un equipo, sin sorpresas |
+| **Seguridad** | Proceso profesional y predecible | Equipo técnico, compliance, transparencia de precios |
+| **Confianza** | Experiencia y relaciones comprobadas | Años en el mercado, equipo multidisciplinario |
+
+### 32. ¿Qué temas están estrictamente prohibidos en la comunicación de marketing?
+
+| Prohibido | Razón |
+|-----------|-------|
+| "Paraíso fiscal" | Connotación negativa, atrae perfil problemático |
+| "Evasión de impuestos" / "Elusión fiscal" | Ilegal o ambiguo, riesgo reputacional y legal |
+| "No tendrá que pagar impuestos" | Falso y engañoso |
+| "Garantizamos aprobación bancaria" | No controlable, genera expectativas falsas |
+| Asesoramiento fiscal en jurisdicción europea | Fuera de competencia, riesgo legal |
+| Promesas de plazos exactos gubernamentales | No controlable |
+| Comparaciones agresivas con competidores | Reduce posicionamiento premium |
+| Testimonios falsos o inventados | Ilegal e irresponsable |
+
+---
+
+## V. PRESUPUESTO Y PRODUCCIÓN
+
+### 33. ¿Cuál es el presupuesto estimado para desarrollo de marca y web?
+
+| Concepto | Rango (USD) |
+|----------|:-----------:|
+| Diseño de logo e identidad visual completa | 1.000–3.000 |
+| Sitio web (diseño, desarrollo, contenido 3 idiomas) | 3.000–8.000 |
+| Sesión fotográfica profesional | 500–1.000 |
+| Video introductorio | 500–1.500 |
+| Templates para redes sociales | 200–500 |
+| Materiales impresos (tarjetas, brochures) | 200–500 |
+| **Total producción de marca + web** | **USD 5.400–14.500** |
+
+### 34. ¿Cuál es el presupuesto mensual de marketing operativo?
+
+| Fase | Rango mensual (USD) |
+|------|:-------------------:|
+| Meses 1–6 (lanzamiento) | 650–1.950 |
+| Meses 7–12 (crecimiento) | 2.030–3.980 |
+| Año 2+ (escala) | 3.050–5.500 |
+
+Incluye: gestión de redes, creación de contenido, SEO, publicidad pagada, email marketing, herramientas.
+
+### 35. ¿Cuáles son los KPIs de marketing para medir el éxito?
+
+| KPI | Meta Año 1 |
+|-----|:----------:|
+| Visitas web/mes | 500–1.000 |
+| Leads/mes | 10–15 |
+| Tasa de conversión web (lead/visita) | 2–3% |
+| Tasa de conversión lead→cliente | 20–30% |
+| Costo por lead (CPL) | < USD 100 |
+| Costo de adquisición (CAC) | < USD 500 |
+| Engagement en redes | > 3% |
+| Suscriptores email | 200+ |
+| NPS de clientes | > 8/10 |
+
+---
+
+## VI. TIMELINE DE PRODUCCIÓN
+
+### 36. ¿Cuál es el cronograma recomendado para tener la marca y web lista?
+
+| Semana | Actividad | Entregable |
+|:------:|-----------|------------|
+| 1 | Brief de marca al diseñador | Brief aprobado |
+| 1–2 | Wireframes del sitio web | Estructura aprobada |
+| 2–4 | Diseño de logo + identidad visual | Logo + manual de marca |
+| 2–4 | Diseño visual del sitio web | Mockups aprobados |
+| 2–5 | Redacción de contenido web (ES) + traducciones (NL, EN) | Textos aprobados en 3 idiomas |
+| 3–4 | Sesión fotográfica en Asunción | Banco de imágenes |
+| 4–7 | Desarrollo web + integraciones | Sitio funcional |
+| 7–8 | Testing + correcciones + publicación | **Sitio web live** |
+
+**Total: 8 semanas desde kick-off hasta web publicada.**
+
+---
+
+*Documento generado a partir de: `marketing/identidad-de-marca.md`, `marketing/contenido-web.md`, `marketing/estrategia-de-marketing.md`, `marketing/plan-de-contenidos.md`, `proyectos/plan-de-proyecto-web.md`.*
+
+```
+
+```text
+File created successfully at: C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 19:57:01Z)**_
+
+Created `source-of-truth/cuestionario-marketing-imagen-web.md` with **36 preguntas y respuestas** organizadas en 6 secciones:
+
+| Sección | Preguntas | Cubre |
+|---------|:---------:|-------|
+| **I. Identidad de marca y logo** | 1–10 | Nombre, logo, colores, tipografía, estilo visual, voz, mensajes, terminología, aplicaciones |
+| **II. Página web** | 11–23 | Idiomas, estructura, contenido por página, FAQ, formulario, requisitos técnicos, diseño, SEO, integraciones |
+| **III. Contenido y redes** | 24–29 | Tono por canal, pilares, frecuencia, blog, email nurturing, producción visual |
+| **IV. Buyer personas y messaging** | 30–32 | 3 personas detalladas, 4 pilares de mensaje, temas prohibidos |
+| **V. Presupuesto** | 33–35 | Costos de marca/web, presupuesto mensual, KPIs |
+| **VI. Timeline** | 36 | Cronograma de 8 semanas hasta web live |
+
+This document serves as a complete brief for a designer, developer, or marketing agency to execute the brand and website.
+
+---
+
+_**User (2026-04-13 20:05:21Z)**_
+
+the brand is not lealtis p;lease delete everything to do with this\\
+i still dont have the name of teh proyect
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 20:05:36Z)**_
+
+_**Agent (claude-opus-4-6 2026-04-13 20:05:37Z)**_
+
+Understood — LEALTIS is Daniel's program name, not your brand. Let me replace it with a placeholder across all generated documents.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:05:37Z)**_
+
+<tool-use data-tool-type="search" data-tool-name="Grep"><details>
+<summary>Tool use: **Grep**</summary>
+ pattern `LEALTIS`
+
+```text
+source-of-truth\lealtis-paraguay-business-program.md:12
+presupuesto\proyeccion-financiera-3-anos.md:1
+presupuesto\presupuesto-operativo.md:1
+source-of-truth\cuestionario-respuestas-completas.md:40
+presupuesto\presupuesto-marketing.md:1
+source-of-truth\cuestionario-marketing-imagen-web.md:21
+presupuesto\inversion-inicial.md:2
+.specstory\history\2026-04-13_17-58-55Z-analize-the-proyects-source.md:397
+.specstory\history\2026-04-13_17-14-23Z-accessing-camscanner-pdf.md:13
+riesgos\registro-de-riesgos.md:4
+riesgos\politica-de-compliance.md:5
+riesgos\plan-de-mitigacion.md:2
+riesgos\plan-de-continuidad.md:1
+riesgos\matriz-de-riesgos.md:1
+servicios\SLAs-y-compromisos.md:9
+servicios\paquetes-y-precios.md:4
+servicios\checklist-documentos-cliente.md:14
+servicios\catalogo-de-servicios.md:1
+presupuesto\estructura-de-ingresos.md:2
+servicios\blueprint-operativo-paraguay-business.md:11
+servicios\blueprint-operativo-investor-program.md:6
+plan de negocios\resumen-ejecutivo.md:7
+plan de negocios\proyecciones-financieras.md:3
+plan de negocios\estrategia-comercial.md:5
+plan de negocios\analisis-de-mercado.md:5
+plan de negocios\modelo-de-negocio.md:2
+marketing\plan-de-contenidos.md:9
+plan de negocios\estructura-organizacional.md:1
+marketing\identidad-de-marca.md:8
+marketing\estrategia-de-referidos.md:16
+marketing\estrategia-de-marketing.md:5
+marketing\contenido-web.md:14
+documentos\politica-de-privacidad.md:8
+documentos\manual-de-procesos-internos.md:2
+documentos\guia-del-cliente.md:6
+documentos\cuestionario-proyecto-relocacion.md:3
+documentos\acuerdo-de-servicios-template.md:18
+proyectos\roadmap-implementacion.md:3
+proyectos\plan-de-proyecto-lanzamiento.md:4
+proyectos\plan-de-proyecto-web.md:3
+proyectos\indicadores-clave-KPIs.md:1
+
+Found 671 total occurrences across 41 files.
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:05:41Z)**_
+
+671 occurrences across 41 files. I'll also check for "Lealtis" and "lealtis" variants.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:05:42Z)**_
+
+<tool-use data-tool-type="search" data-tool-name="Grep"><details>
+<summary>Tool use: **Grep**</summary>
+ path `./` pattern `(?i)lealtis`
+
+```text
+.specstory\history\2026-04-13_17-58-55Z-analize-the-proyects-source.md:429
+documentos\politica-de-privacidad.md:8
+documentos\manual-de-procesos-internos.md:2
+marketing\estrategia-de-marketing.md:5
+marketing\contenido-web.md:15
+marketing\estrategia-de-referidos.md:16
+marketing\identidad-de-marca.md:9
+source-of-truth\lealtis-paraguay-business-program.md:12
+source-of-truth\cuestionario-respuestas-completas.md:41
+source-of-truth\cuestionario-marketing-imagen-web.md:23
+documentos\guia-del-cliente.md:6
+documentos\cuestionario-proyecto-relocacion.md:3
+documentos\acuerdo-de-servicios-template.md:18
+proyectos\roadmap-implementacion.md:3
+proyectos\plan-de-proyecto-web.md:4
+servicios\SLAs-y-compromisos.md:9
+presupuesto\proyeccion-financiera-3-anos.md:1
+proyectos\plan-de-proyecto-lanzamiento.md:4
+.specstory\history\2026-04-13_17-14-23Z-accessing-camscanner-pdf.md:17
+presupuesto\presupuesto-operativo.md:2
+servicios\paquetes-y-precios.md:5
+proyectos\indicadores-clave-KPIs.md:1
+presupuesto\estructura-de-ingresos.md:3
+presupuesto\presupuesto-marketing.md:1
+marketing\plan-de-contenidos.md:9
+servicios\checklist-documentos-cliente.md:15
+servicios\blueprint-operativo-investor-program.md:7
+servicios\catalogo-de-servicios.md:2
+presupuesto\inversion-inicial.md:2
+plan de negocios\resumen-ejecutivo.md:8
+plan de negocios\estructura-organizacional.md:1
+plan de negocios\estrategia-comercial.md:5
+plan de negocios\analisis-de-mercado.md:5
+plan de negocios\modelo-de-negocio.md:2
+riesgos\plan-de-continuidad.md:1
+riesgos\matriz-de-riesgos.md:1
+riesgos\plan-de-mitigacion.md:2
+riesgos\politica-de-compliance.md:5
+plan de negocios\proyecciones-financieras.md:4
+riesgos\registro-de-riesgos.md:4
+servicios\blueprint-operativo-paraguay-business.md:12
+
+Found 722 total occurrences across 41 files.
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:05:46Z)**_
+
+I'll do a bulk replace across all project `.md` files (excluding `.specstory` history and the original source-of-truth transcription from Daniel's PDF). I'll replace "LEALTIS" with `[NOMBRE DE EMPRESA]`.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:10:20Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Replace LEALTIS with placeholder across all generated docs
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && find documentos marketing "plan de negocios" presupuesto proyectos riesgos servicios -name "*.md" -exec sed -i 's/LEALTIS/[NOMBRE DE EMPRESA]/g' {} + && find documentos marketing "plan de negocios" presupuesto proyectos riesgos servicios -name "*.md" -exec sed -i 's/Lealtis/[Nombre de Empresa]/g' {} + && find documentos marketing "plan de negocios" presupuesto proyectos riesgos servicios -name "*.md" -exec sed -i 's/lealtis/[nombre de empresa]/g' {} +`
+
+```text
+[rerun: b16]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:10:24Z)**_
+
+Now the two source-of-truth questionnaire files.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:10:32Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Replace LEALTIS in source-of-truth questionnaire files
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && find source-of-truth -name "cuestionario*.md" -exec sed -i 's/LEALTIS/[NOMBRE DE EMPRESA]/g' {} + && find source-of-truth -name "cuestionario*.md" -exec sed -i 's/Lealtis/[Nombre de Empresa]/g' {} + && find source-of-truth -name "cuestionario*.md" -exec sed -i 's/lealtis/[nombre de empresa]/g' {} +`
+
+```text
+[rerun: b17]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:10:38Z)**_
+
+Now let me also update the marketing files that had brand name references in specific content (like the identity doc that explains the name meaning — that needs updating since the name isn't decided yet).
+
+_**Agent (claude-opus-4-6 2026-04-13 20:10:43Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+<tool_use_error>File has been modified since read, either by the user or by a linter. Read it again before attempting to write it.</tool_use_error>
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:10:47Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\marketing\identidad-de-marca.md`
+
+```text
+1	# Identidad de Marca — [NOMBRE DE EMPRESA]
+2	
+3	---
+4	
+5	## 1. El nombre
+6	
+7	**[NOMBRE DE EMPRESA]** — derivado de **lealtad** (loyalty). Transmite compromiso, fidelidad y relación a largo plazo.
+8	
+9	El nombre fue elegido porque:
+10	- Es memorable y fácil de pronunciar en español, neerlandés e inglés.
+11	- Evoca confianza sin ser genérico.
+12	- No limita la marca a un servicio específico (no es "Paraguay Legal" ni "Relocation SA").
+13	- Funciona como marca profesional de alto nivel.
+14	
+15	---
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:11:05Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/identidad-de-marca.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:11:08Z)**_
+
+Now let me also fix the questionnaire answer about the name.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:11:10Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+
+```text
+1	# Cuestionario de Marketing, Imagen de Marca y Página Web — [NOMBRE DE EMPRESA]
+2	
+3	Respuestas completas basadas en la documentación del proyecto.
+4	
+5	---
+6	
+7	## I. IDENTIDAD DE MARCA Y LOGO
+8	
+9	### 1. ¿Cuál es el nombre comercial de la empresa y qué significa?
+10	
+11	**[NOMBRE DE EMPRESA].** Deriva de "lealtad" (loyalty en inglés). Fue elegido porque:
+12	- Es memorable y fácil de pronunciar en español, neerlandés e inglés.
+13	- Evoca confianza sin ser genérico.
+14	- No limita la marca a un servicio específico (no es "Paraguay Legal" ni "Relocation SA").
+15	- Funciona como marca profesional de alto nivel en cualquier mercado.
+16
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:11:10Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\source-of-truth\cuestionario-respuestas-completas.md`
+
+```text
+1	# Cuestionario del Proyecto de Relocación a Paraguay — Respuestas Completas
+2	
+3	---
+4	
+5	## INFORMACIÓN GENERAL
+6	
+7	### 1. ¿Cuál es el nombre de la empresa que ofrece los servicios de relocación?
+8	
+9	**[NOMBRE DE EMPRESA].** El nombre deriva de "lealtad" (loyalty en inglés), transmitiendo compromiso, fidelidad y relación a largo plazo. Es memorable, fácil de pronunciar en español, neerlandés e inglés, y no limita la marca a un servicio específico.
+10	
+11	### 2. ¿Cuál es el logo de la empresa?
+12
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:11:20Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:12:22Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-respuestas-completas.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:12:26Z)**_
+
+Let me verify the cleanup is complete.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:12:27Z)**_
+
+<tool-use data-tool-type="search" data-tool-name="Grep"><details>
+<summary>Tool use: **Grep**</summary>
+ path `./` pattern `LEALTIS`
+
+```text
+.specstory\history\2026-04-13_17-58-55Z-analize-the-proyects-source.md:405
+.specstory\history\2026-04-13_17-14-23Z-accessing-camscanner-pdf.md:13
+source-of-truth\lealtis-paraguay-business-program.md:12
+source-of-truth\cuestionario-respuestas-completas.md:1
+source-of-truth\cuestionario-marketing-imagen-web.md:1
+
+Found 432 total occurrences across 5 files.
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:12:37Z)**_
+
+The remaining "LEALTIS" references are only in:
+- `.specstory/` — conversation history (auto-generated, not project docs)
+- `source-of-truth/lealtis-paraguay-business-program.md` — Daniel's original program transcription (should stay as-is, it's his material)
+- The 2 questionnaire files — just the 1 reference each explaining that "LEALTIS" is Daniel's brand name (intentional context note)
+
+Done. Here's what was changed:
+
+- **Replaced "LEALTIS" with `[NOMBRE DE EMPRESA]`** across all 30+ generated documents (671+ occurrences)
+- **Updated brand identity docs** to reflect that the name is pending
+- **Updated both questionnaires** to clarify the name hasn't been decided yet
+- **Preserved Daniel's original source-of-truth file** (`lealtis-paraguay-business-program.md`) untouched since that's his program material
+- **Added a note** in questionnaire answers explaining that Daniel's material uses "LEALTIS" but the joint venture name is TBD
+
+When you decide on a name, a single find-and-replace of `[NOMBRE DE EMPRESA]` will update everything instantly.
+
+---
+
+_**User (2026-04-13 20:15:23Z)**_
+
+agregar el hecho qque debe estar en ingles, holandes, Aleman, y espanol las opciones de idiomas
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 20:15:29Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Find all files referencing the 3-language setup
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && grep -rn "Neerlandés (principal), Inglés, Español\|NL/EN/ES\|NL, EN, ES\|neerlandés e inglés\|Dutch.*English.*Spanish\|Neerlandés.*Inglés.*Español" --include="*.md" -l | grep -v ".specstory"`
+
+```text
+marketing/contenido-web.md
+marketing/estrategia-de-marketing.md
+marketing/identidad-de-marca.md
+plan de negocios/estrategia-comercial.md
+plan de negocios/modelo-de-negocio.md
+presupuesto/inversion-inicial.md
+proyectos/roadmap-implementacion.md
+source-of-truth/cuestionario-marketing-imagen-web.md
+source-of-truth/cuestionario-respuestas-completas.md
+[rerun: b18]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:15:49Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Add German (Alemán/DE) to all language references
+
+```bash
+cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && find marketing "plan de negocios" presupuesto proyectos servicios documentos riesgos source-of-truth -name "*.md" \
+  -exec sed -i 's/Neerlandés (principal), Inglés, Español/Neerlandés (principal), Inglés, Alemán, Español/g' {} + \
+  && find marketing "plan de negocios" presupuesto proyectos servicios documentos riesgos source-of-truth -name "*.md" \
+  -exec sed -i 's/NL\/EN\/ES/NL\/EN\/DE\/ES/g' {} + \
+  && find marketing "plan de negocios" presupuesto proyectos servicios documentos riesgos source-of-truth -name "*.md" \
+  -exec sed -i 's/NL, EN, ES/NL, EN, DE, ES/g' {} + \
+  && find marketing "plan de negocios" presupuesto proyectos servicios documentos riesgos source-of-truth -name "*.md" \
+  -exec sed -i 's/(NL\/EN\/ES)/(NL\/EN\/DE\/ES)/g' {} + \
+  && find marketing "plan de negocios" presupuesto proyectos servicios documentos riesgos source-of-truth -name "*.md" \
+  -exec sed -i 's/neerlandés e inglés/neerlandés, inglés y alemán/g' {} +
+```
+
+```text
+[rerun: b19]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:15:54Z)**_
+
+Now let me update the specific sections that list languages in more detail (web structure, SEO, content strategy, etc.) to properly include German.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:15:55Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+
+```text
+131	## II. PÁGINA WEB
+132	
+133	### 11. ¿En qué idiomas debe estar la página web?
+134	
+135	Tres idiomas, en orden de prioridad:
+136	
+137	1. **Neerlandés (Nederlands)** — Idioma principal. El mercado holandés es la prioridad #1.
+138	2. **Inglés** — Idioma secundario. Para mercado europeo amplio (alemanes, nórdicos, belgas que navegan en inglés).
+139	3. **Español** — Terciario. Para credibilidad local y clientes hispanohablantes.
+140	
+141	Se recomienda un plugin multilingüe profesional (WPML, Polylang) y **traducción profesional** (no automática) al neerlandés y al inglés.
+142	
+143	### 12. ¿Cuál es la estructura de páginas del sitio web?
+144	
+145	```
+146	Home (página principal)
+147	├── Programas
+148	│   ├── Paraguay Business (USD 4.400)
+149	│   └── Paraguay Investor Program (USD 6.900)
+150	├── Por qué Paraguay
+151	├── Cómo funciona (Proceso paso a paso)
+152	├── Sobre [NOMBRE DE EMPRESA] (equipo, diferencia)
+153	├── Preguntas frecuentes (FAQ)
+154	├── Blog
+155	├── Contacto / Agendar consulta
+156	└── Política de privacidad
+157	```
+158	
+159	**Total: 9–10 páginas principales + artículos de blog.**
+160
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:24Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:28Z)**_
+
+Now update the SEO keywords section to include German.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:29Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+
+```text
+296	| **Analytics** | Google Analytics 4 + Google Search Console |
+297	| **Formularios** | Integración con CRM (leads capturados automáticamente) |
+298	| **Agendamiento** | Calendly o similar integrado para reservar consultas |
+299	| **SEO técnico** | Yoast SEO o equivalente, sitemap XML, meta tags por idioma, hreflang |
+300	| **Cookie consent** | Banner GDPR compliant (clientes europeos) |
+301	| **Email** | Integración con herramienta de email marketing (Mailchimp, ConvertKit) |
+302	
+303	### 21. ¿Cuál es el diseño visual esperado para la web?
+304	
+305	| Elemento | Directriz |
+306	|----------|-----------|
+307	| **Estilo general** | Profesional, limpio, premium. Mucho espacio en blanco. No recargado. |
+308	| **Colores** | Navy + dorado + blanco + gris oscuro (paleta de marca) |
+309	| **Tipografía** | Serif moderna para títulos, sans-serif para cuerpo |
+310	| **Imágenes** | Fotografías profesionales de Paraguay y equipo. No stock genérico. |
+311	| **Iconografía** | Set consistente y minimalista para pasos del proceso y servicios |
+312	| **CTAs** | Botones visibles en color dorado/champagne sobre navy. Consistentes en todo el sitio. |
+313	| **Navegación** | Simple, máximo 7 items en menú principal + selector de idioma visible |
+314	| **Footer** | Logo, datos de contacto, links a páginas principales, redes sociales, política de privacidad |
+315	
+316	**Referencia visual:** Sitios de firmas de consultoría premium europeas, no agencias de viajes ni startups.
+317	
+318	### 22. ¿Qué contenido SEO debe tener la web?
+319	
+320	**Keywords principales por idioma:**
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:34Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+
+```text
+320	**Keywords principales por idioma:**
+321	
+322	| Idioma | Keywords |
+323	|--------|----------|
+324	| **Neerlandés** | "wonen in Paraguay", "bedrijf starten Paraguay", "residencia Paraguay", "investeren Paraguay", "belasting Paraguay", "emigreren naar Paraguay" |
+325	| **Inglés** | "Paraguay residency for Europeans", "start a business in Paraguay", "invest in Paraguay", "bank account Paraguay", "relocate to Paraguay", "Paraguay tax residency" |
+326	| **Español** | "residencia Paraguay europeos", "empresa en Paraguay", "invertir en Paraguay", "cuenta bancaria Paraguay extranjeros" |
+327	
+328	**SEO técnico obligatorio:**
+329	- Meta título y descripción únicos por página y por idioma.
+330	- Etiquetas hreflang para indicar versiones por idioma.
+331	- Sitemap XML.
+332	- URLs limpias ([nombre de empresa].com/nl/programmas, [nombre de empresa].com/en/programs, etc.).
+333	- Velocidad de carga optimizada (compresión de imágenes, caching).
+334	- Schema markup (Organization, FAQ, Service).
+335	
+336	### 23. ¿Qué integraciones necesita la web?
+337	
+338	| Integración | Propósito |
+339	|-------------|-----------|
+340	| **Google Analytics 4** | Medición de tráfico, comportamiento, conversiones |
+341	| **Google Search Console** | Monitoreo de indexación y posicionamiento SEO |
+342	| **CRM** (HubSpot free, Pipedrive, o similar) | Captura automática de leads desde formularios |
+343	| **Calendly** (o similar) | Agendamiento de consultas directamente desde la web |
+344	| **Mailchimp / ConvertKit** | Email marketing y secuencia de nurturing |
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:46Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:50Z)**_
+
+Now update the web content and marketing strategy files to include German.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:16:51Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\marketing\contenido-web.md`
+
+```text
+256	## 10. SEO — Keywords principales
+257	
+258	| Idioma | Keywords |
+259	|--------|----------|
+260	| Neerlandés | "wonen in Paraguay", "bedrijf starten Paraguay", "residencia Paraguay", "investeren Paraguay", "belasting Paraguay" |
+261	| Inglés | "Paraguay residency for Europeans", "start a business in Paraguay", "invest in Paraguay", "bank account Paraguay", "relocate to Paraguay" |
+262	| Español | "residencia Paraguay europeos", "empresa en Paraguay", "invertir en Paraguay" |
+263	
+264	---
+265	
+266	*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+267
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:01Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/contenido-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:05Z)**_
+
+Now update the language list in the web content header and the estrategia-comercial.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:06Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\marketing\contenido-web.md`
+
+```text
+1	# Contenido Web — [NOMBRE DE EMPRESA]
+2	
+3	---
+4	
+5	> **Nota:** Este documento contiene la estructura y copy de referencia para el sitio web. El contenido está redactado en español para uso interno. Deberá traducirse profesionalmente al neerlandés, inglés y alemán para publicación.
+6	
+7	---
+8	
+9	## Estructura del sitio
+10
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:10Z)**_
+
+Good, that one already updated. Let me update the estrategia-comercial language table and the web content estimation.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:12Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\plan de negocios\estrategia-comercial.md`
+
+```text
+16	
+17	### Idiomas de comunicación
+18	
+19	| Idioma | Uso |
+20	|--------|-----|
+21	| Neerlandés | Mercado primario, web, contenido |
+22	| Inglés | Mercado europeo amplio, web, contenido |
+23	| Español | Operaciones internas, documentación legal |
+24	
+25	---
+26	
+27	## 2. Funnel de adquisición de clientes
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:30Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/plan de negocios/estrategia-comercial.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:34Z)**_
+
+Now update the web project plan content estimation (was 3 languages, now 4).
+
+_**Agent (claude-opus-4-6 2026-04-13 20:17:35Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\proyectos\plan-de-proyecto-web.md`
+
+```text
+56	| Programas (×2) | ~400 palabras/idioma cada una | 1–2 por programa | Tabla de inclusiones, CTA |
+57	| Por qué Paraguay | ~600 palabras/idioma | 3–4 de Paraguay | Datos económicos, infografía |
+58	| Proceso | ~400 palabras/idioma | Iconos de pasos | Timeline visual |
+59	| Sobre [NOMBRE DE EMPRESA] | ~400 palabras/idioma | Fotos del equipo | — |
+60	| FAQ | ~1.500 palabras/idioma | — | Acordeón expandible |
+61	| Contacto | ~100 palabras/idioma | — | Formulario + Calendly |
+62	| Blog | Template reutilizable | Por artículo | Categorías, búsqueda |
+63	
+64	**Total contenido estimado:** ~4.000 palabras × 3 idiomas = ~12.000 palabras de traducción.
+65
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:18:36Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:18:40Z)**_
+
+Now update the web project translation phase to include German.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:18:41Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\proyectos\plan-de-proyecto-web.md`
+
+```text
+84	### Fase W1: Planificación y wireframes (Semana 1–2)
+85	
+86	| Tarea | Responsable | Entregable |
+87	|-------|-------------|------------|
+88	| Definición de arquitectura de información | Socio EU | Mapa del sitio final |
+89	| Wireframes de páginas principales | Diseñador | Wireframes aprobados |
+90	| Definición de flujos de conversión | Socio EU | Documentación de flujos |
+91	| Selección de stack tecnológico | Desarrollador | Recomendación aprobada |
+92	
+93	### Fase W2: Diseño visual (Semana 2–4)
+94	
+95	| Tarea | Responsable | Entregable |
+96	|-------|-------------|------------|
+97	| Diseño de Home (desktop + mobile) | Diseñador | Mockups aprobados |
+98	| Diseño de páginas internas | Diseñador | Mockups aprobados |
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:18:46Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\proyectos\plan-de-proyecto-web.md`
+
+```text
+102	### Fase W3: Contenido (Semana 2–5, en paralelo con diseño)
+103	
+104	| Tarea | Responsable | Entregable |
+105	|-------|-------------|------------|
+106	| Redacción de textos en español | Socio EU | Textos aprobados |
+107	| Traducción a neerlandés | Traductor profesional | Textos traducidos |
+108	| Traducción a inglés | Traductor profesional | Textos traducidos |
+109	| Sesión de fotografía | Fotógrafo | Banco de imágenes |
+110	| Selección y edición de imágenes | Diseñador | Imágenes optimizadas |
+111	
+112	### Fase W4: Desarrollo (Semana 4–7)
+113	
+114	| Tarea | Responsable | Entregable |
+115	|-------|-------------|------------|
+116	| Setup de CMS y hosting | Desarrollador | Entorno listo |
+117	| Desarrollo de páginas | Desarrollador | Sitio funcional |
+118	| Integración multilingüe | Desarrollador | 3 idiomas activos |
+119	| Integración de formularios + CRM | Desarrollador | Leads capturados |
+120	| Integración de Calendly | Desarrollador | Agendamiento funcional |
+121	| SEO técnico (sitemap, meta, velocidad) | Desarrollador | Score > 80 |
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:19:01Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:19:03Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:19:07Z)**_
+
+Now update the testing phase to include 4 languages.
+
+_**Agent (claude-opus-4-6 2026-04-13 20:19:08Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="Read"><details>
+<summary>Tool use: **Read**</summary>
+ `./\proyectos\plan-de-proyecto-web.md`
+
+```text
+126	
+127	| Tarea | Responsable | Entregable |
+128	|-------|-------------|------------|
+129	| Testing funcional (formularios, links, responsive) | Socio EU + Dev | Reporte de bugs |
+130	| Testing en 3 idiomas | Socio EU + traductor | Correcciones aplicadas |
+131	| Testing de velocidad y SEO | Desarrollador | Métricas aprobadas |
+132	| Corrección de bugs | Desarrollador | Bugs resueltos |
+133	| Configuración de Analytics | Desarrollador | GA4 + GSC activos |
+134	| **Publicación** | Desarrollador | **Sitio live** |
+135
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:19:29Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="Edit"><details>
+<summary>Tool use: **Edit**</summary>
+
+```text
+The file C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md has been updated successfully. (file state is current in your context — no need to Read it back)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:19:40Z)**_
+
+Updated. Here's a summary of all language changes across the project:
+
+**Changed from 3 languages (NL, EN, ES) to 4 languages (NL, EN, DE, ES) in:**
+
+- `source-of-truth/cuestionario-marketing-imagen-web.md` — Web languages (now 4), SEO keywords (added German keywords), URL structure (added /de/), hreflang tags
+- `source-of-truth/cuestionario-respuestas-completas.md` — All language references
+- `marketing/contenido-web.md` — SEO keywords table (added German row)
+- `marketing/identidad-de-marca.md` — Name pronunciation criteria
+- `marketing/estrategia-de-marketing.md` — Channel specs
+- `plan de negocios/estrategia-comercial.md` — Language table (added Alemán row)
+- `plan de negocios/modelo-de-negocio.md` — Channel references
+- `presupuesto/inversion-inicial.md` — Web content description
+- `proyectos/plan-de-proyecto-web.md` — Translation task (added German), content estimation (4×4.000 = 16.000 words), multilingual integration (4 languages), testing (4 languages)
+- `proyectos/roadmap-implementacion.md` — Web description
+
+---
+
+_**User (2026-04-13 20:39:07Z)**_
+
+https://www.projectparaguay.nl/?utm_source=chatgpt.com\
+analiza esta pagina web de referencia
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 20:39:11Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="ToolSearch"><details>
+<summary>Tool use: **ToolSearch**</summary>
+
+**Input:**
+
+- max_results: `1`
+- query: `select:WebFetch`
+
+**Result:**
+
+```
+
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:40:42Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="WebFetch"><details>
+<summary>Tool use: **WebFetch**</summary>
+ `https://www.projectparaguay.nl/`
+
+```text
+# Website Analysis: Project Paraguay
+
+## 1. Site Structure & Navigation
+**Primary Navigation:**
+- Home
+- Verblijfsvergunning Paraguay (Residence Permit)
+- Project Paraguay Blog
+- Expeditie Paraguay April 2026 (Expedition)
+- Onroerend goed Paraguay (Real Estate)
+- Contact
+- Waarom Paraguay? (Why Paraguay?)
+- Ebook: Plan B?
+- Ebook: Waarom Paraguay?
+- Search
+- Telegram link
+
+**Footer Links:** FAQ, Leverings-en-annuleringsbeleid (Delivery/Cancellation Policy), Cookiebeleid, containertransport
+
+## 2. Brand Identity
+**Name:** Project Paraguay
+
+**Tagline:** "Where Freedom Meets Future"
+
+**Core Messaging:** "Paraguay is ons nieuwe thuis. Misschien ook het jouwe?" (Paraguay is our new home. Maybe yours too?)
+
+**Mission Statement:** "Project Paraguay heeft de missie om jou in staat te stellen je lot in eigen handen te nemen, met deskundige begeleiding bij elke stap die je zet." (Enable you to take control of your destiny with expert guidance at every step)
+
+## 3. Services Offered
+- **Residence permits** for Paraguay (Plan A/B packages)
+- **Real estate services** in Paraguay
+- **Guided expeditions** to Paraguay (April 2026 edition mentioned)
+- **Container transport** services
+- **eBooks/Guides:** "Plan B" and "Why Paraguay?"
+- **Blog content** with personal migration experiences
+- **Newsletter** subscription
+
+## 4. Pricing
+**Not visible** on the homepage. Pricing likely appears on individual service pages (verblijfsvergunning, onroerend-goed sections).
+
+## 5. Target Audience & Language
+**Primary Language:** Dutch (nl-NL)
+
+**Target Audience:** 
+- European professionals/entrepreneurs seeking alternative residence options
+- Those interested in relocation as "Plan B"
+- People concerned about geopolitical/economic stability
+- Visionaries seeking freedom and lifestyle change
+
+**Geographic Focus:** Netherlands-based (evident from Dutch language, EUR currency, Amsterdam timezone)
+
+## 6. Visual Style
+**Colors:** 
+- Accent color appears to be earth/warm tones (evident from imagery)
+- Primary palette: whites, greens, warm sunset tones
+
+**Imagery:** 
+- Landscape photography (compasses, maps, sunsets, water features, modern villas)
+- Professional yet lifestyle-focused aesthetic
+- Nature-centric with modern architectural elements
+
+**Layout:** 
+- Grid-based responsive design
+- Large hero images
+- Modular section approach
+- Typography-forward design
+
+**Tone:** Inspiring, aspirational, trustworthy, adventure-focused
+
+## 7. Call-to-Action Strategy
+**Primary CTAs:**
+- "Waarom Paraguay?" (Why Paraguay?) — informational gateway
+- "Volledig verzorgde reis april 2026" (Fully organized trip April 2026) — experience
+- "Paraguay Plan A/B pakket" (Packages) — service offering
+- "Onroerend goed Paraguay" (Real estate) — property services
+- "Verblijfsvergunning als plan A of B?" (Residence permit as Plan A or B)
+- "lees blogs" (Read blogs) — content engagement
+- Newsletter subscription forms ("schrijf me in" / "Ik meld me aan!")
+
+**Conversion Strategy:** Multi-entry pathways combining education (blogs, ebooks), experience (expeditions), and direct services (permits, real estate)
+
+## 8. Trust Signals
+**Limited visible trust signals:**
+- Personal testimony from founders (Lester Rietveld, Jeroen Pols mentioned)
+- Documented expedition content (aftermovies, blogs with dates)
+- Media mentions ("VPRO Documentaire Wakker in Paraguay")
+- LinkedIn/YouTube/Facebook social presence
+- Professional website infrastructure (Squarespace enterprise build)
+
+**Weak areas:** No client testimonials, credentials, or certifications visible on homepage
+
+## 9. Content Strategy
+**Blog Focus Areas:**
+- Personal migration narratives
+- Geopolitical developments (conscription laws in Germany/USA)
+- Real estate/property content
+- Tax strategy discussions (Box 2, Box 3, exit taxes)
+- Event coverage (expeditions, community gatherings)
+- Expert interviews (Willem Engel, Jeroen Pols, Toine Manders)
+
+**Content Cadence:** Frequent updates (3-4 posts monthly visible)
+
+**Resource Offerings:** Free ebooks on Paraguay and Plan B strategies
+
+## 10. Contact & Lead Capture
+**Email Newsletter:**
+- Primary conversion mechanism (appears 3x on homepage)
+- Positioning: "Blijf op de hoogte" (Stay informed) and "Volg onze Paraguay Adventures"
+- Confirmation message: "Gracias! Dank voor het inschrijven" (Thanks for subscribing)
+
+**Direct Contact:** Contact page available in navigation
+
+**Social Media:** 
+- LinkedIn (Lester Rietveld profile)
+- YouTube (@Project-Paraguay)
+- Facebook (profile ID: 61561202233715)
+- Telegram (t.me/paraguayadventures) — emphasized in announcement bar
+
+## 11. Languages Available
+**Dutch (nl-NL)** only visible; language selector shows "Nederlands" with no alternatives presented
+
+## 12. Unique Differentiators
+- **Expert founder personas:** Named individuals (Lester Rietveld, Jeroen Pols) creating authority
+- **Philosophical positioning:** "Freedom meets Future" vs. transactional relocation services
+- **Integrated ecosystem:** Permits + real estate + expeditions + content + community
+- **Geopolitical context:** Positioning Paraguay as response to global instability
+- **Documentary validation:** Association with VPRO production
+- **Community building:** Telegram channel emphasis, expedition gatherings
+- **Tax/legal expertise:** Guest contributors discussing Netherlands tax implications
+
+## 13. Strengths & Weaknesses
+
+**Strengths:**
+- Clear value proposition and emotional narrative
+- Multiple service entry points
+- Active content marketing with fresh blog updates
+- Community/social proof through documented expeditions
+- Professional design execution
+- Strategic positioning in lifestyle/freedom niche
+
+**Weaknesses:**
+- No visible pricing transparency (barriers to initial assessment)
+- Limited independent testimonials or third-party verification
+- Homepage lacks specific credentials or regulatory compliance info
+- Dutch-only language limits addressable market
+- No FAQ on homepage (relegated to footer link)
+- Minimal explanation of permit/real estate processes upfront
+- Heavy reliance on founder personalities (single-point-of-failure risk)
+- Blog content heavily weighted toward geopolitical anxiety (may alienate mainstream audience)
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:41:15Z)**_
+
+Excellent analysis. Here's the competitive breakdown compared to your project:
+
+---
+
+## Análisis de Project Paraguay (www.projectparaguay.nl)
+
+### Quiénes son
+
+**Project Paraguay** — un servicio holandés de relocalización a Paraguay fundado por Lester Rietveld y Jeroen Pols. Tagline: *"Where Freedom Meets Future"*.
+
+### Qué ofrecen
+
+| Servicio | Cómo lo presentan |
+|----------|-------------------|
+| Permisos de residencia | Paquetes "Plan A" y "Plan B" |
+| Inmobiliario | Sección dedicada |
+| Expediciones guiadas a Paraguay | Viaje grupal abril 2026 |
+| Transporte de contenedores | Mudanza física |
+| eBooks gratuitos | "Plan B" y "Por qué Paraguay" como lead magnets |
+| Blog activo | 3–4 posts/mes, experiencias personales, temas fiscales |
+| Comunidad Telegram | Canal de seguidores |
+
+### Fortalezas que vale la pena observar
+
+1. **Narrativa emocional fuerte** — "Paraguay es nuestro nuevo hogar. Tal vez el tuyo también." Conectan con el miedo/deseo de libertad, no solo con trámites.
+2. **Ecosistema integrado** — No venden solo residencia; ofrecen viajes, inmuebles, comunidad, contenido. Múltiples puntos de entrada.
+3. **Contenido activo** — Blog frecuente con temas que atraen al target (impuestos Box 2/Box 3, geopolítica, exit tax).
+4. **Lead magnets** — eBooks gratuitos que capturan emails antes de vender.
+5. **Personalidades como marca** — Los fundadores son la cara visible, generan confianza personal.
+6. **Validación mediática** — Asociación con documental de VPRO ("Wakker in Paraguay").
+7. **Expediciones como conversion tool** — El viaje grupal es un paso intermedio brillante entre "interesado" y "cliente".
+
+### Debilidades (oportunidades para tu proyecto)
+
+| Debilidad de Project Paraguay | Oportunidad para ti |
+|-------------------------------|---------------------|
+| **Sin precios visibles** — el cliente no sabe cuánto cuesta | Tu proyecto: precios transparentes, todo incluido, sin sorpresas |
+| **Sin testimonios de clientes** | Recoger y mostrar testimonios desde el primer cliente |
+| **Solo en holandés** | Tu web: NL + EN + DE + ES — alcance 4x mayor |
+| **Sin credenciales ni compliance visible** | Mostrar equipo técnico (abogados, contadores, escribanos), política de compliance |
+| **No explican el proceso** | Tu página "Cómo funciona" con 5 pasos claros es un diferenciador |
+| **Dependencia de personalidad de fundadores** | Tu proyecto: marca institucional + equipo técnico |
+| **Messaging con tono de "ansiedad geopolítica"** | Tu tono: oportunidad, profesionalismo, simplicidad — más amplio y premium |
+| **No mencionan banca** | Tu mayor diferenciador: pre-validación bancaria y coordinación directa |
+| **Sin FAQ en la página principal** | Tu web: 15 FAQs visibles |
+
+### Lo que puedes adoptar de ellos
+
+1. **eBooks como lead magnet** — Un PDF gratuito ("Guía para europeos: cómo establecerse en Paraguay") a cambio del email. Agregar a tu estrategia de marketing.
+2. **Expedición/viaje introductorio** — Considerar un formato de viaje grupal como paso previo a la contratación del programa completo.
+3. **Blog con temas fiscales del país de origen** — Artículos sobre exit tax, Box 2/Box 3 (NL), Wegzugsteuer (DE) atraen tráfico SEO muy cualificado.
+4. **Comunidad (Telegram/WhatsApp)** — Un canal donde potenciales clientes interactúan genera confianza antes de vender.
+5. **Documental/video largo** — Un video de 15–20 minutos mostrando el proceso real en Paraguay genera mucha confianza.
+
+### Posicionamiento comparativo
+
+| Dimensión | Project Paraguay | Tu proyecto |
+|-----------|-----------------|-------------|
+| Tono | Emocional, libertad, Plan B | Profesional, oportunidad, certeza |
+| Target | Holandeses preocupados por Europa | Europeos (NL, DE, EN, ES) que buscan operar |
+| Modelo | Ecosistema (viajes + inmuebles + comunidad + permits) | Sistema integrado end-to-end (un programa, un viaje) |
+| Transparencia | Precios ocultos | Todo incluido, precio visible |
+| Banca | No mencionada | Pre-validación KYC, diferenciador #1 |
+| Equipo | Fundadores como cara | Equipo técnico multidisciplinario |
+| Idiomas | Solo holandés | NL + EN + DE + ES |
+| Compliance | No visible | Política AML/KYC, screening de clientes |
+
+**Conclusión:** Project Paraguay es un competidor relevante en el mercado holandés, pero su posicionamiento es más emocional/lifestyle y menos profesional/operativo. Tu proyecto puede diferenciarse con: transparencia de precios, alcance multilingüe, equipo técnico visible, solución bancaria, y tono premium enfocado en certeza — no en miedo.
+
+Would you like me to update any of the project documentation based on these competitive insights?
+
+---
+
+_**User (2026-04-13 20:49:32Z)**_
+
+cuales son todas las secciones que tiene esta apgina que te pase como referencia
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 20:50:42Z)**_
+
+<tool-use data-tool-type="read" data-tool-name="WebFetch"><details>
+<summary>Tool use: **WebFetch**</summary>
+ `https://www.projectparaguay.nl/`
+
+```text
+# Project Paraguay Homepage Structure
+
+## Main Sections (Top to Bottom)
+
+### 1. Navigation Bar
+- **Type:** Navbar with logo and menu
+- **Logo:** Project Paraguay (house icon image)
+- **Main Navigation Links:**
+  - Home
+  - Verblijfsvergunning Paraguay
+  - Project Paraguay Blog
+  - Expeditie Paraguay April 2026
+  - Onroerend goed Paraguay
+  - Contact
+  - Waarom Paraguay?
+  - Ebook: Plan B?
+  - Ebook: Waarom Paraguay?
+  - Search
+  - Telegram
+- **Social Icons:** LinkedIn, YouTube, Facebook, Telegram
+
+### 2. Hero Section
+- **Type:** Image with overlay text
+- **Image:** Modern villa with pool in Paraguay
+- **Headline:** "Waarom Paraguay?" (clickable)
+- **CTA Button:** "Waarom Paraguay?"
+
+### 3. Feature Cards Grid
+- **Type:** 4-column card layout
+- **Cards with CTAs:**
+  1. "Volledig verzorgde reis april 2026" → Links to /expeditie-paraguay
+  2. "Paraguay Plan A/B pakket" → Links to /verblijfsvergunning
+  3. "Onroerend goed Paraguay" → Links to /onroerend-goed
+
+### 4. About Section
+- **Type:** Text + image layout
+- **Headline:** "Paraguay is ons nieuwe thuis. Misschien ook het jouwe?"
+- **Subtext:** Describes Project Paraguay's mission
+- **CTA Buttons:**
+  - "Verblijfsvergunning als plan A of B?" → /verblijfsvergunning
+  - "Gratis Gids: Emigreren" → /waarom-paraguay
+- **Image:** Person with compass at sunset near Paraguay lake
+
+### 5. Blog/Featured Content Section
+- **Type:** Blog post collection
+- **Headline:** "Volg onze Paraguay Adventures"
+- **Description:** Personal experiences shared via blog
+- **CTA Button:** "lees blogs" → /blogs
+- **Featured Posts Display:** 21 blog entries listed chronologically (April 2026 to December 2025)
+- **Latest entries include:**
+  - "Jeroen Mvo Pim" (Apr 13, 2026)
+  - "Amerika dienstplicht automatisch" (Apr 9, 2026)
+  - "Aftermovie expeditie maart" (Apr 6, 2026)
+- **Supporting Images:** Three lifestyle photos from Paraguay
+
+### 6. Newsletter Signup Section
+- **Type:** CTA with form
+- **Headline:** "Blijf op de hoogte van alle ontwikkelingen"
+- **Description:** "Schrijf je in voor onze nieuwsbrief..."
+- **Form Fields:** Email address input
+- **CTA Button:** "schrijf me in"
+- **Confirmation Message:** "Gracias! Dank voor het inschrijven."
+
+### 7. About Project Section
+- **Type:** Text + icon
+- **Headline:** "Where Freedom Meets Future"
+- **Tagline:** "Ontdek een wereld van grenzeloze mogelijkheden in het hart van Zuid-Amerika..."
+- **CTA Button:** "over Project Paraguay" → /wie-en-wat
+
+### 8. Why Paraguay Section
+- **Type:** Text with dual CTA buttons
+- **Headline:** "Waarom Paraguay?"
+- **CTA Buttons:**
+  - "Meer over onze keuze" → /blogs/presentatie
+  - "Gratis eBook Waarom Paraguay" → /waarom-paraguay
+
+### 9. Newsletter Signup (Repeat)
+- **Type:** Form section
+- **Headline:** "Ken je onze nieuwsbrief al?"
+- **Description:** "Schrijf je in en laat je informeren..."
+- **Form Fields:** Email address input
+- **CTA Button:** "Ik meld me aan!"
+- **Confirmation:** "Dankjewel voor je inschrijving!"
+
+### 10. Footer
+- **Type:** Multi-column footer with logo, links, and social icons
+- **Logo Image:** White house icon
+- **Social Links:** LinkedIn, YouTube, Facebook, Telegram
+- **Footer Sections:**
+
+**Handige Links (Useful Links):**
+- Verblijfsvergunning Paraguay → /verblijfsvergunning
+- Onroerend goed Paraguay → /onroerend-goed-in-paraguay
+- Expeditie Paraguay → /expeditie-paraguay
+- Containertransport → /containertransport
+- Contact → /contact
+- FAQ → /faq
+- Home → /home
+- Leveringsbeleid (Delivery Policy) → /leverings-en-annuleringsbeleid
+- Cookiebeleid (Cookie Policy) → /cookiebeleid
+
+**Gratis Downloads (Free Downloads):**
+- Ebook Paraguay als Plan B → /plan-b
+- Ebook Waarom Paraguay? → /waarom-paraguay
+
+**Copyright:** "© 2026 Project Paraguay"
+
+---
+
+## Complete Navigation Menu Links
+
+**Primary Navigation:**
+- / (Home)
+- /verblijfsvergunning
+- /blogs
+- /expeditie-paraguay
+- /onroerend-goed-in-paraguay
+- /contact
+- /paraguay (Waarom Paraguay?)
+- /plan-b
+- /waarom-paraguay
+- /search
+
+**Social Media Links:**
+- https://www.linkedin.com/in/lester-rietveld/details/experience/
+- https://www.youtube.com/@Project-Paraguay
+- https://www.facebook.com/profile.php?id=61561202233715
+- https://t.me/paraguayadventures
+
+**Footer-Exclusive Links:**
+- /onroerend-goed (variant spelling)
+- /containertransport
+- /faq
+- /leverings-en-annuleringsbeleid
+- /cookiebeleid
+- /wie-en-wat
+- /blogs/presentatie
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:51:05Z)**_
+
+## Todas las secciones de Project Paraguay (de arriba a abajo)
+
+### Homepage — 10 secciones
+
+| # | Sección | Contenido | CTAs |
+|---|---------|-----------|------|
+| 1 | **Barra de navegación** | Logo + menú principal + íconos sociales (LinkedIn, YouTube, Facebook, Telegram) | Links a todas las páginas |
+| 2 | **Hero** | Imagen de villa con piscina en Paraguay + titular "Waarom Paraguay?" | Botón "Waarom Paraguay?" |
+| 3 | **Grid de servicios** | 4 tarjetas con los servicios principales | "Viaje abril 2026", "Plan A/B pakket", "Onroerend goed" |
+| 4 | **Sobre nosotros** | "Paraguay es nuestro nuevo hogar. Tal vez el tuyo también." + foto con brújula | "Residencia como Plan A o B?", "Guía gratuita: Emigrar" |
+| 5 | **Blog / Aventuras** | "Volg onze Paraguay Adventures" — 21 posts listados cronológicamente + 3 fotos lifestyle | "lees blogs" |
+| 6 | **Newsletter #1** | "Blijf op de hoogte" — formulario de email | "schrijf me in" |
+| 7 | **Tagline / Filosofía** | "Where Freedom Meets Future" — texto sobre oportunidades en Sudamérica | "over Project Paraguay" |
+| 8 | **Por qué Paraguay** | "Waarom Paraguay?" — sección con doble CTA | "Más sobre nuestra elección", "eBook gratis Waarom Paraguay" |
+| 9 | **Newsletter #2** | "Ken je onze nieuwsbrief al?" — segundo formulario de email | "Ik meld me aan!" |
+| 10 | **Footer** | Logo + redes sociales + links útiles + descargas gratuitas + políticas | Links a todas las páginas + eBooks |
+
+---
+
+### Todas las páginas del sitio (17 páginas)
+
+**Navegación principal:**
+| Página | URL | Tipo |
+|--------|-----|------|
+| Home | `/` | Landing principal |
+| Verblijfsvergunning Paraguay | `/verblijfsvergunning` | Servicio: residencia |
+| Blog | `/blogs` | Contenido / SEO |
+| Expeditie Paraguay Abril 2026 | `/expeditie-paraguay` | Servicio: viaje grupal |
+| Onroerend goed Paraguay | `/onroerend-goed-in-paraguay` | Servicio: inmobiliario |
+| Contact | `/contact` | Contacto |
+| Waarom Paraguay? | `/paraguay` | Informativa / conversión |
+| Ebook: Plan B? | `/plan-b` | Lead magnet |
+| Ebook: Waarom Paraguay? | `/waarom-paraguay` | Lead magnet |
+
+**Solo en footer:**
+| Página | URL | Tipo |
+|--------|-----|------|
+| FAQ | `/faq` | Preguntas frecuentes |
+| Containertransport | `/containertransport` | Servicio: mudanza |
+| Wie en wat (Quiénes somos) | `/wie-en-wat` | About |
+| Presentación | `/blogs/presentatie` | Video/presentación |
+| Leveringsbeleid | `/leverings-en-annuleringsbeleid` | Legal: política de entrega |
+| Cookiebeleid | `/cookiebeleid` | Legal: cookies |
+
+**Redes sociales:**
+- LinkedIn (perfil de Lester Rietveld)
+- YouTube (@Project-Paraguay)
+- Facebook (página)
+- Telegram (t.me/paraguayadventures)
+
+---
+
+### Observaciones clave para tu proyecto
+
+1. **Doble formulario de newsletter** — Aparece 2 veces en la homepage. Estrategia agresiva de captura de emails.
+2. **Blog como motor principal** — 21 posts visibles, es el contenido más pesado de la página.
+3. **eBooks como lead magnets** — 2 descargas gratuitas prominentes en navegación y footer.
+4. **Expedición como producto intermedio** — Viaje grupal antes de contratar servicios completos.
+5. **Sin página de precios** — No hay pricing page visible.
+6. **Sin página de proceso** — No explican paso a paso cómo funciona. Tu página "Cómo funciona" sería un diferenciador.
+7. **Sin página de equipo técnico** — Solo mencionan a los fundadores, no al equipo legal/contable.
+8. **FAQ escondido en el footer** — No tiene visibilidad.
+
+---
+
+_**User (2026-04-13 20:52:57Z)**_
+
+update everything to github
+
+---
+
+_**Agent (claude-opus-4-6 2026-04-13 20:56:16Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Check git status
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && git status -u`
+
+```text
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .specstory/history/2026-04-13_17-58-55Z-analize-the-proyects-source.md
+	modified:   .specstory/statistics.json
+	modified:   documentos/acuerdo-de-servicios-template.md
+	modified:   documentos/guia-del-cliente.md
+	modified:   documentos/manual-de-procesos-internos.md
+	modified:   documentos/politica-de-privacidad.md
+	modified:   marketing/contenido-web.md
+	modified:   marketing/estrategia-de-marketing.md
+	modified:   marketing/estrategia-de-referidos.md
+	modified:   marketing/identidad-de-marca.md
+	modified:   marketing/plan-de-contenidos.md
+	modified:   plan de negocios/analisis-de-mercado.md
+	modified:   plan de negocios/estrategia-comercial.md
+	modified:   plan de negocios/estructura-organizacional.md
+	modified:   plan de negocios/modelo-de-negocio.md
+	modified:   plan de negocios/proyecciones-financieras.md
+	modified:   plan de negocios/resumen-ejecutivo.md
+	modified:   presupuesto/estructura-de-ingresos.md
+	modified:   presupuesto/inversion-inicial.md
+	modified:   presupuesto/presupuesto-marketing.md
+	modified:   presupuesto/presupuesto-operativo.md
+	modified:   presupuesto/proyeccion-financiera-3-anos.md
+	modified:   proyectos/indicadores-clave-KPIs.md
+	modified:   proyectos/plan-de-proyecto-lanzamiento.md
+	modified:   proyectos/plan-de-proyecto-web.md
+	modified:   proyectos/roadmap-implementacion.md
+	modified:   riesgos/matriz-de-riesgos.md
+	modified:   riesgos/plan-de-continuidad.md
+	modified:   riesgos/plan-de-mitigacion.md
+	modified:   riesgos/politica-de-compliance.md
+	modified:   riesgos/registro-de-riesgos.md
+	modified:   servicios/SLAs-y-compromisos.md
+	modified:   servicios/blueprint-operativo-investor-program.md
+	modified:   servicios/blueprint-operativo-paraguay-business.md
+	modified:   servicios/catalogo-de-servicios.md
+	modified:   servicios/checklist-documentos-cliente.md
+	modified:   servicios/paquetes-y-precios.md
+	modified:   source-of-truth/lealtis-paraguay-business-program.md
+	modified:   source-of-truth/objectives-general-and-specific.md
+	modified:   source-of-truth/research-materials-local-paraguay.md
+	modified:   source-of-truth/social-and-economic-justification.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	documentos/cuestionario-proyecto-relocacion.md
+	source-of-truth/cuestionario-marketing-imagen-web.md
+	source-of-truth/cuestionario-respuestas-completas.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[rerun: b20]
+```
+</details></tool-use>

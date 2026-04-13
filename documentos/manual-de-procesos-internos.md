@@ -1,4 +1,4 @@
-# Manual de Procesos Internos — LEALTIS
+# Manual de Procesos Internos — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -77,7 +77,7 @@ Cliente llega a Asunción en fecha acordada.
 | 10:30 | Trámite de Cédula de Identidad | Equipo legal + cliente | Requisitos preparados |
 | 11:30 | Coordinaciones complementarias | Coordinador | Según programa |
 | 12:00 | Pausa / almuerzo | — | — |
-| 14:00 | Tour estratégico inmobiliario | Asesor LEALTIS | Desarrolladoras agendadas |
+| 14:00 | Tour estratégico inmobiliario | Asesor [NOMBRE DE EMPRESA] | Desarrolladoras agendadas |
 | 17:00 | Cierre del día, resumen al cliente | Coordinador | Confirmar todo lo realizado |
 
 ### Checklist pre-jornada (día anterior)

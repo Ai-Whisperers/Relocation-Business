@@ -1,4 +1,4 @@
-# Modelo de Negocio — LEALTIS
+# Modelo de Negocio — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Para el empresario, inversor o profesional europeo que necesita establecerse operativamente en Paraguay:**
 
-LEALTIS elimina la complejidad del proceso de establecimiento al ofrecer un sistema integral que combina servicios legales, financieros y operativos en una solución cohesiva. El resultado: el cliente obtiene residencia, identidad, sociedad, registro fiscal y cuenta bancaria — todo coordinado, sin fragmentación y sin sorpresas.
+[NOMBRE DE EMPRESA] elimina la complejidad del proceso de establecimiento al ofrecer un sistema integral que combina servicios legales, financieros y operativos en una solución cohesiva. El resultado: el cliente obtiene residencia, identidad, sociedad, registro fiscal y cuenta bancaria — todo coordinado, sin fragmentación y sin sorpresas.
 
 **Elementos clave de la propuesta:**
 - **Velocidad:** Tramitación presencial en una sola mañana.
@@ -39,7 +39,7 @@ LEALTIS elimina la complejidad del proceso de establecimiento al ofrecer un sist
 | Canal | Función | Estado actual | Estado objetivo |
 |-------|---------|---------------|-----------------|
 | **Referidos / word-of-mouth** | Adquisición primaria | Activo (principal) | Formalizado con programa de referidos |
-| **Sitio web** | Conversión, información, generación de leads | Inexistente | Multilingüe (NL, EN, ES), orientado a conversión |
+| **Sitio web** | Conversión, información, generación de leads | Inexistente | Multilingüe (NL, EN, DE, ES), orientado a conversión |
 | **Redes sociales** | Posicionamiento, confianza, contenido | Mínimo | LinkedIn + Instagram + YouTube activos |
 | **Red de partners** | Referidos cualificados | Informal | Acuerdos formales con asesores fiscales, inmobiliarias |
 | **Contacto directo** | Consulta y cierre | Activo | Proceso de ventas estructurado |

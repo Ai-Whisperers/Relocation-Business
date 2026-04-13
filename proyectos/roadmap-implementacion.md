@@ -1,4 +1,4 @@
-# Roadmap de Implementación — LEALTIS
+# Roadmap de Implementación — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -9,14 +9,14 @@ Establecer las bases legales, contractuales y de marca antes de operar.
 
 | # | Actividad | Entregable | Responsable | Dependencia |
 |---|-----------|------------|-------------|-------------|
-| 1 | Constitución legal de LEALTIS en Paraguay | Sociedad registrada, RUC activo | Daniel | — |
+| 1 | Constitución legal de [NOMBRE DE EMPRESA] en Paraguay | Sociedad registrada, RUC activo | Daniel | — |
 | 2 | Redacción y firma del acuerdo de partnership | Acuerdo firmado | Ambos socios | — |
 | 3 | Definición de roles, responsabilidades y governance | Documento de governance | Ambos socios | 2 |
 | 4 | Desarrollo de identidad de marca (logo, colores, tipografía) | Manual de marca | Socio EU | — |
 | 5 | Documentación interna de procesos (v1) | Blueprints y checklists draft | Daniel | — |
 | 6 | Definición de paquetes y precios (confirmación) | Catálogo de servicios final | Ambos socios | — |
 
-**Milestone:** LEALTIS legalmente constituida con acuerdo de socios firmado.
+**Milestone:** [NOMBRE DE EMPRESA] legalmente constituida con acuerdo de socios firmado.
 
 ---
 
@@ -27,7 +27,7 @@ Construir la infraestructura digital, operativa y relacional para operar.
 
 | # | Actividad | Entregable | Responsable | Dependencia |
 |---|-----------|------------|-------------|-------------|
-| 1 | Desarrollo de sitio web (NL/EN/ES) | Web publicada | Socio EU | Fase 0.4 |
+| 1 | Desarrollo de sitio web (NL/EN/DE/ES) | Web publicada | Socio EU | Fase 0.4 |
 | 2 | Configuración de CRM | CRM operativo | Socio EU | — |
 | 3 | Configuración de email marketing | Sistema de emails listo | Socio EU | 1 |
 | 4 | Finalización de blueprints de servicio | Documentos v1 aprobados | Daniel | Fase 0.5 |

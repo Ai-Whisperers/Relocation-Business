@@ -1,10 +1,10 @@
-# Política de Compliance — LEALTIS
+# Política de Compliance — [NOMBRE DE EMPRESA]
 
 ---
 
 ## 1. Compromiso general
 
-LEALTIS se compromete a operar con estricto apego a la legislación paraguaya, la normativa internacional aplicable y los más altos estándares éticos profesionales. Todos los servicios ofrecidos son legales, transparentes y documentados.
+[NOMBRE DE EMPRESA] se compromete a operar con estricto apego a la legislación paraguaya, la normativa internacional aplicable y los más altos estándares éticos profesionales. Todos los servicios ofrecidos son legales, transparentes y documentados.
 
 ---
 
@@ -12,7 +12,7 @@ LEALTIS se compromete a operar con estricto apego a la legislación paraguaya, l
 
 ### Principio
 
-LEALTIS no facilita ni tolera el lavado de activos ni el financiamiento del terrorismo. Aunque LEALTIS no sea necesariamente un sujeto obligado directo ante SEPRELAD, adopta proactivamente prácticas de prevención.
+[NOMBRE DE EMPRESA] no facilita ni tolera el lavado de activos ni el financiamiento del terrorismo. Aunque [NOMBRE DE EMPRESA] no sea necesariamente un sujeto obligado directo ante SEPRELAD, adopta proactivamente prácticas de prevención.
 
 ### Procedimientos internos
 
@@ -76,7 +76,7 @@ LEALTIS no facilita ni tolera el lavado de activos ni el financiamiento del terr
 
 | Aspecto | Estado |
 |---------|--------|
-| Verificar si LEALTIS califica como sujeto obligado | Pendiente (consultar con asesor legal) |
+| Verificar si [NOMBRE DE EMPRESA] califica como sujeto obligado | Pendiente (consultar con asesor legal) |
 | Si aplica: registro, designación de oficial de cumplimiento, reportes | Implementar según requerimiento |
 | Si no aplica: mantener prácticas voluntarias de prevención | Activo |
 
@@ -105,7 +105,7 @@ LEALTIS no facilita ni tolera el lavado de activos ni el financiamiento del terr
 
 ### Regla general
 
-> Todo lo que LEALTIS comunica debe ser **verdadero, verificable y alineado con la ley**. Ante la duda, no se dice.
+> Todo lo que [NOMBRE DE EMPRESA] comunica debe ser **verdadero, verificable y alineado con la ley**. Ante la duda, no se dice.
 
 ---
 

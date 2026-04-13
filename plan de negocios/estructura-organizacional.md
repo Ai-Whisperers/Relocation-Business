@@ -1,4 +1,4 @@
-# Estructura Organizacional — LEALTIS
+# Estructura Organizacional — [NOMBRE DE EMPRESA]
 
 ---
 

@@ -1,4 +1,4 @@
-# Presupuesto de Marketing — LEALTIS
+# Presupuesto de Marketing — [NOMBRE DE EMPRESA]
 
 ---
 

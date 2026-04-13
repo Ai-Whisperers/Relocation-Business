@@ -1,4 +1,4 @@
-# Análisis de Mercado — LEALTIS
+# Análisis de Mercado — [NOMBRE DE EMPRESA]
 
 ---
 
@@ -95,7 +95,7 @@ No existen estadísticas públicas precisas sobre el flujo de europeos hacia Par
 | Residencias otorgadas a europeos (Migraciones, verificar) | Base para volumen total |
 | Comunidad holandesa/europea en Paraguay | Crecimiento observable en redes y comunidades |
 | Consultas recibidas actualmente (word-of-mouth) | Demanda existente sin marketing activo |
-| Capacidad operativa LEALTIS | 4–6 clientes/mes como techo operativo inicial |
+| Capacidad operativa [NOMBRE DE EMPRESA] | 4–6 clientes/mes como techo operativo inicial |
 
 ### Mercado direccionable
 
@@ -136,9 +136,9 @@ El mercado de servicios de relocalización en Paraguay es **fragmentado y predom
 | **Facilitadores informales** | Red de contactos, operan por referidos | Opacidad, tarifas ocultas, sin estructura, riesgo reputacional |
 | **Consultoras internacionales** | Marca y presupuesto | Genéricas, sin especialización en Paraguay, costos muy elevados |
 
-### Posicionamiento LEALTIS
+### Posicionamiento [NOMBRE DE EMPRESA]
 
-| Dimensión | Competidores típicos | LEALTIS |
+| Dimensión | Competidores típicos | [NOMBRE DE EMPRESA] |
 |-----------|---------------------|---------|
 | Alcance del servicio | Fragmentado | Integrado (end-to-end) |
 | Transparencia de precios | Tarifas ocultas frecuentes | Todo incluido, sin cargos adicionales |
@@ -147,7 +147,7 @@ El mercado de servicios de relocalización en Paraguay es **fragmentado y predom
 | Confianza | Variable | Relacional, demostrable, con track record |
 | Precio | Variable (bajo a medio) | Premium (justificado por valor entregado) |
 
-**LEALTIS no compite por precio. Compite por certeza, velocidad y completitud.**
+**[NOMBRE DE EMPRESA] no compite por precio. Compite por certeza, velocidad y completitud.**
 
 ---
 

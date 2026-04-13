@@ -1,10 +1,10 @@
-# Estrategia de Marketing — LEALTIS
+# Estrategia de Marketing — [NOMBRE DE EMPRESA]
 
 ---
 
 ## 1. Posicionamiento de marca
 
-**LEALTIS no es una gestoría. Es un sistema de relocalización premium para europeos que buscan operar en Paraguay con certeza y profesionalismo.**
+**[NOMBRE DE EMPRESA] no es una gestoría. Es un sistema de relocalización premium para europeos que buscan operar en Paraguay con certeza y profesionalismo.**
 
 | Dimensión | Posicionamiento |
 |-----------|----------------|
@@ -58,7 +58,7 @@
 | Pilar | Core message | Subtemas |
 |-------|-------------|----------|
 | **Oportunidad** | Paraguay es un mercado en crecimiento con condiciones favorables | Economía, inmobiliario, emprendimiento, calidad de vida |
-| **Simplicidad** | LEALTIS lo hace simple | Un programa, un viaje, un equipo, sin sorpresas |
+| **Simplicidad** | [NOMBRE DE EMPRESA] lo hace simple | Un programa, un viaje, un equipo, sin sorpresas |
 | **Seguridad** | Proceso profesional y predecible | Equipo técnico, compliance, transparencia de precios |
 | **Confianza** | Experiencia y relaciones comprobadas | Años en el mercado, equipo multidisciplinario, resultados |
 
@@ -74,7 +74,7 @@
 
 | Elemento | Especificación |
 |----------|---------------|
-| Idiomas | Neerlandés (principal), Inglés, Español |
+| Idiomas | Neerlandés (principal), Inglés, Alemán, Español |
 | Páginas clave | Home, Programas, Por qué Paraguay, Proceso, Equipo, FAQ, Blog, Contacto |
 | Objetivo | Generar leads cualificados (formulario de consulta, agendamiento de llamada) |
 | Tono | Profesional, cálido, europeo. No agresivo comercialmente |
@@ -125,12 +125,12 @@
 
 ## 5. Customer journey
 
-| Etapa | Acción del cliente | Touchpoint LEALTIS | Contenido/recurso |
+| Etapa | Acción del cliente | Touchpoint [NOMBRE DE EMPRESA] | Contenido/recurso |
 |-------|-------------------|--------------------|--------------------|
 | **Descubrimiento** | Busca información sobre Paraguay, ve contenido | SEO, redes sociales, YouTube, referido | Blog posts, videos, posts sociales |
 | **Investigación** | Visita web, lee sobre programas, compara | Sitio web | Páginas de programa, FAQ, testimonios |
 | **Primer contacto** | Completa formulario, solicita consulta | Web form, email automático | Confirmación + material introductorio |
-| **Consulta** | Habla con socio europeo, explica su situación | Videollamada personalizada | Presentación de LEALTIS, escucha activa |
+| **Consulta** | Habla con socio europeo, explica su situación | Videollamada personalizada | Presentación de [NOMBRE DE EMPRESA], escucha activa |
 | **Evaluación** | Recibe propuesta, evalúa opciones | Email con propuesta detallada | PDF del programa, acuerdo de servicios |
 | **Decisión** | Acepta, firma, paga | Contrato + pago | Welcome pack, inicio de proceso |
 | **Onboarding** | Envía documentos, recibe validación | Comunicación continua | Checklist, orientación, confirmaciones |
