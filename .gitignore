@@ -1,5 +1,46 @@
-# Local settings
+# ===========================================
+# Relocation-Business .gitignore
+# ===========================================
+
+# --- Claude Code ---
 .claude/settings.local.json
 
-# Empty placeholder files
+# --- SpecStory session history ---
+# Contains usernames, local paths, AI conversation transcripts
+.specstory/history/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# --- Environment & secrets ---
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets/
+
+# --- Large binary files ---
+# Avoid committing scanned PDFs and large binaries to git
+*.pdf
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# --- Editor/IDE files ---
+*.code-workspace.bak
+.vscode/settings.json
+.idea/
+
+# --- Empty placeholder files ---
 source-of-truth/New Text Document.txt
