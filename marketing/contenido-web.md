@@ -1,4 +1,4 @@
-# Contenido Web — [NOMBRE DE EMPRESA]
+# Contenido Web — Nexa Paraguay
 
 ---
 
@@ -10,16 +10,26 @@
 
 ```
 Home
-├── Programas
-│   ├── Paraguay Business
-│   └── Paraguay Investor Program
+├── Paquetes
+│   ├── Paraguay Base                    (vía LEALTIS)
+│   ├── Paraguay Business                (vía LEALTIS)
+│   ├── Paraguay Investor Program        (vía LEALTIS)
+│   └── Compra de Tierras en Paraguay    (servicio propio Nexa)
 ├── Por qué Paraguay
 ├── Cómo funciona (Proceso)
-├── Sobre [NOMBRE DE EMPRESA]
+├── Sobre Nexa Paraguay
 ├── Preguntas frecuentes (FAQ)
 ├── Blog
 └── Contacto / Agendar consulta
 ```
+
+> **Nota de marca y oferta.** La web debe mostrar **4 paquetes**. Los
+> primeros tres (Paraguay Base, Paraguay Business y Paraguay Investor
+> Program) son programas de nuestro **socio técnico LEALTIS**, revendidos
+> por Nexa Paraguay bajo su marca. El cuarto (Compra de Tierras en
+> Paraguay) es un servicio propio de Nexa Paraguay. Los precios al cliente
+> final están **pendientes de definir** (margen comercial Nexa sobre el
+> costo LEALTIS).
 
 ---
 
@@ -27,26 +37,35 @@ Home
 
 ### Hero section
 
-**Titular:** Establezca su operación en Paraguay. Profesional, integrado, sin sorpresas.
+**Titular:** Tu nuevo comienzo en Paraguay, simple y tranquilo.
 
-**Subtítulo:** Residencia, sociedad y cuenta bancaria — todo en un solo programa, un solo viaje, un equipo de profesionales a su lado.
+**Subtítulo:** Residencia, sociedad, cuenta bancaria y compra de tierras —
+todo coordinado por Nexa Paraguay, ejecutado por nuestro equipo técnico
+de confianza.
 
 **CTA principal:** Agendar consulta gratuita
 
+> *Nota de copy: el slogan "simple y tranquilo" juega con el modismo
+> paraguayo "tranquilopa" para reforzar cercanía cultural local. Palabras
+> clave de valor en evaluación: seguridad, tranquilidad, respaldo, certeza,
+> claridad.*
+
 ### Sección: Lo que hacemos
 
-[NOMBRE DE EMPRESA] es un sistema integral de relocalización para europeos que buscan establecerse operativamente en Paraguay. Combinamos servicios legales, financieros y operativos en un solo programa coordinado para que usted pueda enfocarse en lo que importa: sus decisiones y su inversión.
+Nexa Paraguay es un sistema integral de relocalización para europeos que buscan establecerse operativamente en Paraguay. Combinamos servicios legales, financieros y operativos en un solo programa coordinado para que usted pueda enfocarse en lo que importa: sus decisiones y su inversión.
 
-### Sección: Nuestros programas (resumen)
+### Sección: Nuestros paquetes (resumen)
 
-| Programa | Descripción breve | Precio |
-|----------|-------------------|--------|
-| Paraguay Business | Residencia + sociedad + cuenta bancaria. Todo operativo desde el primer viaje. | USD 4.400 |
-| Paraguay Investor Program | Todo lo anterior + 12 meses de contabilidad, asesoría y análisis de inversiones. | USD 6.900 |
+| Paquete | Descripción breve | Precio al cliente |
+|---------|-------------------|-------------------|
+| **Paraguay Base** *(vía LEALTIS)* | Residencia + cédula. Entrada al sistema paraguayo. | Pendiente de definir |
+| **Paraguay Business** *(vía LEALTIS)* | Residencia + sociedad + cuenta bancaria. Operativo desde el primer viaje. | Pendiente de definir |
+| **Paraguay Investor Program** *(vía LEALTIS)* | Todo lo anterior + 12 meses de contabilidad, asesoría y análisis de inversiones. | Pendiente de definir |
+| **Compra de Tierras en Paraguay** *(servicio propio Nexa)* | Asesoría integral para adquirir tierras en Paraguay. | Pendiente de definir |
 
-**CTA:** Ver programas en detalle
+**CTA:** Ver paquetes en detalle
 
-### Sección: Por qué [NOMBRE DE EMPRESA]
+### Sección: Por qué Nexa Paraguay
 
 - **Un solo programa:** No coordine entre múltiples proveedores. Todo está integrado.
 - **Un solo viaje:** La tramitación presencial se completa en una jornada.
@@ -65,11 +84,37 @@ Home
 
 ---
 
-## 2. PROGRAMAS — Paraguay Business
+## 2. PAQUETES — Paraguay Base *(vía LEALTIS)*
+
+**Titular:** Paraguay Base — Su residencia paraguaya, sin complicaciones.
+
+**Descripción:** Para quienes buscan establecerse legalmente en Paraguay
+sin necesidad inmediata de operar comercialmente. Es la entrada al
+sistema paraguayo: residencia y cédula de identidad, ejecutadas por
+nuestro equipo técnico-legal en una sola jornada coordinada.
+
+**Incluye:**
+- Residencia Paraguaya
+- Cédula de Identidad Paraguaya
+- Análisis documental previo y validación estratégica
+- Jornada integral de tramitación (un solo día)
+- Acompañamiento logístico exclusivo (chofer, traslados)
+- Asesoramiento técnico integral
+
+**Precio al cliente:** *Pendiente de definir.*
+
+**CTA:** Solicitar consulta sobre este paquete
+
+---
+
+## 3. PAQUETES — Paraguay Business *(vía LEALTIS)*
 
 **Titular:** Paraguay Business — Establecimiento operativo completo
 
-**Descripción:** Diseñado para el empresario o profesional europeo que necesita operar en Paraguay con capacidad real: residencia, sociedad constituida y cuenta bancaria empresarial. Todo coordinado, sin fragmentación y sin sorpresas.
+**Descripción:** Diseñado para el empresario o profesional europeo que
+necesita operar en Paraguay con capacidad real: residencia, sociedad
+constituida y cuenta bancaria empresarial. Todo coordinado por Nexa
+Paraguay y ejecutado por nuestro equipo técnico de confianza.
 
 **Incluye:**
 - Residencia Paraguaya y Cédula de Identidad
@@ -82,27 +127,58 @@ Home
 - Asesoramiento técnico integral
 - Honorarios, IVA y tasas oficiales incluidos
 
-**Precio:** USD 4.400 — Pago anticipado. Sin cargos adicionales.
+**Precio al cliente:** *Pendiente de definir.* Pago anticipado, sin cargos
+adicionales.
 
-**CTA:** Solicitar consulta sobre este programa
+**CTA:** Solicitar consulta sobre este paquete
 
 ---
 
-## 3. PROGRAMAS — Paraguay Investor Program
+## 4. PAQUETES — Paraguay Investor Program *(vía LEALTIS)*
 
 **Titular:** Paraguay Investor Program — Su socio estratégico durante 12 meses
 
-**Descripción:** Para el inversor, empresario o familia de alto patrimonio que no busca simplemente establecerse — busca hacerlo con un equipo de confianza que lo acompañe durante todo el primer año en Paraguay.
+**Descripción:** Para el inversor, empresario o familia de alto patrimonio
+que no busca simplemente establecerse — busca hacerlo con un equipo de
+confianza que lo acompañe durante todo el primer año en Paraguay.
 
 **Incluye todo lo del Paraguay Business, más:**
 - Contabilidad empresarial continua (12 meses)
 - Asesoramiento jurídico y fiscal (12 meses)
 - Análisis de inversiones y proyectos
-- Acceso directo al equipo [NOMBRE DE EMPRESA] para decisiones estratégicas
+- Acceso directo al equipo técnico para decisiones estratégicas
 
-**Precio:** USD 6.900 — Pago anticipado. Sin cargos adicionales.
+**Precio al cliente:** *Pendiente de definir.* Pago anticipado, sin cargos
+adicionales.
 
-**CTA:** Solicitar consulta sobre este programa
+**CTA:** Solicitar consulta sobre este paquete
+
+---
+
+## 5. PAQUETES — Compra de Tierras en Paraguay *(servicio propio Nexa Paraguay)*
+
+**Titular:** Compra de Tierras en Paraguay — Inversión patrimonial con
+respaldo local.
+
+**Descripción:** Servicio propio de Nexa Paraguay. Asesoría integral para
+europeos que quieren adquirir tierras en Paraguay (agrícolas, ganaderas,
+urbanas o forestales) como parte de su estrategia de relocación o
+inversión patrimonial. A diferencia de los otros paquetes, este servicio
+se ejecuta directamente con la red local propia de Nexa Paraguay.
+
+**Posibles componentes (alcance pendiente de definir):**
+- Definición de perfil y criterios de búsqueda
+- Búsqueda y short-list de propiedades
+- Due diligence legal (títulos, gravámenes, linderos)
+- Due diligence técnica (mensura, accesos, suelo)
+- Negociación y estructuración de la oferta
+- Coordinación de escribanía y escrituración
+- Inscripción registral
+- Acompañamiento posterior
+
+**Precio al cliente:** *Pendiente de definir.*
+
+**CTA:** Solicitar conversación exploratoria
 
 ---
 
@@ -127,7 +203,7 @@ Home
 - Costo de vida que permite mayor poder adquisitivo
 
 ### Lo que pocos le cuentan
-Paraguay es una oportunidad real — pero el proceso de establecimiento no es sencillo sin la guía adecuada. La burocracia, el sistema bancario y la falta de intermediarios confiables son obstáculos reales. [NOMBRE DE EMPRESA] existe para resolverlos.
+Paraguay es una oportunidad real — pero el proceso de establecimiento no es sencillo sin la guía adecuada. La burocracia, el sistema bancario y la falta de intermediarios confiables son obstáculos reales. Nexa Paraguay existe para resolverlos.
 
 ---
 
@@ -156,11 +232,11 @@ Recibe sus documentos definitivos (residencia, cédula, sociedad, cuenta) y cerr
 
 ---
 
-## 6. SOBRE [NOMBRE DE EMPRESA]
+## 6. SOBRE Nexa Paraguay
 
 **Titular:** Un equipo, una misión: su establecimiento en Paraguay
 
-[NOMBRE DE EMPRESA] opera con un equipo técnico de primer nivel: abogados, contadores, asesores financieros y escribanos con amplia experiencia en el mercado paraguayo. Cada perfil especializado interviene en la etapa que le corresponde — con criterio profesional, no con improvisación.
+Nexa Paraguay opera con un equipo técnico de primer nivel: abogados, contadores, asesores financieros y escribanos con amplia experiencia en el mercado paraguayo. Cada perfil especializado interviene en la etapa que le corresponde — con criterio profesional, no con improvisación.
 
 ### Nuestro equipo
 - **Dirección de Operaciones (Paraguay):** Liderazgo operativo, relaciones institucionales, coordinación del equipo técnico.
@@ -170,7 +246,7 @@ Recibe sus documentos definitivos (residencia, cédula, sociedad, cuenta) y cerr
 - **Coordinación:** Logística, comunicación, seguimiento de procesos.
 
 ### Nuestra diferencia
-No somos una gestoría. No ofrecemos trámites sueltos. [NOMBRE DE EMPRESA] integra todo lo que usted necesita para operar en Paraguay en un solo programa, con un solo equipo, bajo un solo compromiso.
+No somos una gestoría. No ofrecemos trámites sueltos. Nexa Paraguay integra todo lo que usted necesita para operar en Paraguay en un solo programa, con un solo equipo, bajo un solo compromiso.
 
 ---
 
@@ -192,13 +268,13 @@ Vuelos internacionales, alojamiento, gastos personales, traducciones juradas y a
 No. Nuestro equipo le acompaña en todo momento y la comunicación comercial es en neerlandés, inglés y alemán.
 
 **6. ¿Puedo abrir una cuenta bancaria siendo extranjero?**
-Sí, pero es el proceso más complejo para extranjeros en Paraguay. [NOMBRE DE EMPRESA] prepara su perfil financiero y coordina directamente con la entidad bancaria para maximizar las probabilidades de aprobación.
+Sí, pero es el proceso más complejo para extranjeros en Paraguay. Nexa Paraguay prepara su perfil financiero y coordina directamente con la entidad bancaria para maximizar las probabilidades de aprobación.
 
 **7. ¿Qué tipo de sociedad se constituye?**
 Nuestro equipo legal analiza su situación y recomienda el tipo societario más conveniente (generalmente EAS o SA).
 
 **8. ¿El proceso es 100% legal?**
-Absolutamente. [NOMBRE DE EMPRESA] opera con estricto apego a la legislación paraguaya y a las normativas internacionales. No ofrecemos ni facilitamos ningún servicio que no sea completamente legal.
+Absolutamente. Nexa Paraguay opera con estricto apego a la legislación paraguaya y a las normativas internacionales. No ofrecemos ni facilitamos ningún servicio que no sea completamente legal.
 
 **9. ¿Qué pasa si falta algún documento?**
 Lo detectamos antes de su viaje. Nuestro proceso de validación previa está diseñado para que usted llegue a Paraguay con todo en orden.
@@ -219,7 +295,7 @@ La decisión final es de la entidad bancaria. Lo que garantizamos es la preparac
 Sí. Cada miembro de la familia requiere su propio proceso de residencia. Contáctenos para evaluar su caso.
 
 **15. ¿Qué pasa si cambian las leyes durante mi proceso?**
-[NOMBRE DE EMPRESA] monitorea constantemente el entorno regulatorio. Si hay cambios relevantes, le informamos inmediatamente y adaptamos la estrategia.
+Nexa Paraguay monitorea constantemente el entorno regulatorio. Si hay cambios relevantes, le informamos inmediatamente y adaptamos la estrategia.
 
 ---
 
@@ -227,7 +303,7 @@ Sí. Cada miembro de la familia requiere su propio proceso de residencia. Contá
 
 **Titular:** Dé el primer paso
 
-Agende una consulta gratuita de 30 minutos para evaluar su situación y explorar cómo [NOMBRE DE EMPRESA] puede ayudarle.
+Agende una consulta gratuita de 30 minutos para evaluar su situación y explorar cómo Nexa Paraguay puede ayudarle.
 
 **Formulario:**
 - Nombre
@@ -249,7 +325,7 @@ Agende una consulta gratuita de 30 minutos para evaluar su situación y explorar
 | Inversión | "Mercado inmobiliario paraguayo: oportunidades en 2026", "5 razones por las que europeos invierten en Paraguay" |
 | Proceso | "Cómo funciona la residencia paraguaya paso a paso", "La verdad sobre abrir una cuenta bancaria en Paraguay" |
 | Empresarial | "Constituir una empresa en Paraguay: lo que necesitas saber", "Sistema fiscal paraguayo explicado para europeos" |
-| [NOMBRE DE EMPRESA] | "Cómo funciona nuestro programa", "La diferencia entre un gestor y un equipo profesional" |
+| Nexa Paraguay | "Cómo funciona nuestro programa", "La diferencia entre un gestor y un equipo profesional" |
 
 ---
 
@@ -264,4 +340,4 @@ Agende una consulta gratuita de 30 minutos para evaluar su situación y explorar
 
 ---
 
-*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*

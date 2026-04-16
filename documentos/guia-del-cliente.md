@@ -1,16 +1,37 @@
-# Guía del Cliente — [NOMBRE DE EMPRESA]
+# Guía del Cliente — Nexa Paraguay
 
 ---
 
-## Bienvenido a [NOMBRE DE EMPRESA]
+## Bienvenido a Nexa Paraguay
 
-Gracias por confiar en nosotros para su establecimiento en Paraguay. Esta guía le explica cómo funciona el proceso, qué esperar en cada etapa y cómo trabajaremos juntos para que su experiencia sea eficiente, clara y sin sorpresas.
+Gracias por confiar en nosotros para su establecimiento en Paraguay.
+Esta guía le explica cómo funciona el proceso, qué esperar en cada etapa
+y cómo trabajaremos juntos para que su experiencia sea simple y tranquila.
+
+### Nuestros paquetes
+
+Nexa Paraguay ofrece cuatro paquetes:
+
+1. **Paraguay Base** — residencia y cédula (vía nuestro socio técnico LEALTIS).
+2. **Paraguay Business** — residencia, sociedad y cuenta bancaria (vía LEALTIS).
+3. **Paraguay Investor Program** — todo lo anterior + 12 meses de acompañamiento (vía LEALTIS).
+4. **Compra de Tierras en Paraguay** — servicio propio de Nexa Paraguay para adquirir tierras agrícolas, ganaderas, urbanas o forestales.
+
+### Cómo trabajamos
+
+Usted contrata a **Nexa Paraguay** como único punto de contacto. Para
+los paquetes 1, 2 y 3, los trámites técnico-legales son ejecutados por
+nuestro equipo técnico de confianza, **LEALTIS**: abogados, contadores,
+asesores financieros y escribanos especializados en el mercado paraguayo.
+Nexa Paraguay coordina todo el proceso y responde por la calidad del
+servicio. Para el paquete 4, Nexa Paraguay ejecuta el servicio
+directamente con su red local propia.
 
 ---
 
 ## Lo que va a lograr
 
-Al finalizar su programa con [NOMBRE DE EMPRESA], usted tendrá:
+Al finalizar su programa con Nexa Paraguay, usted tendrá:
 
 - **Residencia Paraguaya** — documento oficial que le permite residir legalmente en Paraguay.
 - **Cédula de Identidad Paraguaya** — su identificación nacional.
@@ -18,7 +39,11 @@ Al finalizar su programa con [NOMBRE DE EMPRESA], usted tendrá:
 - **RUC activo** — registro fiscal ante la autoridad tributaria.
 - **Cuenta bancaria empresarial** — cuenta operativa en entidad financiera paraguaya.
 
-Si usted ha contratado el **Paraguay Investor Program**, además contará con 12 meses de contabilidad, asesoramiento jurídico/fiscal y análisis de inversiones.
+Si usted ha contratado el **Paraguay Investor Program**, además contará
+con 12 meses de contabilidad, asesoramiento jurídico/fiscal y análisis de
+inversiones (vía LEALTIS). Si contrató **Compra de Tierras en Paraguay**,
+los entregables dependerán del alcance específico acordado (ver su
+acuerdo y el documento `servicios/paquete-compra-de-tierras.md`).
 
 ---
 
@@ -91,7 +116,7 @@ Cuando todos los documentos estén emitidos, le enviaremos su paquete documental
 
 ---
 
-## Su equipo [NOMBRE DE EMPRESA]
+## Su equipo Nexa Paraguay
 
 | Rol | Qué hace por usted |
 |-----|---------------------|
@@ -145,7 +170,7 @@ Al finalizar su programa, le presentaremos opciones de continuidad adaptadas a s
 ## Información importante
 
 - **Todo lo incluido en su programa está cubierto.** No hay cargos adicionales por el trámite regular.
-- **Su documentación debe ser auténtica y veraz.** [NOMBRE DE EMPRESA] no procesa documentación de origen dudoso.
+- **Su documentación debe ser auténtica y veraz.** Nexa Paraguay no procesa documentación de origen dudoso.
 - **Los plazos de emisión gubernamental están fuera de nuestro control**, pero hacemos seguimiento activo.
 - **Su información es confidencial.** Solo se comparte con las instituciones necesarias para ejecutar su programa.
 
@@ -153,7 +178,7 @@ Al finalizar su programa, le presentaremos opciones de continuidad adaptadas a s
 
 ## Contacto
 
-**[NOMBRE DE EMPRESA]**
+**Nexa Paraguay**
 Email: [email de contacto]
 Teléfono/WhatsApp: [número]
 Web: [URL]

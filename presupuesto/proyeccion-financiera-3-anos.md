@@ -1,8 +1,20 @@
-# Proyección Financiera a 3 Años — [NOMBRE DE EMPRESA]
+# Proyección Financiera a 3 Años — Nexa Paraguay
 
 ---
 
-> **Supuestos base:** Mix 60% Business / 40% Investor. Ingreso promedio ponderado USD 5.400/cliente. Costos fijos iniciales USD 2.500/mes. Ver `presupuesto-operativo.md` y `estructura-de-ingresos.md` para detalle.
+> **Supuestos base originales:** Mix 60% Business / 40% Investor. Ingreso
+> promedio ponderado USD 5.400/cliente. Costos fijos iniciales
+> USD 2.500/mes. Ver `presupuesto-operativo.md` y
+> `estructura-de-ingresos.md` para detalle.
+>
+> **ADVERTENCIA POST-RESTRUCTURA.** Estos supuestos son inválidos en el
+> modelo actual: USD 4.400 y USD 6.900 son **costo a LEALTIS**, no
+> precio al cliente. La proyección debe recalcularse una vez se defina:
+> (a) margen comercial Nexa sobre costo LEALTIS, (b) precio del paquete
+> Paraguay Base, (c) modelo de honorarios del paquete 4 (Compra de
+> Tierras). El mix también debe extenderse a 4 paquetes. Las tablas
+> actuales se conservan como referencia histórica pero **no son válidas
+> para decisiones**.
 
 ---
 

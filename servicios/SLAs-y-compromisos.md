@@ -1,4 +1,15 @@
-# SLAs y Compromisos de Servicio — [NOMBRE DE EMPRESA]
+# SLAs y Compromisos de Servicio — Nexa Paraguay
+
+---
+
+> **Cadena de responsabilidad.** Los compromisos de plazo y calidad de
+> los paquetes Paraguay Base, Paraguay Business y Paraguay Investor
+> Program son ejecutados por **LEALTIS** como proveedor técnico-legal.
+> Nexa Paraguay es el punto único de contacto con el cliente y **responde
+> frente a éste por estos SLAs**, trasladando los compromisos a LEALTIS
+> mediante un acuerdo marco (pendiente de formalizar). Para el paquete 4
+> (Compra de Tierras, servicio propio Nexa), los SLAs son directos y
+> deben definirse una vez que se cierre el alcance del paquete.
 
 ---
 
@@ -13,7 +24,7 @@
 
 ---
 
-## 2. Plazos por hito — Compromisos [NOMBRE DE EMPRESA]
+## 2. Plazos por hito — Compromisos Nexa Paraguay
 
 ### Fase de pre-arribo
 
@@ -59,7 +70,7 @@
 
 ## 3. Obligaciones del cliente
 
-Para que [NOMBRE DE EMPRESA] pueda cumplir los plazos comprometidos, el cliente debe:
+Para que Nexa Paraguay pueda cumplir los plazos comprometidos, el cliente debe:
 
 | Obligación | Plazo |
 |-----------|-------|
@@ -70,7 +81,7 @@ Para que [NOMBRE DE EMPRESA] pueda cumplir los plazos comprometidos, el cliente 
 | Proporcionar información veraz y completa | En todo momento |
 | Comunicar cambios en su situación personal o patrimonial | De manera oportuna |
 
-**Nota:** El incumplimiento de las obligaciones del cliente puede extender los plazos comprometidos por [NOMBRE DE EMPRESA] proporcionalmente.
+**Nota:** El incumplimiento de las obligaciones del cliente puede extender los plazos comprometidos por Nexa Paraguay proporcionalmente.
 
 ---
 
@@ -78,9 +89,9 @@ Para que [NOMBRE DE EMPRESA] pueda cumplir los plazos comprometidos, el cliente 
 
 | Nivel | Situación | Acción | Tiempo de resolución |
 |-------|-----------|--------|---------------------|
-| 1 | Consulta o solicitud estándar | Coordinador [NOMBRE DE EMPRESA] gestiona | 24–48 horas |
+| 1 | Consulta o solicitud estándar | Coordinador Nexa Paraguay gestiona | 24–48 horas |
 | 2 | Retraso en un hito o incidencia operativa | Responsable del área interviene | 3–5 días hábiles |
-| 3 | Problema que afecta el programa completo | Dirección [NOMBRE DE EMPRESA] interviene directamente | 5–10 días hábiles |
+| 3 | Problema que afecta el programa completo | Dirección Nexa Paraguay interviene directamente | 5–10 días hábiles |
 | 4 | Incidencia crítica (rechazo, cambio regulatorio) | Reunión extraordinaria con cliente + dirección | Inmediato |
 
 ---
@@ -89,13 +100,13 @@ Para que [NOMBRE DE EMPRESA] pueda cumplir los plazos comprometidos, el cliente 
 
 ### Procesos dependientes de terceros
 
-[NOMBRE DE EMPRESA] no puede garantizar plazos exactos para procesos que dependen de:
+Nexa Paraguay no puede garantizar plazos exactos para procesos que dependen de:
 
 - **Autoridades gubernamentales:** Dirección General de Migraciones, entidades de identificación, registros públicos.
 - **Entidades bancarias:** Decisiones de apertura de cuenta, políticas internas KYC/AML.
 - **Escribanías y registros:** Plazos de inscripción y formalización.
 
-En estos casos, [NOMBRE DE EMPRESA] se compromete a:
+En estos casos, Nexa Paraguay se compromete a:
 1. Informar proactivamente sobre el estado del proceso.
 2. Realizar seguimiento activo ante la institución correspondiente.
 3. Comunicar inmediatamente cualquier observación o requerimiento adicional.
@@ -103,7 +114,7 @@ En estos casos, [NOMBRE DE EMPRESA] se compromete a:
 
 ### Fuerza mayor
 
-Eventos fuera del control razonable de las partes (cambios regulatorios abruptos, desastres naturales, pandemias, restricciones de viaje) pueden alterar los plazos. En tales casos, [NOMBRE DE EMPRESA] comunicará la situación y propondrá un plan de acción ajustado.
+Eventos fuera del control razonable de las partes (cambios regulatorios abruptos, desastres naturales, pandemias, restricciones de viaje) pueden alterar los plazos. En tales casos, Nexa Paraguay comunicará la situación y propondrá un plan de acción ajustado.
 
 ---
 

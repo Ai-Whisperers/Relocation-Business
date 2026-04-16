@@ -2,6 +2,26 @@
 
 ---
 
+> **Nota post-restructura.** Con el nuevo modelo de relación Nexa Paraguay
+> ↔ LEALTIS, se incorporan al registro dos familias de riesgos (R26–R37)
+> que deben integrarse a este plan en una próxima iteración:
+>
+> - **R26 — Dependencia estructural de LEALTIS (CRÍTICO).** Acciones
+>   prioritarias: formalizar acuerdo marco con SLAs, precios y
+>   no-competencia; identificar proveedor alternativo de respaldo;
+>   acelerar desarrollo del paquete 4 propio.
+> - **R30 — Riesgo de que LEALTIS venda directamente al cliente de Nexa.**
+>   Blindar contractualmente la titularidad del lead.
+> - **R31 — Títulos observables en tierras (CRÍTICO).** Due diligence
+>   legal obligatoria antes de seña.
+> - **R37 — Falta de definición del alcance del paquete 4 (CRÍTICO).**
+>   Cerrar alcance, entregables, honorarios y contrato antes de publicar
+>   en la web.
+>
+> Ver detalle y acciones completas en `registro-de-riesgos.md`.
+
+---
+
 ## R01 — Dependencia de Daniel (CRÍTICO)
 
 ### Descripción
@@ -149,13 +169,13 @@ Tasa de aprobación bancaria > 85%.
 ### Medidas preventivas
 | Acción | Plazo | Responsable |
 |--------|-------|-------------|
-| Clarificar que [NOMBRE DE EMPRESA] NO asesora en jurisdicción europea | Mes 0 | Ambos socios |
+| Clarificar que Nexa Paraguay NO asesora en jurisdicción europea | Mes 0 | Ambos socios |
 | Incluir disclaimer en acuerdo de servicios | Mes 0 | Equipo legal |
 | Recomendar a clientes consultar asesor fiscal en su país | Por cliente | Socio EU |
 | Monitoreo general de cambios CRS relevantes | Semestral | Socio EU |
 
 ### Indicador de éxito
-Cero clientes que confundan [NOMBRE DE EMPRESA] con asesor fiscal europeo.
+Cero clientes que confundan Nexa Paraguay con asesor fiscal europeo.
 
 ---
 

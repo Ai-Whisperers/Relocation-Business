@@ -1,4 +1,20 @@
-# Inversión Inicial — [NOMBRE DE EMPRESA]
+# Inversión Inicial — Nexa Paraguay
+
+---
+
+> **Pendientes estructurales a presupuestar.** Además del listado base,
+> la nueva arquitectura Nexa + LEALTIS genera nuevos rubros de inversión
+> inicial:
+>
+> - **Acuerdo marco Nexa ↔ LEALTIS** (honorarios legales para redactar
+>   el contrato de provisión, SLAs, no-competencia, cláusulas de precios).
+> - **Diseño y lanzamiento del paquete 4 (Compra de Tierras)**: acuerdos
+>   con red de partners (inmobiliarias, escribanos, agrimensores),
+>   desarrollo del contrato específico, blueprint operativo propio.
+> - **Registro y branding de Nexa Paraguay** (dominio, marca registrada,
+>   identidad visual) — independiente de LEALTIS.
+>
+> Cifras pendientes de cotizar.
 
 ---
 
@@ -6,7 +22,7 @@
 
 | # | Concepto | Rango (USD) | Prioridad | Observación |
 |---|----------|:-----------:|:---------:|-------------|
-| 1 | **Constitución legal de [NOMBRE DE EMPRESA]** | 500–1.000 | Crítica | Sociedad en Paraguay, registro, RUC propio |
+| 1 | **Constitución legal de Nexa Paraguay** | 500–1.000 | Crítica | Sociedad en Paraguay, registro, RUC propio |
 | 2 | **Acuerdo entre socios** | 300–800 | Crítica | Redacción legal del acuerdo de partnership |
 | 3 | **Marca y diseño** | 1.000–3.000 | Alta | Logo, identidad visual, manual de marca |
 | 4 | **Sitio web** | 3.000–8.000 | Alta | Diseño, desarrollo, contenido NL/EN/DE/ES |

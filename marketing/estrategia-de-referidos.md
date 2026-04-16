@@ -1,4 +1,12 @@
-# Estrategia de Referidos — [NOMBRE DE EMPRESA]
+# Estrategia de Referidos — Nexa Paraguay
+
+---
+
+> **Nota.** Esta estrategia aplica a los 4 paquetes comercializados por
+> Nexa Paraguay (Paraguay Base, Business, Investor Program vía LEALTIS;
+> y Compra de Tierras propia Nexa). Cualquier monto de comisión o premio
+> basado en "precio del programa" debe recalcularse una vez que se
+> defina el precio al cliente final (costo LEALTIS + margen Nexa).
 
 ---
 
@@ -30,17 +38,17 @@
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Potencial** | Muy alto — sus clientes son exactamente el target de [NOMBRE DE EMPRESA] |
+| **Potencial** | Muy alto — sus clientes son exactamente el target de Nexa Paraguay |
 | **Incentivo propuesto** | Comisión del 5–10% del programa contratado (USD 220–690 por cliente) |
-| **Activación** | Outreach directo, presentación de [NOMBRE DE EMPRESA], acuerdo formal de colaboración |
+| **Activación** | Outreach directo, presentación de Nexa Paraguay, acuerdo formal de colaboración |
 | **Tracking** | Acuerdo firmado con identificación de referidos |
-| **Nota clave** | El asesor fiscal refiere al cliente para establecimiento en Paraguay; [NOMBRE DE EMPRESA] no da asesoramiento fiscal en jurisdicción europea |
+| **Nota clave** | El asesor fiscal refiere al cliente para establecimiento en Paraguay; Nexa Paraguay no da asesoramiento fiscal en jurisdicción europea |
 
 ### 2.3 Agentes inmobiliarios (Paraguay y Europa)
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Potencial** | Medio-alto — referidos cruzados (ellos refieren clientes con interés en Paraguay, [NOMBRE DE EMPRESA] facilita la inversión) |
+| **Potencial** | Medio-alto — referidos cruzados (ellos refieren clientes con interés en Paraguay, Nexa Paraguay facilita la inversión) |
 | **Incentivo propuesto** | Acuerdo de referidos recíprocos o comisión por referido |
 | **Activación** | Red existente de Daniel + outreach en Europa |
 | **Tracking** | Registro de origen del lead |
@@ -59,7 +67,7 @@
 | Aspecto | Detalle |
 |---------|---------|
 | **Potencial** | Variable — depende del influencer y su audiencia |
-| **Incentivo propuesto** | Caso por caso: contenido patrocinado, comisión por lead, experiencia [NOMBRE DE EMPRESA] |
+| **Incentivo propuesto** | Caso por caso: contenido patrocinado, comisión por lead, experiencia Nexa Paraguay |
 | **Activación** | Identificación selectiva de influencers alineados con el posicionamiento |
 | **Tracking** | Link/código de seguimiento |
 
@@ -71,17 +79,17 @@
 
 | Regla | Detalle |
 |-------|---------|
-| **Quién puede referir** | Cualquier cliente activo o pasado de [NOMBRE DE EMPRESA] |
+| **Quién puede referir** | Cualquier cliente activo o pasado de Nexa Paraguay |
 | **Qué se recompensa** | Referido que contrate un programa completo (Business o Investor) |
 | **Incentivo** | USD 300 (por referido Business) / USD 500 (por referido Investor) |
-| **Forma de pago** | Transferencia bancaria o crédito para servicios [NOMBRE DE EMPRESA] |
+| **Forma de pago** | Transferencia bancaria o crédito para servicios Nexa Paraguay |
 | **Límite** | Sin límite de referidos |
 | **Cuándo se paga** | Una vez que el referido haya completado el pago del programa |
 | **Acumulable** | Sí, se puede referir a múltiples personas |
 
 ### Materiales para el referidor
 
-- Resumen de una página sobre [NOMBRE DE EMPRESA] y programas (PDF compartible)
+- Resumen de una página sobre Nexa Paraguay y programas (PDF compartible)
 - Link personalizado o código de referido
 - Mensaje sugerido para compartir (email, WhatsApp)
 - Respuestas a preguntas frecuentes que el referidor pueda recibir
@@ -94,18 +102,18 @@
 
 | Elemento | Contenido |
 |----------|-----------|
-| **Partes** | [NOMBRE DE EMPRESA] + Partner (asesor fiscal, agente, etc.) |
-| **Alcance** | El partner refiere clientes potenciales a [NOMBRE DE EMPRESA] |
+| **Partes** | Nexa Paraguay + Partner (asesor fiscal, agente, etc.) |
+| **Alcance** | El partner refiere clientes potenciales a Nexa Paraguay |
 | **Comisión** | 5–10% del programa contratado, pagado tras cobro completo |
 | **Exclusividad** | No exclusivo (salvo acuerdo especial) |
 | **Duración** | 12 meses renovable |
-| **Obligaciones del partner** | Referir de buena fe, no hacer representaciones sobre servicios de [NOMBRE DE EMPRESA] más allá de lo autorizado |
-| **Obligaciones de [NOMBRE DE EMPRESA]** | Atender al referido con el estándar habitual, reportar estado, pagar comisión según acuerdo |
+| **Obligaciones del partner** | Referir de buena fe, no hacer representaciones sobre servicios de Nexa Paraguay más allá de lo autorizado |
+| **Obligaciones de Nexa Paraguay** | Atender al referido con el estándar habitual, reportar estado, pagar comisión según acuerdo |
 
 ### Proceso de onboarding de partners
 
 1. Identificación del partner potencial
-2. Presentación de [NOMBRE DE EMPRESA] y propuesta de colaboración
+2. Presentación de Nexa Paraguay y propuesta de colaboración
 3. Negociación de términos
 4. Firma de acuerdo de referidos
 5. Entrega de materiales (presentación, FAQ, código de tracking)
@@ -120,7 +128,7 @@
 
 | Pueden decir | NO pueden decir |
 |-------------|-----------------|
-| "[NOMBRE DE EMPRESA] ofrece programas de establecimiento en Paraguay" | "[NOMBRE DE EMPRESA] le ayuda a evadir impuestos" |
+| "Nexa Paraguay ofrece programas de establecimiento en Paraguay" | "Nexa Paraguay le ayuda a evadir impuestos" |
 | "Integran residencia, sociedad y cuenta bancaria" | "Garantizan aprobación bancaria" |
 | "Tienen un equipo profesional en Paraguay" | Cualquier promesa sobre resultados fiscales específicos |
 | "El proceso se completa en un viaje" | Comparaciones despectivas con competidores |
@@ -128,7 +136,7 @@
 
 ### Regla general
 
-> Los partners son referidores, no representantes de [NOMBRE DE EMPRESA]. No deben asesorar sobre servicios que no ofrecen ni hacer promesas que [NOMBRE DE EMPRESA] no haya autorizado.
+> Los partners son referidores, no representantes de Nexa Paraguay. No deben asesorar sobre servicios que no ofrecen ni hacer promesas que Nexa Paraguay no haya autorizado.
 
 ---
 

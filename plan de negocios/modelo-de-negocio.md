@@ -1,4 +1,15 @@
-# Modelo de Negocio — [NOMBRE DE EMPRESA]
+# Modelo de Negocio — Nexa Paraguay
+
+---
+
+> **Arquitectura de dos empresas.** Nexa Paraguay es la marca
+> cliente-facing y el punto único de contacto comercial. **LEALTIS** es un
+> proveedor técnico-legal independiente que ejecuta los componentes de
+> residencia, sociedad, cuenta bancaria y acompañamiento estratégico de
+> los paquetes 1, 2 y 3. Nexa Paraguay los revende bajo su marca con un
+> margen comercial (**pendiente de definir**). Además, Nexa suma un
+> paquete propio — **Compra de Tierras en Paraguay** — que no involucra a
+> LEALTIS.
 
 ---
 
@@ -10,7 +21,7 @@
 
 **Para el empresario, inversor o profesional europeo que necesita establecerse operativamente en Paraguay:**
 
-[NOMBRE DE EMPRESA] elimina la complejidad del proceso de establecimiento al ofrecer un sistema integral que combina servicios legales, financieros y operativos en una solución cohesiva. El resultado: el cliente obtiene residencia, identidad, sociedad, registro fiscal y cuenta bancaria — todo coordinado, sin fragmentación y sin sorpresas.
+Nexa Paraguay elimina la complejidad del proceso de establecimiento al ofrecer un sistema integral que combina servicios legales, financieros y operativos en una solución cohesiva. El resultado: el cliente obtiene residencia, identidad, sociedad, registro fiscal y cuenta bancaria — todo coordinado, sin fragmentación y sin sorpresas.
 
 **Elementos clave de la propuesta:**
 - **Velocidad:** Tramitación presencial en una sola mañana.
@@ -25,9 +36,10 @@
 
 | Segmento | Prioridad | Programa típico |
 |----------|-----------|-----------------|
-| Inversores europeos (USD 200k–600k+) | Alta | Paraguay Investor Program |
+| Inversores europeos (USD 200k–600k+) | Alta | Paraguay Investor Program + Compra de Tierras |
 | Optimizadores fiscales | Alta | Paraguay Business / Investor |
-| Migrantes por estilo de vida | Media | Paraguay Business |
+| Migrantes por estilo de vida | Media | Paraguay Base / Business |
+| Compradores de tierra como inversión patrimonial | Alta | Compra de Tierras (standalone o con paquete 1/2) |
 
 **Mercado inicial:** Holandeses y europeos del norte.
 **Expansión:** Alemanes, belgas, franceses, escandinavos.
@@ -64,11 +76,12 @@
 
 | Fuente | Tipo | Contribución estimada |
 |--------|------|----------------------|
-| **Paraguay Business** (USD 4.400) | Ingreso puntual por cliente | Principal (volumen) |
-| **Paraguay Investor Program** (USD 6.900) | Ingreso puntual + recurrente | Principal (margen) |
+| **Paraguay Base** *(vía LEALTIS)* | Ingreso puntual por cliente. Precio pendiente de definir (costo LEALTIS + margen Nexa). | Volumen medio |
+| **Paraguay Business** *(vía LEALTIS)* | Ingreso puntual. Costo LEALTIS USD 4.400 + margen Nexa pendiente. | Principal (volumen) |
+| **Paraguay Investor Program** *(vía LEALTIS)* | Ingreso puntual + relación 12 meses. Costo LEALTIS USD 6.900 + margen Nexa pendiente. | Principal (margen) |
+| **Compra de Tierras en Paraguay** *(servicio propio)* | Fee / comisión por operación. Estructura pendiente de definir. | Potencialmente alto margen |
 | **Renovación de servicios anuales** | Recurrente | Creciente a partir del año 2 |
-| **Comisiones inmobiliarias** | Variable, por transacción | Complementario (alto margen) |
-| **Consultoría especializada** | Puntual, por caso | Complementario |
+| **Comisiones inmobiliarias / consultoría** | Variable, por transacción | Complementario |
 
 ### Estructura de pricing
 
@@ -108,6 +121,8 @@
 
 | Socio | Rol | Criticidad |
 |-------|-----|-----------|
+| **LEALTIS** | Proveedor técnico-legal que ejecuta los paquetes Paraguay Base, Paraguay Business y Paraguay Investor Program. Nexa Paraguay revende estos programas bajo su marca. | **Crítica (estructural)** |
+| **Red propia para Compra de Tierras** (inmobiliarias rurales/urbanas, escribanos, agrimensores) | Ejecución del paquete 4 | Crítica (para paquete 4) |
 | **Entidades bancarias** | Apertura de cuentas, servicios financieros | Crítica |
 | **Dirección General de Migraciones** | Procesamiento de residencias | Crítica |
 | **Escribanías / notarías** | Formalización de documentos y sociedades | Alta |
@@ -131,12 +146,16 @@
 
 ### Economía unitaria (estimación)
 
-| Programa | Ingreso | Costos variables estimados | Margen bruto estimado |
-|----------|---------|--------------------------|----------------------|
-| Paraguay Business | USD 4.400 | USD 1.200–1.800 | USD 2.600–3.200 (~65%) |
-| Paraguay Investor Program | USD 6.900 | USD 2.500–3.500 | USD 3.400–4.400 (~55%) |
+| Paquete | Precio cliente (Nexa) | Costo LEALTIS (a Nexa) | Otros costos Nexa | Margen bruto Nexa |
+|---------|----------------------|------------------------|-------------------|-------------------|
+| Paraguay Base | Pendiente de definir | Pendiente | Coordinación, comercial | Pendiente |
+| Paraguay Business | Pendiente de definir | USD 4.400 | Coordinación, comercial | Pendiente |
+| Paraguay Investor Program | Pendiente de definir | USD 6.900 | Coordinación 12 meses | Pendiente |
+| Compra de Tierras | Pendiente de definir | No aplica | Red propia, DD, escribanía | Pendiente |
 
-*Nota: Estimaciones iniciales. Deben validarse con datos operativos reales.*
+*Nota: USD 4.400 y USD 6.900 son los **costos pagados a LEALTIS**, no el
+precio al cliente. El margen comercial Nexa está pendiente de decisión
+estratégica.*
 
 ---
 

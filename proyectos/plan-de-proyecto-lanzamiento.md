@@ -1,13 +1,29 @@
-# Plan de Proyecto: Lanzamiento — [NOMBRE DE EMPRESA] (Fases 0–2)
+# Plan de Proyecto: Lanzamiento — Nexa Paraguay (Fases 0–2)
+
+---
+
+> **Hitos críticos añadidos por la restructura Nexa ↔ LEALTIS:**
+>
+> - **Acuerdo marco con LEALTIS** (contrato de provisión, SLAs, precios,
+>   no-competencia, confidencialidad, DPA). Prerrequisito para publicar
+>   la web.
+> - **Definición de margen comercial Nexa** sobre los precios LEALTIS
+>   (USD 4.400, USD 6.900) y precio del paquete Paraguay Base.
+> - **Alcance, entregables y honorarios del paquete 4** (Compra de
+>   Tierras). Prerrequisito para publicar ese paquete en la web.
+> - **Registro de marca Nexa Paraguay, dominio y branding propio**
+>   independiente de LEALTIS.
 
 ---
 
 ## 1. Estructura de desglose del trabajo (WBS)
 
 ### 1.1 Legal y contractual
-- 1.1.1 Constitución de [NOMBRE DE EMPRESA] en Paraguay
-- 1.1.2 Acuerdo de partnership
-- 1.1.3 Templates legales (acuerdo de servicios, política de privacidad)
+- 1.1.1 Constitución de Nexa Paraguay en Paraguay
+- 1.1.2 Acuerdo de partnership entre los socios de Nexa
+- 1.1.3 **Acuerdo marco Nexa ↔ LEALTIS** (provisión, SLAs, precios, DPA, no-competencia)
+- 1.1.4 Templates legales (acuerdo de servicios con cliente, política de privacidad)
+- 1.1.5 Contrato específico del paquete 4 (Compra de Tierras)
 
 ### 1.2 Marca e identidad
 - 1.2.1 Brief de marca
@@ -43,7 +59,7 @@
 
 | # | Tarea | Duración | Dependencias | Responsable |
 |---|-------|:--------:|:------------:|-------------|
-| T01 | Constitución legal [NOMBRE DE EMPRESA] | 2 sem | — | Daniel |
+| T01 | Constitución legal Nexa Paraguay | 2 sem | — | Daniel |
 | T02 | Acuerdo de partnership | 2 sem | — | Ambos |
 | T03 | Brief de marca | 1 sem | — | Socio EU |
 | T04 | Diseño logo + identidad | 2–3 sem | T03 | Socio EU + diseñador |
@@ -105,7 +121,7 @@ T03 → T04 → T06 → T07 → T08 → T21 → T22 → T23 → T24 → T25
 
 | Criterio | Obligatorio |
 |----------|:-----------:|
-| [NOMBRE DE EMPRESA] constituida legalmente | Sí |
+| Nexa Paraguay constituida legalmente | Sí |
 | Acuerdo de partnership firmado | Sí |
 | Identidad de marca definida | Sí |
 | Paquetes y precios confirmados | Sí |

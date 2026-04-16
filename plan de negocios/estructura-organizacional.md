@@ -1,4 +1,16 @@
-# Estructura Organizacional — [NOMBRE DE EMPRESA]
+# Estructura Organizacional — Nexa Paraguay
+
+---
+
+> **Arquitectura de dos empresas.** Nexa Paraguay es una empresa propia.
+> El equipo técnico-legal que ejecuta los paquetes 1, 2 y 3 (abogados,
+> contadores, asesores financieros y escribanos) **pertenece a LEALTIS**,
+> nuestro proveedor especializado, no a Nexa Paraguay. Cuando en este
+> documento se menciona "Equipo legal" o "Equipo técnico" en el contexto
+> de los paquetes vía LEALTIS, se refiere al equipo de LEALTIS,
+> coordinado por Nexa Paraguay. El equipo propio de Nexa Paraguay se
+> encarga de: comercial, coordinación con LEALTIS, atención al cliente
+> final y ejecución del paquete 4 (Compra de Tierras).
 
 ---
 

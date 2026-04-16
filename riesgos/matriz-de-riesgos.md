@@ -1,4 +1,14 @@
-# Matriz de Riesgos — [NOMBRE DE EMPRESA]
+# Matriz de Riesgos — Nexa Paraguay
+
+---
+
+> **Nota post-restructura.** Con el nuevo modelo (Nexa Paraguay marca
+> cliente, LEALTIS proveedor técnico) se agregaron dos familias de
+> riesgos al registro (R26–R37): dependencia del proveedor LEALTIS
+> (R26–R30) y riesgos específicos del paquete 4 de Compra de Tierras
+> (R31–R37). La matriz visual de abajo está pendiente de actualización
+> gráfica para incluirlos. Ver `registro-de-riesgos.md` como fuente
+> canónica.
 
 ---
 

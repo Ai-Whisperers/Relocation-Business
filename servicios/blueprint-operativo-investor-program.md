@@ -1,4 +1,9 @@
-# Blueprint Operativo — Paraguay Investor Program
+# Blueprint Operativo — Paraguay Investor Program *(vía LEALTIS)*
+
+> Programa **Paraguay Investor Program** revendido por Nexa Paraguay bajo
+> su marca. La ejecución técnica-legal está a cargo de **LEALTIS**
+> (proveedor especializado). Nexa Paraguay coordina la relación con el
+> cliente final durante los 12 meses del programa.
 
 ---
 
@@ -81,14 +86,14 @@ Ver documento: `blueprint-operativo-paraguay-business.md`
 
 | Actividad | Responsable | Frecuencia | Entregable |
 |-----------|-------------|------------|------------|
-| Identificación de oportunidades inmobiliarias | Asesor [NOMBRE DE EMPRESA] | Continuo | Fichas de oportunidad |
+| Identificación de oportunidades inmobiliarias | Asesor Nexa Paraguay | Continuo | Fichas de oportunidad |
 | Evaluación técnica de proyectos | Equipo multidisciplinario | Según demanda | Informe de evaluación |
-| Análisis de perfil de desarrolladoras | Asesor [NOMBRE DE EMPRESA] | Según demanda | Evaluación de contraparte |
+| Análisis de perfil de desarrolladoras | Asesor Nexa Paraguay | Según demanda | Evaluación de contraparte |
 | Evaluación de proyectos productivos | Equipo multidisciplinario | Según demanda | Informe técnico |
-| Recomendaciones estratégicas | Asesor [NOMBRE DE EMPRESA] | Trimestral (mínimo) | Memo estratégico |
-| Coordinación con actores del sector | Coordinador [NOMBRE DE EMPRESA] | Según oportunidad | Reuniones facilitadas |
+| Recomendaciones estratégicas | Asesor Nexa Paraguay | Trimestral (mínimo) | Memo estratégico |
+| Coordinación con actores del sector | Coordinador Nexa Paraguay | Según oportunidad | Reuniones facilitadas |
 
-**Nota:** [NOMBRE DE EMPRESA] proporciona análisis y recomendaciones. Las decisiones de inversión son exclusivamente del cliente.
+**Nota:** Nexa Paraguay proporciona análisis y recomendaciones. Las decisiones de inversión son exclusivamente del cliente.
 
 ---
 
@@ -106,7 +111,7 @@ Mes 12         → Sesión de cierre anual y propuesta de continuidad
 
 ## Renovación
 
-Al finalizar los 12 meses del programa, [NOMBRE DE EMPRESA] presentará una propuesta de continuidad que puede incluir:
+Al finalizar los 12 meses del programa, Nexa Paraguay presentará una propuesta de continuidad que puede incluir:
 
 - Renovación del servicio contable anual
 - Continuidad del asesoramiento jurídico y fiscal
@@ -117,4 +122,4 @@ Las condiciones de renovación se acuerdan de manera independiente.
 
 ---
 
-*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `blueprint-operativo-paraguay-business.md`.*
+*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/estructura-de-negocio.md`, `blueprint-operativo-paraguay-business.md`.*

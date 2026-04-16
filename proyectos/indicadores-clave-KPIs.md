@@ -1,4 +1,4 @@
-# Indicadores Clave de Desempeño (KPIs) — [NOMBRE DE EMPRESA]
+# Indicadores Clave de Desempeño (KPIs) — Nexa Paraguay
 
 ---
 
@@ -7,9 +7,12 @@
 | KPI | Definición | Fórmula | Meta | Frecuencia | Fuente | Owner |
 |-----|-----------|---------|:----:|:----------:|--------|-------|
 | Clientes/mes | Programas contratados en el mes | Conteo directo | 2–4 | Mensual | CRM | Ambos |
-| Ingreso mensual | Facturación total del mes | Suma de programas + recurrentes | USD 10k–20k | Mensual | Contabilidad | Ambos |
-| Ingreso promedio por cliente | Revenue por cliente | Ingresos / clientes | > USD 5.000 | Mensual | Contabilidad | Ambos |
-| Mix de paquetes | % Business vs Investor | Investor / total | 40% Investor | Mensual | CRM | Socio EU |
+| Ingreso mensual | Facturación total del mes | Suma de paquetes + recurrentes | *Pendiente de recalcular tras definir precios cliente* | Mensual | Contabilidad | Ambos |
+| Ingreso promedio por cliente | Revenue por cliente | Ingresos / clientes | *Pendiente (depende del margen Nexa sobre LEALTIS)* | Mensual | Contabilidad | Ambos |
+| Margen bruto por paquete (1–3) | Precio cliente − costo LEALTIS | Directa | *Pendiente de definir* | Mensual | Contabilidad | Ambos |
+| Ingresos del paquete 4 | Compra de Tierras (propio Nexa) | Suma mensual | *Pendiente de definir* | Mensual | Contabilidad | Ambos |
+| Mix de paquetes | % Base / Business / Investor / Tierras | Conteo por paquete | *Pendiente (4 paquetes)* | Mensual | CRM | Socio EU |
+| Dependencia de LEALTIS | % de ingresos canalizados vía LEALTIS | Ingresos LEALTIS / total | < 75% (meta estratégica) | Trimestral | Contabilidad | Ambos |
 | Ingreso recurrente (%) | % de ingresos de servicios continuos | Recurrentes / total | > 15% (Año 2) | Trimestral | Contabilidad | Ambos |
 | Satisfacción (NPS) | Net Promoter Score | Encuesta post-programa | > 8/10 | Por cliente | Encuesta | Socio EU |
 

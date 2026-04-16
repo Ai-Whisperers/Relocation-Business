@@ -1,4 +1,4 @@
-# Resumen Ejecutivo — [NOMBRE DE EMPRESA]
+# Resumen Ejecutivo — Nexa Paraguay
 
 ---
 
@@ -10,9 +10,24 @@ Sin embargo, la ejecución es compleja. Los extranjeros enfrentan barreras estru
 
 ---
 
-## [NOMBRE DE EMPRESA] — Propuesta de valor
+## Nexa Paraguay — Propuesta de valor
 
-[NOMBRE DE EMPRESA] es un **sistema integral de relocalización** que elimina la complejidad del proceso de establecimiento en Paraguay. No es una firma de abogados ni una consultoría tradicional: es una **infraestructura de confianza** que integra servicios legales, financieros y operativos en una solución cohesiva.
+Nexa Paraguay es un **sistema integral de relocalización** que elimina la
+complejidad del proceso de establecimiento en Paraguay. No es una firma
+de abogados ni una consultoría tradicional: es una **infraestructura de
+confianza** que integra servicios legales, financieros y operativos en
+una solución cohesiva para el cliente europeo.
+
+> **Arquitectura de entrega.** Nexa Paraguay es la marca con la que se
+> atiende al cliente final (web, marketing, contratos, facturación). Los
+> componentes técnico-legales de los paquetes Paraguay Base, Business e
+> Investor Program son **ejecutados por LEALTIS**, un proveedor
+> especializado con equipo multidisciplinario de abogados, contadores,
+> asesores financieros y escribanos. Nexa Paraguay revende estos
+> programas bajo su marca con un margen comercial propio. Además, suma
+> un servicio exclusivo propio: **Compra de Tierras en Paraguay**.
+
+**Slogan de trabajo:** *"Tu nuevo comienzo en Paraguay, simple y tranquilo."*
 
 **En un solo programa y un solo viaje**, el cliente obtiene:
 - Residencia paraguaya
@@ -22,7 +37,7 @@ Sin embargo, la ejecución es compleja. Los extranjeros enfrentan barreras estru
 - Cuenta bancaria empresarial
 - Orientación de inversión inmobiliaria
 
-Los diferenciadores clave son **velocidad, confianza y completitud**. Mientras que sin asistencia profesional estos procesos toman meses y múltiples viajes, [NOMBRE DE EMPRESA] comprime la tramitación presencial a una **sola mañana** gracias a preparación técnica exhaustiva y coordinación institucional anticipada.
+Los diferenciadores clave son **velocidad, confianza y completitud**. Mientras que sin asistencia profesional estos procesos toman meses y múltiples viajes, Nexa Paraguay comprime la tramitación presencial a una **sola mañana** gracias a preparación técnica exhaustiva y coordinación institucional anticipada.
 
 ---
 
@@ -44,25 +59,31 @@ El flujo de europeos hacia Paraguay está en crecimiento sostenido. La oportunid
 
 ## Modelo de negocio
 
-### Programas
+### Paquetes (4)
 
-| Programa | Precio | Alcance |
-|----------|--------|---------|
-| **Paraguay Business** | USD 4.400 | Establecimiento completo: residencia, sociedad, banco |
-| **Paraguay Investor Program** | USD 6.900 | Todo lo anterior + 12 meses de contabilidad, asesoría legal/fiscal, análisis de inversiones |
+| Paquete | Provisión | Costo LEALTIS | Precio cliente Nexa |
+|---------|-----------|:-------------:|:-------------------:|
+| **Paraguay Base** | vía LEALTIS | Pendiente | Pendiente de definir |
+| **Paraguay Business** | vía LEALTIS | USD 4.400 | Pendiente de definir (USD 4.400 + margen) |
+| **Paraguay Investor Program** | vía LEALTIS | USD 6.900 | Pendiente de definir (USD 6.900 + margen) |
+| **Compra de Tierras en Paraguay** | Servicio propio Nexa | No aplica | Pendiente de definir |
 
 ### Fuentes de ingreso
 
-1. **Paquetes de establecimiento** (ingreso principal, recurrente por cliente nuevo)
-2. **Servicios recurrentes** (contabilidad, asesoría legal/fiscal — renovaciones anuales)
-3. **Comisiones inmobiliarias** (facilitación de transacciones de inversión)
-4. **Consultoría especializada** (estructuras adicionales, casos complejos)
+1. **Paquetes vía LEALTIS** (Paraguay Base, Business, Investor): ingreso
+   puntual por cliente nuevo; ingreso bruto = precio cliente – costo
+   LEALTIS.
+2. **Compra de Tierras en Paraguay** (paquete 4, propio Nexa): ingreso
+   por fee y/o comisión sobre operación.
+3. **Servicios recurrentes** (contabilidad, asesoría legal/fiscal —
+   renovaciones anuales).
+4. **Comisiones inmobiliarias y consultoría especializada**.
 
 ---
 
 ## Ventaja competitiva
 
-El activo más crítico de [NOMBRE DE EMPRESA] no es infraestructura, sino **capital relacional**. El equipo ha desarrollado durante años una red que incluye:
+El activo más crítico de Nexa Paraguay no es infraestructura, sino **capital relacional**. El equipo ha desarrollado durante años una red que incluye:
 
 - **Gerentes bancarios** que permiten pre-validar y acelerar la apertura de cuentas (el principal cuello de botella del mercado).
 - **Profesionales legales y contables** con experiencia directa en el mercado paraguayo.
@@ -72,7 +93,7 @@ Este capital relacional es **difícil de replicar** y constituye la principal ba
 
 ### Panorama competitivo
 
-El mercado actual es **fragmentado y frecuentemente poco profesional**. Muchos proveedores ofrecen soluciones incompletas, cobran tarifas ocultas o no cumplen plazos razonables. [NOMBRE DE EMPRESA] se posiciona como la **alternativa premium**: confiable, transparente y orientada a resultados.
+El mercado actual es **fragmentado y frecuentemente poco profesional**. Muchos proveedores ofrecen soluciones incompletas, cobran tarifas ocultas o no cumplen plazos razonables. Nexa Paraguay se posiciona como la **alternativa premium**: confiable, transparente y orientada a resultados.
 
 ---
 
@@ -102,8 +123,8 @@ El mercado actual es **fragmentado y frecuentemente poco profesional**. Muchos p
 
 Transformar lo que hoy es una operación basada en relaciones personales en un **sistema estructurado, repetible y escalable** que facilite eficientemente el movimiento de individuos y capital hacia Paraguay de manera controlada, profesional y conforme a la ley.
 
-[NOMBRE DE EMPRESA] aspira a convertirse en la **referencia de relocalización** para el cliente europeo serio que busca operar en Paraguay.
+Nexa Paraguay aspira a convertirse en la **referencia de relocalización** para el cliente europeo serio que busca operar en Paraguay.
 
 ---
 
-*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/[nombre de empresa]-paraguay-business-program.md`.*
+*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/lealtis-paraguay-business-program.md`.*

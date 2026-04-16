@@ -1,4 +1,14 @@
-# Estrategia Comercial — [NOMBRE DE EMPRESA]
+# Estrategia Comercial — Nexa Paraguay
+
+---
+
+> **Contexto comercial.** Nexa Paraguay comercializa **4 paquetes**:
+> Paraguay Base, Paraguay Business, Paraguay Investor Program (los tres
+> ejecutados por el proveedor técnico LEALTIS) y Compra de Tierras en
+> Paraguay (servicio propio). La estrategia comercial debe articular los
+> cuatro en la web y en el discurso de ventas, aclarando internamente la
+> diferencia entre costo LEALTIS y precio al cliente Nexa (margen
+> comercial pendiente de definir).
 
 ---
 
@@ -28,7 +38,7 @@
 ## 2. Funnel de adquisición de clientes
 
 ```
-CONCIENCIA          → Descubren [NOMBRE DE EMPRESA] (web, redes, referidos)
+CONCIENCIA          → Descubren Nexa Paraguay (web, redes, referidos)
     ↓
 INTERÉS             → Consumen contenido, investigan Paraguay
     ↓
@@ -75,7 +85,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 |-------------------|----------------|
 | **Clientes satisfechos** | Programa de referidos con incentivo |
 | **Asesores fiscales en EU** | Acuerdo de colaboración, comisión por referido |
-| **Agentes inmobiliarios** | Referidos cruzados (ellos refieren clientes, [NOMBRE DE EMPRESA] facilita inversión) |
+| **Agentes inmobiliarios** | Referidos cruzados (ellos refieren clientes, Nexa Paraguay facilita inversión) |
 | **Comunidades de expatriados** | Presencia en foros, grupos, eventos |
 | **Influencers de finanzas/expatriados** | Colaboraciones selectivas |
 
@@ -101,7 +111,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 | Pilar | Mensaje central | Ejemplo de copy |
 |-------|----------------|-----------------|
 | **Oportunidad** | Paraguay ofrece un entorno favorable para emprender, invertir y vivir | "Un mercado en crecimiento, con reglas claras y costos competitivos" |
-| **Simplicidad** | [NOMBRE DE EMPRESA] elimina la complejidad | "Todo resuelto en un solo programa, un solo viaje" |
+| **Simplicidad** | Nexa Paraguay elimina la complejidad | "Todo resuelto en un solo programa, un solo viaje" |
 | **Seguridad** | Proceso profesional, legal, predecible | "Equipo de primer nivel, proceso validado, sin sorpresas" |
 | **Confianza** | Relaciones y experiencia comprobadas | "Años de experiencia operando en el mercado paraguayo" |
 
@@ -126,7 +136,7 @@ FIDELIZACIÓN        → Servicios recurrentes, referidos
 |-------|-----------|-------------|-----------------|
 | 1. Lead | Visitante completa formulario o solicita consulta | Web / redes | — |
 | 2. Cualificación | Evaluación inicial del perfil (segmento, motivación, capital, urgencia) | CRM | 1–2 días |
-| 3. Consulta | Videollamada personalizada: escuchar necesidades, presentar [NOMBRE DE EMPRESA] | Zoom/Meet | 30–45 min |
+| 3. Consulta | Videollamada personalizada: escuchar necesidades, presentar Nexa Paraguay | Zoom/Meet | 30–45 min |
 | 4. Propuesta | Envío de programa recomendado con alcance detallado | Email + PDF | 1–2 días |
 | 5. Seguimiento | Resolución de dudas, segunda llamada si necesario | Email / llamada | 3–7 días |
 | 6. Cierre | Aceptación formal, envío de acuerdo de servicios | Email + contrato | 1–3 días |

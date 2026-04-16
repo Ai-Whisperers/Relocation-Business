@@ -1,14 +1,25 @@
-# Política de Privacidad — [NOMBRE DE EMPRESA]
+# Política de Privacidad — Nexa Paraguay
 
 ---
 
-> **Nota:** Este documento es un marco de referencia. Debe ser revisado por un abogado especializado en protección de datos, considerando tanto la legislación paraguaya como el RGPD europeo (dado que los clientes son predominantemente europeos).
+> **Nota:** Este documento es un marco de referencia. Debe ser revisado
+> por un abogado especializado en protección de datos, considerando
+> tanto la legislación paraguaya como el RGPD europeo (dado que los
+> clientes son predominantemente europeos).
+>
+> **Importante para protección de datos.** Dado que los paquetes 1, 2 y
+> 3 son ejecutados por **LEALTIS** como proveedor técnico-legal, LEALTIS
+> actúa como **encargado del tratamiento** (data processor) por cuenta
+> de Nexa Paraguay. Esta relación debe reflejarse en un **Acuerdo de
+> Tratamiento de Datos (DPA)** entre Nexa Paraguay y LEALTIS, y debe
+> divulgarse al titular de los datos en esta política. Pendiente de
+> formalizar.
 
 ---
 
 ## 1. Responsable del tratamiento
 
-**[NOMBRE DE EMPRESA]** [razón social completa]
+**Nexa Paraguay** [razón social completa]
 RUC: [número]
 Domicilio: [dirección], Asunción, Paraguay
 Email de contacto para privacidad: [email]
@@ -51,15 +62,15 @@ Los datos personales del Cliente pueden ser compartidos exclusivamente con:
 | **Entidades bancarias** | Apertura de cuenta, cumplimiento KYC/AML | Necesario para el servicio |
 | **Escribanías / notarías** | Formalización de documentos y sociedades | Necesario para el servicio |
 | **Subsecretaría de Estado de Tributación (SET)** | Inscripción fiscal (RUC) | Necesario para el servicio |
-| **Equipo técnico de [NOMBRE DE EMPRESA]** | Abogados, contadores, asesores involucrados en el programa | Necesario para el servicio |
+| **Equipo técnico de Nexa Paraguay** | Abogados, contadores, asesores involucrados en el programa | Necesario para el servicio |
 
-**[NOMBRE DE EMPRESA] no vende, alquila ni cede datos personales a terceros con fines comerciales.**
+**Nexa Paraguay no vende, alquila ni cede datos personales a terceros con fines comerciales.**
 
 ---
 
 ## 5. Transferencias internacionales de datos
 
-Dado que [NOMBRE DE EMPRESA] opera en Paraguay y sus clientes residen en Europa, existe una transferencia internacional de datos. [NOMBRE DE EMPRESA] se compromete a:
+Dado que Nexa Paraguay opera en Paraguay y sus clientes residen en Europa, existe una transferencia internacional de datos. Nexa Paraguay se compromete a:
 
 - Proteger los datos con medidas técnicas y organizativas adecuadas.
 - No transferir datos a jurisdicciones adicionales sin justificación ni consentimiento.
@@ -88,7 +99,7 @@ El Cliente tiene derecho a:
 
 | Derecho | Descripción |
 |---------|-------------|
-| **Acceso** | Solicitar copia de sus datos personales en poder de [NOMBRE DE EMPRESA] |
+| **Acceso** | Solicitar copia de sus datos personales en poder de Nexa Paraguay |
 | **Rectificación** | Solicitar la corrección de datos inexactos |
 | **Supresión** | Solicitar la eliminación de sus datos (sujeto a obligaciones legales de retención) |
 | **Limitación** | Solicitar la restricción del tratamiento en determinadas circunstancias |
@@ -104,7 +115,7 @@ Plazo de respuesta: 30 días desde la recepción de la solicitud.
 
 ## 8. Medidas de seguridad
 
-[NOMBRE DE EMPRESA] implementa las siguientes medidas para proteger los datos personales:
+Nexa Paraguay implementa las siguientes medidas para proteger los datos personales:
 
 | Tipo | Medida |
 |------|--------|
@@ -128,7 +139,7 @@ El usuario puede gestionar sus preferencias de cookies a través del banner de c
 
 ## 10. Modificaciones a esta política
 
-[NOMBRE DE EMPRESA] se reserva el derecho de actualizar esta política. Cualquier cambio significativo será comunicado a los clientes activos por email. La versión vigente estará siempre disponible en el sitio web.
+Nexa Paraguay se reserva el derecho de actualizar esta política. Cualquier cambio significativo será comunicado a los clientes activos por email. La versión vigente estará siempre disponible en el sitio web.
 
 **Última actualización:** [fecha]
 

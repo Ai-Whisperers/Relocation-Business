@@ -1,4 +1,4 @@
-# Plan de Proyecto: Sitio Web — [NOMBRE DE EMPRESA]
+# Plan de Proyecto: Sitio Web — Nexa Paraguay
 
 ---
 
@@ -14,16 +14,23 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 
 ### Páginas requeridas
 
+> **Oferta comercial.** La web debe mostrar los **4 paquetes** de Nexa
+> Paraguay: Paraguay Base, Paraguay Business y Paraguay Investor Program
+> (vía el socio técnico LEALTIS) y Compra de Tierras en Paraguay
+> (servicio propio Nexa).
+
 | Página | Prioridad | Contenido de referencia |
 |--------|:---------:|------------------------|
 | Home | Crítica | `marketing/contenido-web.md` sección 1 |
-| Paraguay Business | Crítica | `marketing/contenido-web.md` sección 2 |
-| Paraguay Investor Program | Crítica | `marketing/contenido-web.md` sección 3 |
-| Por qué Paraguay | Alta | `marketing/contenido-web.md` sección 4 |
-| Cómo funciona (Proceso) | Alta | `marketing/contenido-web.md` sección 5 |
-| Sobre [NOMBRE DE EMPRESA] | Alta | `marketing/contenido-web.md` sección 6 |
-| FAQ | Alta | `marketing/contenido-web.md` sección 7 |
-| Contacto / Agendar consulta | Crítica | `marketing/contenido-web.md` sección 8 |
+| Paraguay Base *(vía LEALTIS)* | Crítica | `marketing/contenido-web.md` sección 2 |
+| Paraguay Business *(vía LEALTIS)* | Crítica | `marketing/contenido-web.md` sección 3 |
+| Paraguay Investor Program *(vía LEALTIS)* | Crítica | `marketing/contenido-web.md` sección 4 |
+| Compra de Tierras en Paraguay *(propio Nexa)* | Crítica | `marketing/contenido-web.md` sección 5 + `servicios/paquete-compra-de-tierras.md` |
+| Por qué Paraguay | Alta | `marketing/contenido-web.md` |
+| Cómo funciona (Proceso) | Alta | `marketing/contenido-web.md` |
+| Sobre Nexa Paraguay | Alta | `marketing/contenido-web.md` |
+| FAQ | Alta | `marketing/contenido-web.md` |
+| Contacto / Agendar consulta | Crítica | `marketing/contenido-web.md` |
 | Blog (estructura) | Media | `marketing/plan-de-contenidos.md` |
 | Política de privacidad | Alta | `documentos/politica-de-privacidad.md` |
 
@@ -36,7 +43,7 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 | **CMS** | WordPress (recomendado por flexibilidad y multilingüe) o similar |
 | **Plugin multilingüe** | WPML, Polylang o equivalente |
 | **Hosting** | Confiable, SSL incluido, CDN, backup automático |
-| **Dominio** | [nombre de empresa].com (o variante disponible) |
+| **Dominio** | nexaparaguay.com o variante disponible (pendiente de registrar) |
 | **Responsive** | Diseño mobile-first |
 | **Velocidad** | PageSpeed > 80 en mobile |
 | **SSL** | Certificado HTTPS obligatorio |
@@ -52,16 +59,17 @@ Sitio web multilingüe orientado a conversión para generar leads cualificados d
 
 | Página | Textos | Imágenes | Elementos especiales |
 |--------|:------:|:--------:|---------------------|
-| Home | ~500 palabras/idioma | 3–5 fotos hero + equipo | CTAs, tabla de programas |
-| Programas (×2) | ~400 palabras/idioma cada una | 1–2 por programa | Tabla de inclusiones, CTA |
+| Home | ~500 palabras/idioma | 3–5 fotos hero + equipo | CTAs, tabla de 4 paquetes, slogan "Tu nuevo comienzo en Paraguay, simple y tranquilo" |
+| Paquetes (×4) | ~400 palabras/idioma cada uno | 1–2 por paquete | Tabla de inclusiones, CTA. Paquete 4 marcado como "servicio propio Nexa, alcance pendiente" |
 | Por qué Paraguay | ~600 palabras/idioma | 3–4 de Paraguay | Datos económicos, infografía |
 | Proceso | ~400 palabras/idioma | Iconos de pasos | Timeline visual |
-| Sobre [NOMBRE DE EMPRESA] | ~400 palabras/idioma | Fotos del equipo | — |
+| Sobre Nexa Paraguay | ~400 palabras/idioma | Fotos del equipo | — |
 | FAQ | ~1.500 palabras/idioma | — | Acordeón expandible |
 | Contacto | ~100 palabras/idioma | — | Formulario + Calendly |
 | Blog | Template reutilizable | Por artículo | Categorías, búsqueda |
 
-**Total contenido estimado:** ~4.000 palabras × 4 idiomas = ~16.000 palabras de traducción.
+**Total contenido estimado:** ~4.500 palabras × 4 idiomas = ~18.000
+palabras de traducción (4 paquetes en lugar de 2).
 
 ---
 

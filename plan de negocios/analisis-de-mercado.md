@@ -1,4 +1,13 @@
-# Análisis de Mercado — [NOMBRE DE EMPRESA]
+# Análisis de Mercado — Nexa Paraguay
+
+---
+
+> **Nota de oferta.** Este análisis informa la estrategia de los 4
+> paquetes de Nexa Paraguay: Paraguay Base, Paraguay Business y Paraguay
+> Investor Program (vía el socio técnico LEALTIS) y Compra de Tierras en
+> Paraguay (servicio propio Nexa). El paquete 4 abre un segmento
+> adicional de demanda — compradores de tierra como inversión
+> patrimonial — que no existe en los otros tres.
 
 ---
 
@@ -95,7 +104,7 @@ No existen estadísticas públicas precisas sobre el flujo de europeos hacia Par
 | Residencias otorgadas a europeos (Migraciones, verificar) | Base para volumen total |
 | Comunidad holandesa/europea en Paraguay | Crecimiento observable en redes y comunidades |
 | Consultas recibidas actualmente (word-of-mouth) | Demanda existente sin marketing activo |
-| Capacidad operativa [NOMBRE DE EMPRESA] | 4–6 clientes/mes como techo operativo inicial |
+| Capacidad operativa Nexa Paraguay | 4–6 clientes/mes como techo operativo inicial |
 
 ### Mercado direccionable
 
@@ -136,9 +145,9 @@ El mercado de servicios de relocalización en Paraguay es **fragmentado y predom
 | **Facilitadores informales** | Red de contactos, operan por referidos | Opacidad, tarifas ocultas, sin estructura, riesgo reputacional |
 | **Consultoras internacionales** | Marca y presupuesto | Genéricas, sin especialización en Paraguay, costos muy elevados |
 
-### Posicionamiento [NOMBRE DE EMPRESA]
+### Posicionamiento Nexa Paraguay
 
-| Dimensión | Competidores típicos | [NOMBRE DE EMPRESA] |
+| Dimensión | Competidores típicos | Nexa Paraguay |
 |-----------|---------------------|---------|
 | Alcance del servicio | Fragmentado | Integrado (end-to-end) |
 | Transparencia de precios | Tarifas ocultas frecuentes | Todo incluido, sin cargos adicionales |
@@ -147,7 +156,7 @@ El mercado de servicios de relocalización en Paraguay es **fragmentado y predom
 | Confianza | Variable | Relacional, demostrable, con track record |
 | Precio | Variable (bajo a medio) | Premium (justificado por valor entregado) |
 
-**[NOMBRE DE EMPRESA] no compite por precio. Compite por certeza, velocidad y completitud.**
+**Nexa Paraguay no compite por precio. Compite por certeza, velocidad y completitud.**
 
 ---
 

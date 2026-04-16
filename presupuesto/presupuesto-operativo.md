@@ -1,8 +1,19 @@
-# Presupuesto Operativo — [NOMBRE DE EMPRESA]
+# Presupuesto Operativo — Nexa Paraguay
 
 ---
 
-> **Nota:** Las cifras presentadas son estimaciones basadas en rangos de mercado paraguayo. Deben validarse con cotizaciones reales antes de la operación. Los supuestos están claramente marcados.
+> **Nota:** Las cifras presentadas son estimaciones basadas en rangos de
+> mercado paraguayo. Deben validarse con cotizaciones reales antes de la
+> operación.
+>
+> **Cambio estructural.** En el modelo actual, el costo variable
+> principal por cliente en los paquetes 1–3 es el **pago a LEALTIS**
+> (USD 4.400 Business, USD 6.900 Investor, Paraguay Base pendiente), no
+> los costos operativos internos asumidos previamente. Los costos fijos
+> de Nexa Paraguay (oficina, herramientas, equipo propio) se centran en
+> coordinación comercial, atención al cliente y ejecución del paquete 4
+> (Compra de Tierras). Revisar las líneas internas del presupuesto
+> operativo a la luz de esto.
 
 ---
 
@@ -126,4 +137,4 @@
 
 ---
 
-*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*

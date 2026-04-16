@@ -1,4 +1,13 @@
-# Presupuesto de Marketing — [NOMBRE DE EMPRESA]
+# Presupuesto de Marketing — Nexa Paraguay
+
+---
+
+> **Nota.** La web y los materiales comerciales deben mostrar **4
+> paquetes** (Paraguay Base, Business, Investor Program vía LEALTIS; y
+> Compra de Tierras propio Nexa). Esto incrementa el volumen de
+> contenido multilingüe (~18.000 palabras en lugar de ~16.000) y añade
+> piezas específicas para el paquete 4. Revisar cotizaciones de diseño,
+> contenido y traducción en consecuencia.
 
 ---
 

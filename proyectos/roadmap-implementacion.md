@@ -1,4 +1,20 @@
-# Roadmap de Implementación — [NOMBRE DE EMPRESA]
+# Roadmap de Implementación — Nexa Paraguay
+
+---
+
+> **Ajuste por restructura.** El roadmap debe incorporar en Fase 0 los
+> siguientes hitos derivados de la relación Nexa ↔ LEALTIS y del nuevo
+> paquete 4:
+>
+> - Acuerdo marco Nexa ↔ LEALTIS (provisión, SLAs, precios,
+>   no-competencia, DPA).
+> - Decisión del margen comercial Nexa sobre USD 4.400 / USD 6.900 y
+>   precio del paquete Paraguay Base.
+> - Diseño del paquete 4 (Compra de Tierras): alcance, entregables,
+>   honorarios, red de partners, contrato específico, blueprint
+>   operativo.
+>
+> Sin estos hitos **no se puede lanzar la web** con los 4 paquetes.
 
 ---
 
@@ -9,14 +25,14 @@ Establecer las bases legales, contractuales y de marca antes de operar.
 
 | # | Actividad | Entregable | Responsable | Dependencia |
 |---|-----------|------------|-------------|-------------|
-| 1 | Constitución legal de [NOMBRE DE EMPRESA] en Paraguay | Sociedad registrada, RUC activo | Daniel | — |
+| 1 | Constitución legal de Nexa Paraguay en Paraguay | Sociedad registrada, RUC activo | Daniel | — |
 | 2 | Redacción y firma del acuerdo de partnership | Acuerdo firmado | Ambos socios | — |
 | 3 | Definición de roles, responsabilidades y governance | Documento de governance | Ambos socios | 2 |
 | 4 | Desarrollo de identidad de marca (logo, colores, tipografía) | Manual de marca | Socio EU | — |
 | 5 | Documentación interna de procesos (v1) | Blueprints y checklists draft | Daniel | — |
 | 6 | Definición de paquetes y precios (confirmación) | Catálogo de servicios final | Ambos socios | — |
 
-**Milestone:** [NOMBRE DE EMPRESA] legalmente constituida con acuerdo de socios firmado.
+**Milestone:** Nexa Paraguay legalmente constituida con acuerdo de socios firmado.
 
 ---
 

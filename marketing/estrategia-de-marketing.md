@@ -1,10 +1,27 @@
-# Estrategia de Marketing — [NOMBRE DE EMPRESA]
+# Estrategia de Marketing — Nexa Paraguay
+
+---
+
+> **Contexto de oferta.** Nexa Paraguay comercializa 4 paquetes: Paraguay
+> Base, Paraguay Business, Paraguay Investor Program (ejecutados por el
+> socio técnico LEALTIS) y Compra de Tierras en Paraguay (servicio
+> propio). El eje narrativo del marketing es **Nexa Paraguay** como
+> punto único de contacto y garante de la experiencia; LEALTIS se
+> menciona como respaldo técnico-legal cuando sea relevante para
+> transmitir credibilidad, pero no como marca cliente-facing.
+>
+> **Slogan de trabajo:** *"Tu nuevo comienzo en Paraguay, simple y tranquilo"*
+> (juega con el modismo paraguayo "tranquilopa"). Palabras clave de
+> valor en evaluación: seguridad, tranquilidad, respaldo, certeza,
+> claridad.
 
 ---
 
 ## 1. Posicionamiento de marca
 
-**[NOMBRE DE EMPRESA] no es una gestoría. Es un sistema de relocalización premium para europeos que buscan operar en Paraguay con certeza y profesionalismo.**
+**Nexa Paraguay no es una gestoría. Es un sistema de relocalización
+premium para europeos que buscan operar, residir o invertir en Paraguay
+con certeza y profesionalismo.**
 
 | Dimensión | Posicionamiento |
 |-----------|----------------|
@@ -58,7 +75,7 @@
 | Pilar | Core message | Subtemas |
 |-------|-------------|----------|
 | **Oportunidad** | Paraguay es un mercado en crecimiento con condiciones favorables | Economía, inmobiliario, emprendimiento, calidad de vida |
-| **Simplicidad** | [NOMBRE DE EMPRESA] lo hace simple | Un programa, un viaje, un equipo, sin sorpresas |
+| **Simplicidad** | Nexa Paraguay lo hace simple | Un programa, un viaje, un equipo, sin sorpresas |
 | **Seguridad** | Proceso profesional y predecible | Equipo técnico, compliance, transparencia de precios |
 | **Confianza** | Experiencia y relaciones comprobadas | Años en el mercado, equipo multidisciplinario, resultados |
 
@@ -125,12 +142,12 @@
 
 ## 5. Customer journey
 
-| Etapa | Acción del cliente | Touchpoint [NOMBRE DE EMPRESA] | Contenido/recurso |
+| Etapa | Acción del cliente | Touchpoint Nexa Paraguay | Contenido/recurso |
 |-------|-------------------|--------------------|--------------------|
 | **Descubrimiento** | Busca información sobre Paraguay, ve contenido | SEO, redes sociales, YouTube, referido | Blog posts, videos, posts sociales |
 | **Investigación** | Visita web, lee sobre programas, compara | Sitio web | Páginas de programa, FAQ, testimonios |
 | **Primer contacto** | Completa formulario, solicita consulta | Web form, email automático | Confirmación + material introductorio |
-| **Consulta** | Habla con socio europeo, explica su situación | Videollamada personalizada | Presentación de [NOMBRE DE EMPRESA], escucha activa |
+| **Consulta** | Habla con socio europeo, explica su situación | Videollamada personalizada | Presentación de Nexa Paraguay, escucha activa |
 | **Evaluación** | Recibe propuesta, evalúa opciones | Email con propuesta detallada | PDF del programa, acuerdo de servicios |
 | **Decisión** | Acepta, firma, paga | Contrato + pago | Welcome pack, inicio de proceso |
 | **Onboarding** | Envía documentos, recibe validación | Comunicación continua | Checklist, orientación, confirmaciones |

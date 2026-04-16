@@ -1,10 +1,22 @@
-# Política de Compliance — [NOMBRE DE EMPRESA]
+# Política de Compliance — Nexa Paraguay
 
 ---
 
 ## 1. Compromiso general
 
-[NOMBRE DE EMPRESA] se compromete a operar con estricto apego a la legislación paraguaya, la normativa internacional aplicable y los más altos estándares éticos profesionales. Todos los servicios ofrecidos son legales, transparentes y documentados.
+Nexa Paraguay se compromete a operar con estricto apego a la legislación
+paraguaya, la normativa internacional aplicable y los más altos
+estándares éticos profesionales. Todos los servicios ofrecidos son
+legales, transparentes y documentados.
+
+> **Cadena de compliance extendida.** Dado que los paquetes 1, 2 y 3 son
+> ejecutados por **LEALTIS** como proveedor técnico-legal, el compliance
+> efectivo depende de que LEALTIS mantenga los mismos estándares. El
+> acuerdo marco Nexa ↔ LEALTIS debe exigir cumplimiento equivalente en
+> AML/KYC, protección de datos (DPA), confidencialidad y prevención de
+> lavado. Para el paquete 4 (Compra de Tierras, propio Nexa), el
+> compliance recae directamente en Nexa Paraguay (due diligence legal
+> de inmuebles, origen de fondos del comprador, etc.).
 
 ---
 
@@ -12,7 +24,7 @@
 
 ### Principio
 
-[NOMBRE DE EMPRESA] no facilita ni tolera el lavado de activos ni el financiamiento del terrorismo. Aunque [NOMBRE DE EMPRESA] no sea necesariamente un sujeto obligado directo ante SEPRELAD, adopta proactivamente prácticas de prevención.
+Nexa Paraguay no facilita ni tolera el lavado de activos ni el financiamiento del terrorismo. Aunque Nexa Paraguay no sea necesariamente un sujeto obligado directo ante SEPRELAD, adopta proactivamente prácticas de prevención.
 
 ### Procedimientos internos
 
@@ -76,7 +88,7 @@
 
 | Aspecto | Estado |
 |---------|--------|
-| Verificar si [NOMBRE DE EMPRESA] califica como sujeto obligado | Pendiente (consultar con asesor legal) |
+| Verificar si Nexa Paraguay califica como sujeto obligado | Pendiente (consultar con asesor legal) |
 | Si aplica: registro, designación de oficial de cumplimiento, reportes | Implementar según requerimiento |
 | Si no aplica: mantener prácticas voluntarias de prevención | Activo |
 
@@ -105,7 +117,7 @@
 
 ### Regla general
 
-> Todo lo que [NOMBRE DE EMPRESA] comunica debe ser **verdadero, verificable y alineado con la ley**. Ante la duda, no se dice.
+> Todo lo que Nexa Paraguay comunica debe ser **verdadero, verificable y alineado con la ley**. Ante la duda, no se dice.
 
 ---
 

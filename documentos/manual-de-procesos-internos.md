@@ -1,4 +1,22 @@
-# Manual de Procesos Internos — [NOMBRE DE EMPRESA]
+# Manual de Procesos Internos — Nexa Paraguay
+
+---
+
+> **Modelo operativo.** Nexa Paraguay es la marca cliente-facing. Los
+> procesos técnico-legales de los paquetes Paraguay Base, Business e
+> Investor Program están **delegados a LEALTIS** como proveedor
+> especializado. Nexa Paraguay actúa como:
+>
+> - Punto único de contacto comercial y contractual con el cliente final.
+> - Coordinador operativo con LEALTIS (recepción de insumos del cliente,
+>   handoff a LEALTIS, seguimiento de hitos, QA, comunicación con el
+>   cliente).
+> - Ejecutor directo del paquete 4 (Compra de Tierras en Paraguay).
+>
+> Todos los procesos descritos abajo deben entenderse desde esta
+> arquitectura: cuando aparece "Equipo legal" o "Equipo técnico" en
+> paquetes 1–3, la ejecución corresponde al equipo de LEALTIS, coordinado
+> por Nexa Paraguay.
 
 ---
 
@@ -77,7 +95,7 @@ Cliente llega a Asunción en fecha acordada.
 | 10:30 | Trámite de Cédula de Identidad | Equipo legal + cliente | Requisitos preparados |
 | 11:30 | Coordinaciones complementarias | Coordinador | Según programa |
 | 12:00 | Pausa / almuerzo | — | — |
-| 14:00 | Tour estratégico inmobiliario | Asesor [NOMBRE DE EMPRESA] | Desarrolladoras agendadas |
+| 14:00 | Tour estratégico inmobiliario | Asesor Nexa Paraguay | Desarrolladoras agendadas |
 | 17:00 | Cierre del día, resumen al cliente | Coordinador | Confirmar todo lo realizado |
 
 ### Checklist pre-jornada (día anterior)

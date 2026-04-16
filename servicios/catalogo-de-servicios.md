@@ -1,4 +1,14 @@
-# Catálogo de Servicios — [NOMBRE DE EMPRESA]
+# Catálogo de Servicios — Nexa Paraguay
+
+---
+
+> **Nota sobre la cadena de valor.** Los servicios técnico-legales descritos
+> en las secciones 1 a 6 forman parte de los programas **Paraguay Base**,
+> **Paraguay Business** y **Paraguay Investor Program**, que Nexa Paraguay
+> revende bajo su marca y son **ejecutados por nuestro socio especializado
+> LEALTIS** (back-office técnico-legal). El servicio de Compra de Tierras
+> en Paraguay (sección 7) es **exclusivo de Nexa Paraguay** y no involucra
+> a LEALTIS.
 
 ---
 
@@ -117,4 +127,20 @@
 
 ---
 
-*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+## 7. Servicios Inmobiliarios y de Tierras *(propio Nexa Paraguay)*
+
+### 7.1 Compra de Tierras en Paraguay
+
+| Elemento | Detalle |
+|----------|---------|
+| **Descripción** | Asesoría integral para europeos que quieren adquirir tierras en Paraguay (agrícolas, ganaderas, urbanas o forestales). Servicio propio de Nexa Paraguay, no proviene de LEALTIS. |
+| **Incluye** | *Pendiente de definir.* Posibles componentes: definición de perfil de inversión, búsqueda y short-list, due diligence legal y técnica, negociación, escrituración, inscripción registral, acompañamiento posterior. |
+| **Entregable** | *Pendiente de definir.* Probable entregable final: propiedad escriturada e inscripta a nombre del cliente. |
+| **Honorarios** | *Pendiente de definir.* |
+| **Disponibilidad** | Standalone o como add-on de los paquetes 1–3 (modalidad por definir). |
+
+Ver detalle en `servicios/paquete-compra-de-tierras.md`.
+
+---
+
+*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/estructura-de-negocio.md`.*

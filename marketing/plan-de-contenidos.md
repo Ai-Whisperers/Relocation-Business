@@ -1,4 +1,13 @@
-# Plan de Contenidos — [NOMBRE DE EMPRESA]
+# Plan de Contenidos — Nexa Paraguay
+
+---
+
+> **Nota de oferta.** El contenido debe cubrir los 4 paquetes de Nexa
+> Paraguay. Considerar un pilar adicional de contenido específico para
+> **Compra de Tierras en Paraguay** (paquete 4, propio Nexa): guías sobre
+> tipos de tierra, due diligence legal, Ley de Frontera, casos, etc.
+> Pendiente de integrar al pilar "Oportunidades de inversión" o crear
+> pilar propio.
 
 ---
 
@@ -9,7 +18,7 @@
 | **Vida en Paraguay** | Inspirar, mostrar el destino, generar deseo | 25% |
 | **Oportunidades de inversión** | Posicionar Paraguay como mercado atractivo | 20% |
 | **Proceso de establecimiento** | Educar, reducir incertidumbre, demostrar expertise | 25% |
-| **[NOMBRE DE EMPRESA] y equipo** | Generar confianza, humanizar la marca | 15% |
+| **Nexa Paraguay y equipo** | Generar confianza, humanizar la marca | 15% |
 | **Mercado inmobiliario** | Atraer inversores, mostrar oportunidades concretas | 15% |
 
 ---
@@ -74,11 +83,11 @@
 17. ¿Es posible hacer todo en un solo viaje? Sí, así funciona
 18. RUC y obligaciones fiscales: lo que su empresa necesita desde el día uno
 
-### [NOMBRE DE EMPRESA] y equipo
+### Nexa Paraguay y equipo
 19. La diferencia entre una gestoría y un equipo profesional de relocalización
 20. Cómo funciona el programa Paraguay Business paso a paso
-21. Un día con [NOMBRE DE EMPRESA]: así es la jornada operativa
-22. Por qué creamos [NOMBRE DE EMPRESA]: nuestra historia
+21. Un día con Nexa Paraguay: así es la jornada operativa
+22. Por qué creamos Nexa Paraguay: nuestra historia
 
 ### Mercado inmobiliario
 23. Mercado inmobiliario paraguayo: panorama actual y tendencias
@@ -93,11 +102,11 @@
 
 | # | Día | Asunto | Contenido |
 |---|-----|--------|-----------|
-| 1 | Día 0 | Gracias por su interés en Paraguay | Bienvenida, resumen de lo que [NOMBRE DE EMPRESA] ofrece, link a programas |
+| 1 | Día 0 | Gracias por su interés en Paraguay | Bienvenida, resumen de lo que Nexa Paraguay ofrece, link a programas |
 | 2 | Día 3 | Lo que hace diferente a Paraguay | Artículo sobre el entorno económico y fiscal (valor educativo) |
 | 3 | Día 7 | El proceso paso a paso | Explicación del proceso de establecimiento, CTA: "¿Tiene preguntas?" |
 | 4 | Día 12 | La pregunta que todos hacen: ¿es posible en un solo viaje? | Cómo funciona la jornada operativa, eficiencia del proceso |
-| 5 | Día 18 | Lo que nadie le cuenta sobre la banca en Paraguay | El desafío bancario y cómo [NOMBRE DE EMPRESA] lo resuelve |
+| 5 | Día 18 | Lo que nadie le cuenta sobre la banca en Paraguay | El desafío bancario y cómo Nexa Paraguay lo resuelve |
 | 6 | Día 25 | ¿Cuál es el programa adecuado para usted? | Comparación Business vs Investor, CTA: agendar consulta |
 | 7 | Día 35 | ¿Listo para dar el siguiente paso? | Resumen de valor, testimonios (cuando disponibles), CTA final |
 
@@ -121,11 +130,11 @@
 
 | Mes | Tema principal | Contenido especial |
 |-----|---------------|-------------------|
-| Mes 1 | Lanzamiento: "Conozca [NOMBRE DE EMPRESA]" | Video presentación, post de lanzamiento, artículo fundacional |
+| Mes 1 | Lanzamiento: "Conozca Nexa Paraguay" | Video presentación, post de lanzamiento, artículo fundacional |
 | Mes 2 | El proceso de establecimiento | Serie de posts paso a paso, video explicativo |
 | Mes 3 | Paraguay como destino | Serie "Por qué Paraguay", comparativas, datos económicos |
 | Mes 4 | Inversión inmobiliaria | Tour inmobiliario en video, artículos de mercado |
-| Mes 5 | La banca en Paraguay | Serie sobre el desafío bancario y la solución [NOMBRE DE EMPRESA] |
+| Mes 5 | La banca en Paraguay | Serie sobre el desafío bancario y la solución Nexa Paraguay |
 | Mes 6 | Testimonios y resultados | Casos de éxito (con permiso), retrospectiva del semestre |
 
 ---

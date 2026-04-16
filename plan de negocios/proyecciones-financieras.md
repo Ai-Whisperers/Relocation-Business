@@ -1,8 +1,20 @@
-# Proyecciones Financieras — [NOMBRE DE EMPRESA]
+# Proyecciones Financieras — Nexa Paraguay
 
 ---
 
-> **Nota:** Este documento presenta un marco de proyección basado en supuestos iniciales. Las cifras deben refinarse con datos operativos reales a medida que el negocio avance. Los supuestos están claramente marcados.
+> **Nota:** Este documento presenta un marco de proyección basado en
+> supuestos iniciales. Las cifras deben refinarse con datos operativos
+> reales a medida que el negocio avance.
+>
+> **ADVERTENCIA POST-RESTRUCTURA.** Las cifras USD 4.400 y USD 6.900 que
+> aparecen abajo eran tratadas como **precio al cliente**, pero en el
+> modelo actual son el **costo que Nexa Paraguay paga a LEALTIS** por
+> cada programa. El precio al cliente final debe recalcularse añadiendo
+> el margen comercial Nexa (pendiente de definir). Este documento debe
+> ser **revisado en su totalidad** una vez que se fije el margen y el
+> precio del paquete Paraguay Base, y se defina la estructura de
+> honorarios del paquete 4 (Compra de Tierras). Ver
+> `presupuesto/estructura-de-ingresos.md` para el análisis actualizado.
 
 ---
 
@@ -12,9 +24,11 @@
 
 | Programa | Precio | Mix estimado |
 |----------|--------|:------------:|
-| Paraguay Business | USD 4.400 | 60% |
-| Paraguay Investor Program | USD 6.900 | 40% |
-| **Ingreso promedio ponderado** | **USD 5.400** | — |
+| Paraguay Base *(vía LEALTIS)* | *Pendiente* | *Pendiente* |
+| Paraguay Business *(vía LEALTIS)* | *Pendiente (costo LEALTIS USD 4.400 + margen)* | 50% *(estimación)* |
+| Paraguay Investor Program *(vía LEALTIS)* | *Pendiente (costo LEALTIS USD 6.900 + margen)* | 30% *(estimación)* |
+| Compra de Tierras *(propio Nexa)* | *Pendiente* | 20% *(estimación inicial)* |
+| **Ingreso promedio ponderado** | **Pendiente de recalcular** | — |
 
 ### Costos variables por cliente (estimaciones)
 
@@ -100,7 +114,7 @@
 |----------|-------|
 | % de clientes que invierten en inmuebles | 30–50% |
 | Inversión promedio | USD 150.000–300.000 |
-| Comisión [NOMBRE DE EMPRESA] | 2–3% |
+| Comisión Nexa Paraguay | 2–3% |
 | **Ingreso adicional por comisiones (anual)** | **USD 21.600–108.000** |
 
 *Nota: Las comisiones inmobiliarias son altamente variables y dependen del perfil de clientes. No deben incluirse como ingreso base para planificación conservadora.*
@@ -176,7 +190,7 @@
 
 | Concepto | Rango estimado (USD) |
 |----------|:--------------------:|
-| Constitución legal de [NOMBRE DE EMPRESA] | 500–1.000 |
+| Constitución legal de Nexa Paraguay | 500–1.000 |
 | Desarrollo de marca (logo, identidad) | 1.000–3.000 |
 | Sitio web (diseño, desarrollo, contenido multilingüe) | 3.000–8.000 |
 | Herramientas digitales (CRM, suscripciones anuales) | 500–1.000 |
@@ -200,4 +214,4 @@
 
 ---
 
-*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/[nombre de empresa]-paraguay-business-program.md`.*
+*Referencia: `source-of-truth/conversation-synthesis-source-of-truth.txt`, `source-of-truth/lealtis-paraguay-business-program.md`.*

@@ -1,16 +1,38 @@
-# Identidad de Marca — [NOMBRE DE EMPRESA]
+# Identidad de Marca — Nexa Paraguay
 
 ---
 
 ## 1. El nombre
 
-**[POR DEFINIR]** — El nombre comercial aún no ha sido decidido.
+**Nexa Paraguay** *(propuesta de trabajo, ver
+`source-of-truth/branding-nombre-slogan.md`).*
 
-Criterios para la selección del nombre:
-- Debe ser memorable y fácil de pronunciar en español, neerlandés, inglés y alemán.
-- Debe evocar confianza sin ser genérico.
-- No debe limitar la marca a un servicio específico (evitar nombres como "Paraguay Legal" o "Relocation SA").
-- Debe funcionar como marca profesional de alto nivel en mercados europeos y latinoamericanos.
+Nexa Paraguay es la **marca con la que se atiende al cliente final**:
+web, materiales comerciales, contratos y facturación se hacen como Nexa
+Paraguay. Los componentes técnico-legales de los paquetes 1, 2 y 3 son
+**ejecutados por nuestro socio LEALTIS** (back-office), pero el cliente
+final se relaciona con Nexa Paraguay como punto único de contacto. El
+servicio de Compra de Tierras (paquete 4) es propio y no involucra a
+LEALTIS.
+
+### Slogan de trabajo
+
+> **"Tu nuevo comienzo en Paraguay, simple y tranquilo."**
+
+El uso de *tranquilo* juega con el modismo paraguayo *"tranquilopa"*,
+muy presente en el habla cotidiana. Aporta cercanía cultural local y
+refuerza el tono emocional del servicio.
+
+### Palabras clave de valor en evaluación
+
+- **Seguridad** — "esto está bajo control".
+- **Tranquilidad** — eje emocional, alineado con el servicio.
+- **Respaldo** — apoyo activo, no solo confianza pasiva.
+- **Certeza** — elimina duda e incertidumbre.
+- **Claridad** — reduce fricción burocrática.
+
+La palabra núcleo final está **pendiente de definir**; de ella se
+derivarán misión y visión.
 
 ---
 
@@ -18,6 +40,7 @@ Criterios para la selección del nombre:
 
 | Valor | Significado para el cliente |
 |-------|---------------------------|
+| **Tranquilidad / Respaldo** | "Estoy en buenas manos; no tengo que preocuparme por los detalles." |
 | **Confianza** | "Puedo depender de este equipo para manejar algo importante." |
 | **Profesionalismo** | "No es improvisación; es un equipo técnico de primer nivel." |
 | **Transparencia** | "Sé exactamente qué estoy pagando y qué voy a recibir." |
@@ -30,7 +53,7 @@ Criterios para la selección del nombre:
 
 ### Personalidad
 
-[NOMBRE DE EMPRESA] habla como un **asesor senior de confianza**: profesional pero accesible, seguro pero no arrogante, directo pero empático.
+Nexa Paraguay habla como un **asesor senior de confianza**: profesional pero accesible, seguro pero no arrogante, directo pero empático.
 
 | Dimensión | Es | No es |
 |-----------|-----|-------|
@@ -46,7 +69,7 @@ Criterios para la selección del nombre:
 |-------|------|---------|
 | **Sitio web** | Profesional, informativo, orientado a acción | "Establecemos su operación en Paraguay en un solo programa." |
 | **LinkedIn** | Thought leadership, datos, insights | "El mercado inmobiliario paraguayo creció X% — esto es lo que significa para el inversor europeo." |
-| **Instagram** | Aspiracional, visual, humano | "Así luce un día de tramitación con [NOMBRE DE EMPRESA] en Asunción." |
+| **Instagram** | Aspiracional, visual, humano | "Así luce un día de tramitación con Nexa Paraguay en Asunción." |
 | **YouTube** | Educativo, personal, cercano | "En este video les explico paso a paso cómo funciona la apertura de empresa en Paraguay." |
 | **Email** | Directo, personalizado, valioso | "Hola [nombre], quería compartir algo relevante para su proceso..." |
 | **Comunicación directa** | Cálido, profesional, resolutivo | "Revisamos su documentación y todo está en orden. Estos son los próximos pasos." |
@@ -57,7 +80,12 @@ Criterios para la selección del nombre:
 
 ### Mensaje principal
 
-> **"Establecimiento operativo en Paraguay. Profesional, integrado, sin sorpresas."**
+> **"Tu nuevo comienzo en Paraguay, simple y tranquilo."**
+
+Mensaje secundario:
+
+> *"Establecimiento operativo en Paraguay. Profesional, integrado, sin
+> sorpresas."*
 
 ### Mensajes de soporte
 
@@ -71,9 +99,9 @@ Criterios para la selección del nombre:
 
 ---
 
-## 5. Lo que [NOMBRE DE EMPRESA] es y lo que no es
+## 5. Lo que Nexa Paraguay es y lo que no es
 
-| [NOMBRE DE EMPRESA] es | [NOMBRE DE EMPRESA] no es |
+| Nexa Paraguay es | Nexa Paraguay no es |
 |------------|---------------|
 | Un sistema integral de relocalización | Una gestoría de trámites |
 | Un equipo técnico multidisciplinario | Un abogado independiente |
@@ -144,11 +172,11 @@ El logo debe transmitir:
 | Material | Lineamiento |
 |----------|-------------|
 | Sitio web | Colores primarios, tipografía consistente, fotos profesionales, mucho espacio en blanco |
-| Presentaciones / PDFs | Template con header [NOMBRE DE EMPRESA], colores de marca, formateo consistente |
+| Presentaciones / PDFs | Template con header Nexa Paraguay, colores de marca, formateo consistente |
 | Redes sociales | Templates para posts con identidad visual coherente |
 | Firmas de email | Diseño limpio con logo, datos de contacto, sin exceso de información |
-| Documentos para clientes | Membrete [NOMBRE DE EMPRESA], formato profesional, tono consistente |
+| Documentos para clientes | Membrete Nexa Paraguay, formato profesional, tono consistente |
 
 ---
 
-*Referencia: `source-of-truth/[nombre de empresa]-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*
+*Referencia: `source-of-truth/lealtis-paraguay-business-program.md`, `source-of-truth/conversation-synthesis-source-of-truth.txt`.*

@@ -1,5 +1,15 @@
 # Cuestionario para el Proyecto de Relocación a Paraguay
 
+> **Nota post-restructura.** Este cuestionario se redactó antes de
+> definir la relación Nexa Paraguay ↔ LEALTIS y la oferta de 4 paquetes.
+> Varias preguntas ya tienen respuesta en `source-of-truth/
+> estructura-de-negocio.md` y `source-of-truth/branding-nombre-slogan.md`
+> (p. ej. nombre de empresa = Nexa Paraguay; estructura de 4 paquetes;
+> slogan de trabajo). Ajustar el cuestionario en una próxima iteración
+> para no volver a preguntar lo ya decidido y enfocarse en lo pendiente:
+> margen comercial Nexa, precio al cliente final por paquete, alcance
+> del paquete 4.
+
 ---
 
 ## Información general
@@ -10,7 +20,7 @@
 4. ¿Cuál es la misión y visión de la empresa?
 5. ¿Cuál es el objetivo principal del proyecto de Relocación a Paraguay?
 6. ¿Cuáles son los valores fundamentales de la empresa?
-7. ¿En qué se diferencia [NOMBRE DE EMPRESA] de una gestoría o firma de abogados tradicional?
+7. ¿En qué se diferencia Nexa Paraguay de una gestoría o firma de abogados tradicional?
 8. ¿Cuál es la ventana de oportunidad estimada para este modelo de negocio y qué factores podrían acortarla?
 
 ---
@@ -38,7 +48,7 @@
 
 ## Perfiles de clientes
 
-20. ¿Cuáles son los tres segmentos principales de clientes que atiende [NOMBRE DE EMPRESA]?
+20. ¿Cuáles son los tres segmentos principales de clientes que atiende Nexa Paraguay?
 21. ¿Qué necesidades específicas tiene cada segmento (inversor, optimizador fiscal, migrante por estilo de vida)?
 22. ¿Cuál es el rango de capital típico de los clientes inversores?
 23. ¿Cómo se adapta el servicio al perfil y la jurisdicción de origen de cada cliente?
@@ -53,7 +63,7 @@
 27. ¿Cuál es el costo de los requisitos para la relocación?
 28. ¿Qué documentos específicos necesita el cliente según su país de origen (apostillas, legalizaciones, traducciones)?
 29. ¿Cuáles son los requisitos KYC/AML que los bancos paraguayos exigen a extranjeros para abrir una cuenta?
-30. ¿Por qué la apertura bancaria es el principal cuello de botella y cómo lo resuelve [NOMBRE DE EMPRESA]?
+30. ¿Por qué la apertura bancaria es el principal cuello de botella y cómo lo resuelve Nexa Paraguay?
 
 ---
 

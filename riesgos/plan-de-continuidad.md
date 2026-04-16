@@ -1,4 +1,20 @@
-# Plan de Continuidad del Negocio — [NOMBRE DE EMPRESA]
+# Plan de Continuidad del Negocio — Nexa Paraguay
+
+---
+
+> **Dependencia estructural adicional.** En el modelo actual, la
+> ejecución de los paquetes 1, 2 y 3 depende íntegramente de **LEALTIS**
+> como proveedor técnico-legal. La interrupción (temporal o permanente)
+> de la relación con LEALTIS constituye un **punto único de fallo
+> crítico** para el 75% de la oferta de Nexa Paraguay. El plan de
+> continuidad debe incluir:
+>
+> - Cláusulas de transición / notice period en el acuerdo marco con LEALTIS.
+> - Identificación de proveedor técnico alternativo de respaldo.
+> - Capacidad de llevar procesos en curso a finalización con un proveedor
+>   distinto (incluyendo data handoff).
+> - Aceleración del paquete 4 (propio) como línea independiente de la
+>   relación con LEALTIS.
 
 ---
 

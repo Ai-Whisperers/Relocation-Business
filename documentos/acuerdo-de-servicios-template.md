@@ -10,7 +10,7 @@
 
 **Entre:**
 
-**[NOMBRE DE EMPRESA]** [razón social completa], con RUC [número], domiciliada en [dirección], Asunción, Paraguay (en adelante, "[NOMBRE DE EMPRESA]" o "el Prestador"),
+**Nexa Paraguay** [razón social completa], con RUC [número], domiciliada en [dirección], Asunción, Paraguay (en adelante, "Nexa Paraguay" o "el Prestador"),
 
 **Y:**
 
@@ -20,13 +20,34 @@
 
 ### CLÁUSULA PRIMERA — OBJETO
 
-[NOMBRE DE EMPRESA] se compromete a prestar al Cliente los servicios correspondientes al programa **[Paraguay Business / Paraguay Investor Program]**, de acuerdo con el alcance detallado en el Anexo A del presente acuerdo.
+Nexa Paraguay se compromete a prestar al Cliente los servicios
+correspondientes al paquete **[Paraguay Base / Paraguay Business / Paraguay
+Investor Program / Compra de Tierras en Paraguay]**, de acuerdo con el
+alcance detallado en el Anexo A del presente acuerdo.
+
+> **Modelo de prestación.** El Cliente contrata a **Nexa Paraguay** como
+> único punto de relación contractual, comercial y de facturación. Los
+> componentes técnico-legales de los paquetes Paraguay Base, Paraguay
+> Business y Paraguay Investor Program son **ejecutados por LEALTIS**
+> (proveedor especializado contratado por Nexa Paraguay como back-office
+> técnico-legal). Nexa Paraguay coordina, supervisa y responde frente al
+> Cliente por la calidad y los plazos del proceso. El paquete **Compra de
+> Tierras en Paraguay** es un servicio propio de Nexa Paraguay y no
+> involucra a LEALTIS.
 
 ---
 
 ### CLÁUSULA SEGUNDA — ALCANCE DE LOS SERVICIOS
 
-#### Programa Paraguay Business (USD 4.400)
+#### Paquete Paraguay Base *(vía LEALTIS)*
+- Gestión de Residencia Paraguaya
+- Gestión de Cédula de Identidad Paraguaya
+- Análisis documental previo y validación estratégica
+- Jornada integral de tramitación
+- Acompañamiento logístico exclusivo
+- Asesoramiento técnico integral durante el proceso
+
+#### Paquete Paraguay Business *(vía LEALTIS)*
 - Gestión de Residencia Paraguaya
 - Gestión de Cédula de Identidad Paraguaya
 - Constitución de sociedad
@@ -38,13 +59,19 @@
 - Tour estratégico inmobiliario
 - Asesoramiento técnico integral durante el programa
 
-#### Programa Paraguay Investor Program (USD 6.900)
+#### Paquete Paraguay Investor Program *(vía LEALTIS)*
 Todo lo incluido en Paraguay Business, más:
 - Gestión contable empresarial (12 meses)
 - Asesoramiento jurídico y fiscal (12 meses)
 - Análisis de inversiones y proyectos (12 meses)
 
-*[Marcar el programa contratado; eliminar el no aplicable]*
+#### Paquete Compra de Tierras en Paraguay *(servicio propio Nexa Paraguay)*
+*Alcance pendiente de definir.* Posibles componentes: definición de
+perfil de inversión, búsqueda y short-list, due diligence legal y
+técnica, negociación, escrituración, inscripción registral,
+acompañamiento posterior. Ver `servicios/paquete-compra-de-tierras.md`.
+
+*[Marcar el paquete contratado; eliminar los no aplicables]*
 
 ---
 
@@ -56,15 +83,15 @@ El Cliente se compromete a:
 2. Enviar la documentación solicitada dentro de los plazos indicados.
 3. Gestionar apostillas y legalizaciones en su país de origen.
 4. Estar disponible para la jornada operativa en la fecha acordada.
-5. Responder a consultas de [NOMBRE DE EMPRESA] dentro de 3 días hábiles.
+5. Responder a consultas de Nexa Paraguay dentro de 3 días hábiles.
 6. Comunicar cambios en su situación personal, patrimonial o migratoria.
-7. Cumplir con las instrucciones del equipo [NOMBRE DE EMPRESA] durante la jornada operativa.
+7. Cumplir con las instrucciones del equipo Nexa Paraguay durante la jornada operativa.
 
 ---
 
-### CLÁUSULA CUARTA — OBLIGACIONES DE [NOMBRE DE EMPRESA]
+### CLÁUSULA CUARTA — OBLIGACIONES DE Nexa Paraguay
 
-[NOMBRE DE EMPRESA] se compromete a:
+Nexa Paraguay se compromete a:
 
 1. Ejecutar los servicios con diligencia profesional y en los plazos indicativos.
 2. Mantener al Cliente informado sobre el estado de su proceso.
@@ -78,10 +105,11 @@ El Cliente se compromete a:
 
 | Concepto | Detalle |
 |----------|---------|
-| **Monto total** | USD [4.400 / 6.900] |
+| **Monto total** | USD [precio cliente final — pendiente de definir según paquete y margen comercial Nexa] |
 | **Modalidad** | Pago anticipado, previo al inicio de los servicios |
-| **Método** | Transferencia bancaria a la cuenta indicada por [NOMBRE DE EMPRESA] |
-| **Incluye** | Honorarios profesionales, IVA, tasas oficiales de Migraciones, gastos administrativos societarios, coordinación bancaria |
+| **Método** | Transferencia bancaria a la cuenta indicada por Nexa Paraguay |
+| **Incluye** | Honorarios profesionales, IVA, tasas oficiales de Migraciones, gastos administrativos societarios, coordinación bancaria (en paquetes vía LEALTIS) |
+| **Referencia interna** | Costo a LEALTIS: USD 4.400 (Business) / USD 6.900 (Investor) — base sobre la cual Nexa aplica margen comercial. **No comunicar al cliente final.** |
 
 No existen cargos adicionales vinculados al trámite regular del programa contratado.
 
@@ -100,33 +128,33 @@ No existen cargos adicionales vinculados al trámite regular del programa contra
 
 ### CLÁUSULA SÉPTIMA — PLAZOS Y DISCLAIMERS
 
-1. Los plazos indicados por [NOMBRE DE EMPRESA] son estimaciones basadas en experiencia operativa.
-2. La emisión de Residencia Paraguaya y Cédula de Identidad está sujeta a plazos administrativos oficiales (estimado: 45–60 días) que están fuera del control de [NOMBRE DE EMPRESA].
-3. La apertura de cuenta bancaria depende de la decisión de la entidad financiera. [NOMBRE DE EMPRESA] coordina y prepara el expediente pero no puede garantizar la aprobación.
+1. Los plazos indicados por Nexa Paraguay son estimaciones basadas en experiencia operativa.
+2. La emisión de Residencia Paraguaya y Cédula de Identidad está sujeta a plazos administrativos oficiales (estimado: 45–60 días) que están fuera del control de Nexa Paraguay.
+3. La apertura de cuenta bancaria depende de la decisión de la entidad financiera. Nexa Paraguay coordina y prepara el expediente pero no puede garantizar la aprobación.
 4. Los plazos pueden verse afectados por la demora del Cliente en proporcionar documentación o información solicitada.
 
 ---
 
 ### CLÁUSULA OCTAVA — CONFIDENCIALIDAD
 
-1. [NOMBRE DE EMPRESA] mantendrá la confidencialidad de toda la información personal, financiera y patrimonial del Cliente.
-2. La información del Cliente solo será compartida con instituciones y profesionales directamente involucrados en la ejecución del programa (autoridades migratorias, entidades bancarias, escribanías, equipo técnico de [NOMBRE DE EMPRESA]).
+1. Nexa Paraguay mantendrá la confidencialidad de toda la información personal, financiera y patrimonial del Cliente.
+2. La información del Cliente solo será compartida con instituciones y profesionales directamente involucrados en la ejecución del programa (autoridades migratorias, entidades bancarias, escribanías, equipo técnico de Nexa Paraguay y de su proveedor LEALTIS para los paquetes 1, 2 y 3).
 3. Esta obligación de confidencialidad se extiende más allá de la finalización del acuerdo.
 
 ---
 
 ### CLÁUSULA NOVENA — LIMITACIÓN DE RESPONSABILIDAD
 
-1. [NOMBRE DE EMPRESA] no será responsable por decisiones de autoridades gubernamentales, entidades bancarias u otros terceros que escapen a su control directo.
-2. [NOMBRE DE EMPRESA] no será responsable por consecuencias derivadas de información falsa, incompleta o engañosa proporcionada por el Cliente.
-3. La responsabilidad total de [NOMBRE DE EMPRESA] se limita al monto de los honorarios pagados por el Cliente.
+1. Nexa Paraguay no será responsable por decisiones de autoridades gubernamentales, entidades bancarias u otros terceros que escapen a su control directo.
+2. Nexa Paraguay no será responsable por consecuencias derivadas de información falsa, incompleta o engañosa proporcionada por el Cliente.
+3. La responsabilidad total de Nexa Paraguay se limita al monto de los honorarios pagados por el Cliente.
 
 ---
 
 ### CLÁUSULA DÉCIMA — TERMINACIÓN Y REEMBOLSO
 
-1. **Por el Cliente:** El Cliente podrá resolver el acuerdo antes del inicio de la jornada operativa. En tal caso, [NOMBRE DE EMPRESA] retendrá el [XX%] de los honorarios en concepto de servicios ya prestados (validación, preparación). *[Definir porcentaje con asesor legal]*
-2. **Por [NOMBRE DE EMPRESA]:** [NOMBRE DE EMPRESA] podrá resolver el acuerdo si detecta documentación fraudulenta, conducta incompatible con su política de compliance, o incumplimiento grave por parte del Cliente. En tal caso, se reembolsará la proporción correspondiente a servicios no prestados.
+1. **Por el Cliente:** El Cliente podrá resolver el acuerdo antes del inicio de la jornada operativa. En tal caso, Nexa Paraguay retendrá el [XX%] de los honorarios en concepto de servicios ya prestados (validación, preparación). *[Definir porcentaje con asesor legal]*
+2. **Por Nexa Paraguay:** Nexa Paraguay podrá resolver el acuerdo si detecta documentación fraudulenta, conducta incompatible con su política de compliance, o incumplimiento grave por parte del Cliente. En tal caso, se reembolsará la proporción correspondiente a servicios no prestados.
 3. **Post jornada:** Una vez iniciada la jornada operativa, no procede reembolso por servicios ya ejecutados.
 
 ---
@@ -148,7 +176,7 @@ Las partes acuerdan resolver cualquier controversia derivada del presente acuerd
 
 **Firmas:**
 
-| | [NOMBRE DE EMPRESA] | Cliente |
+| | Nexa Paraguay | Cliente |
 |-|---------|---------|
 | Nombre | _________________ | _________________ |
 | Firma | _________________ | _________________ |
