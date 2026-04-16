@@ -1,4 +1,4 @@
-# LEALTIS — Paraguay Strategic Base
+# [NOMBRE DE EMPRESA] — Paraguay Strategic Base
 
 Transcripción del material de programa (referencia: `CamScanner 12-04-2026 12.25.pdf` en esta carpeta).
 
@@ -22,7 +22,7 @@ Paraguay Business está diseñado para el empresario europeo o internacional que
 - Obtención de RUC (DNIT)
 - Apertura de Cuenta Bancaria Empresarial
 
-LEALTIS opera con un equipo técnico de primer nivel: abogados, contadores, asesores financieros y escribanos con vasta experiencia en el mercado paraguayo. Cada perfil especializado interviene en la etapa que le corresponde —con criterio profesional, no con improvisación. Es la diferencia entre una firma de alto nivel y una gestoría.
+[NOMBRE DE EMPRESA] opera con un equipo técnico de primer nivel: abogados, contadores, asesores financieros y escribanos con vasta experiencia en el mercado paraguayo. Cada perfil especializado interviene en la etapa que le corresponde —con criterio profesional, no con improvisación. Es la diferencia entre una firma de alto nivel y una gestoría.
 
 ---
 
@@ -32,7 +32,7 @@ LEALTIS opera con un equipo técnico de primer nivel: abogados, contadores, ases
 
 #### 1. Análisis documental y validación estratégica
 
-Antes de presentar un solo documento ante las autoridades, LEALTIS realiza un análisis preventivo completo. El objetivo es que el cliente llegue a Paraguay con todo en orden —no que descubra durante la jornada que falta algo.
+Antes de presentar un solo documento ante las autoridades, [NOMBRE DE EMPRESA] realiza un análisis preventivo completo. El objetivo es que el cliente llegue a Paraguay con todo en orden —no que descubra durante la jornada que falta algo.
 
 **Este proceso incluye:**
 
@@ -55,7 +55,7 @@ Cada expediente es construido con criterio técnico y visión preventiva. No hay
 
 #### 3. Jornada integral de tramitación
 
-Este es uno de los componentes más valorados del programa. LEALTIS coordina y ejecuta la totalidad de los trámites administrativos —residencia y cédula de identidad paraguaya— en una única jornada operativa, y en la mayoría de los casos en una sola mañana.
+Este es uno de los componentes más valorados del programa. [NOMBRE DE EMPRESA] coordina y ejecuta la totalidad de los trámites administrativos —residencia y cédula de identidad paraguaya— en una única jornada operativa, y en la mayoría de los casos en una sola mañana.
 
 No es casualidad: es el resultado de una preparación técnica exhaustiva previa, coordinación institucional anticipada y un equipo especializado que opera con precisión sobre cada instancia del proceso.
 
@@ -70,7 +70,7 @@ El cliente no improvisa el día de los trámites. Llega a una agenda ya diseñad
 
 ### II. Proceso de cédula de identidad paraguaya
 
-Residencia y cédula se gestionan de manera coordinada. El cliente no hace seguimiento de dos procesos paralelos —LEALTIS los administra como uno solo hasta la emisión final de ambos documentos.
+Residencia y cédula se gestionan de manera coordinada. El cliente no hace seguimiento de dos procesos paralelos —[NOMBRE DE EMPRESA] los administra como uno solo hasta la emisión final de ambos documentos.
 
 **Incluye:**
 
@@ -92,13 +92,13 @@ Durante la jornada de tramitación, el cliente contará con:
 - Movilidad permanente a todas las instituciones intervinientes
 - Coordinación integral hasta la finalización del día operativo
 
-El cliente no gestiona desplazamientos ni tiempos. No coordina instituciones. No improvisa. LEALTIS estructura la experiencia completa para que el único foco del cliente sea tomar decisiones —no administrar logística.
+El cliente no gestiona desplazamientos ni tiempos. No coordina instituciones. No improvisa. [NOMBRE DE EMPRESA] estructura la experiencia completa para que el único foco del cliente sea tomar decisiones —no administrar logística.
 
 ---
 
 ## Plazos estimados
 
-La totalidad de las gestiones administrativas —presentación de residencia y cédula de identidad paraguaya— se ejecuta en una única jornada coordinada por LEALTIS, habitualmente en el transcurso de una sola mañana.
+La totalidad de las gestiones administrativas —presentación de residencia y cédula de identidad paraguaya— se ejecuta en una única jornada coordinada por [NOMBRE DE EMPRESA], habitualmente en el transcurso de una sola mañana.
 
 La emisión de la Residencia Paraguaya y de la Cédula de Identidad Paraguaya se produce, en términos generales, entre **45 y 60 días**, sujeto a los plazos administrativos oficiales.
 
@@ -106,7 +106,7 @@ La emisión de la Residencia Paraguaya y de la Cédula de Identidad Paraguaya se
 
 ## Servicio diferencial incluido: tour estratégico y análisis de desarrollos inmobiliarios
 
-Pocos asesores de establecimiento tienen acceso directo al mercado de desarrollo inmobiliario paraguayo. LEALTIS sí lo tiene. Desde el primer viaje, el cliente accede a una perspectiva del mercado que normalmente solo está disponible para inversores con red local consolidada.
+Pocos asesores de establecimiento tienen acceso directo al mercado de desarrollo inmobiliario paraguayo. [NOMBRE DE EMPRESA] sí lo tiene. Desde el primer viaje, el cliente accede a una perspectiva del mercado que normalmente solo está disponible para inversores con red local consolidada.
 
 **Incluye:**
 
@@ -168,7 +168,7 @@ Una sociedad correctamente constituida no es solo un trámite —es la estructur
 
 La apertura de cuentas bancarias en Paraguay, para muchos inversores extranjeros, es el mayor obstáculo percibido del proceso.
 
-LEALTIS prepara cada expediente bancario con criterio técnico, cumpliendo requisitos KYC y políticas internas de entidades financieras locales.
+[NOMBRE DE EMPRESA] prepara cada expediente bancario con criterio técnico, cumpliendo requisitos KYC y políticas internas de entidades financieras locales.
 
 **Incluye:**
 
@@ -199,7 +199,7 @@ No existen cargos adicionales vinculados al trámite regular. **Modalidad: pago 
 
 ## PARAGUAY INVESTOR PROGRAM
 
-El programa más completo de LEALTIS. Un año de acompañamiento estratégico integral junto a su equipo.
+El programa más completo de [NOMBRE DE EMPRESA]. Un año de acompañamiento estratégico integral junto a su equipo.
 
 Para quienes no quieren un proveedor de servicios. Quieren un socio estratégico en Paraguay.
 
@@ -226,9 +226,9 @@ El Paraguay Investor Program está diseñado para el inversor, empresario o fami
 - Proyectos inmobiliarios y productivos
 - Recomendaciones estratégicas
 
-### Compromiso LEALTIS
+### Compromiso [NOMBRE DE EMPRESA]
 
-Durante doce meses, el cliente tiene acceso directo al equipo LEALTIS para consultas, decisiones estratégicas y consolidación de su posición en Paraguay.
+Durante doce meses, el cliente tiene acceso directo al equipo [NOMBRE DE EMPRESA] para consultas, decisiones estratégicas y consolidación de su posición en Paraguay.
 
 ---
 
