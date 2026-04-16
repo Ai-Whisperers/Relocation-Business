@@ -1,0 +1,14 @@
+* text=auto
+
+# Keep docs and project metadata consistent across OSes
+.gitattributes text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+
+# Editor / tooling metadata
+.specstory/** text eol=crlf
+.vscode/**    text eol=crlf
+

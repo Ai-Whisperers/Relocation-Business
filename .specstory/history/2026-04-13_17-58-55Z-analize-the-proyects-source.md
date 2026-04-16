@@ -47,7 +47,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:00Z)**_
 
 <tool-use data-tool-type="search" data-tool-name="Glob"><details>
 <summary>Tool use: **Glob**</summary>
- path `./` pattern `**/*`
+ path `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines` pattern `**/*`
 
 ```text
 .claude\settings.json
@@ -181,7 +181,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:06Z)**_
 
 <tool-use data-tool-type="search" data-tool-name="Glob"><details>
 <summary>Tool use: **Glob**</summary>
- path `./` pattern `source-of-truth/**/*`
+ path `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines` pattern `source-of-truth/**/*`
 
 ```text
 source-of-truth\conversation-synthesis-source-of-truth.txt
@@ -198,7 +198,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:08Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\conversation-synthesis-source-of-truth.txt`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/conversation-synthesis-source-of-truth.txt`
 
 ```text
 1	Relocation & Investment Facilitation Business
@@ -303,7 +303,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:09Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\lealtis-paraguay-business-program.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/lealtis-paraguay-business-program.md`
 
 ```text
 1	# LEALTIS — Paraguay Strategic Base
@@ -563,7 +563,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:09Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\objectives-general-and-specific.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/objectives-general-and-specific.md`
 
 ```text
 1	# General and Specific Objectives
@@ -651,7 +651,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:10Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\research-materials-local-paraguay.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/research-materials-local-paraguay.md`
 
 ```text
 1	# Researchable Materials (Local / Paraguay Context)
@@ -763,7 +763,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:11Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\social-and-economic-justification.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/social-and-economic-justification.md`
 
 ```text
 1	# Social and Economic Justification
@@ -847,7 +847,7 @@ _**Agent (claude-opus-4-6 2026-04-13 17:59:18Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\CamScanner 12-04-2026 12.25.pdf`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/CamScanner 12-04-2026 12.25.pdf`
 
 ```text
 pdftoppm failed: Command 'pdftoppm' not found or is in an unsafe location (current directory)
@@ -11904,7 +11904,7 @@ _**Agent (claude-opus-4-6 2026-04-13 19:37:33Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\documentos\cuestionario-proyecto-relocacion.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/documentos/cuestionario-proyecto-relocacion.md`
 
 ```text
 1	# Cuestionario para el Proyecto de Relocación a Paraguay
@@ -12815,7 +12815,7 @@ _**Agent (claude-opus-4-6 2026-04-13 19:53:25Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\marketing\identidad-de-marca.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/identidad-de-marca.md`
 
 ```text
 1	# Identidad de Marca — LEALTIS
@@ -12980,7 +12980,7 @@ _**Agent (claude-opus-4-6 2026-04-13 19:53:26Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\marketing\contenido-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/contenido-web.md`
 
 ```text
 1	# Contenido Web — LEALTIS
@@ -13257,7 +13257,7 @@ _**Agent (claude-opus-4-6 2026-04-13 19:53:26Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\marketing\estrategia-de-marketing.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/estrategia-de-marketing.md`
 
 ```text
 1	# Estrategia de Marketing — LEALTIS
@@ -14078,7 +14078,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:05:42Z)**_
 
 <tool-use data-tool-type="search" data-tool-name="Grep"><details>
 <summary>Tool use: **Grep**</summary>
- path `./` pattern `(?i)lealtis`
+ path `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines` pattern `(?i)lealtis`
 
 ```text
 .specstory\history\2026-04-13_17-58-55Z-analize-the-proyects-source.md:429
@@ -14179,7 +14179,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:10:47Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\marketing\identidad-de-marca.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/identidad-de-marca.md`
 
 ```text
 1	# Identidad de Marca — [NOMBRE DE EMPRESA]
@@ -14218,7 +14218,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:11:10Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md`
 
 ```text
 1	# Cuestionario de Marketing, Imagen de Marca y Página Web — [NOMBRE DE EMPRESA]
@@ -14244,7 +14244,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:11:10Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\cuestionario-respuestas-completas.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-respuestas-completas.md`
 
 ```text
 1	# Cuestionario del Proyecto de Relocación a Paraguay — Respuestas Completas
@@ -14290,7 +14290,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:12:27Z)**_
 
 <tool-use data-tool-type="search" data-tool-name="Grep"><details>
 <summary>Tool use: **Grep**</summary>
- path `./` pattern `LEALTIS`
+ path `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines` pattern `LEALTIS`
 
 ```text
 .specstory\history\2026-04-13_17-58-55Z-analize-the-proyects-source.md:405
@@ -14382,7 +14382,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:15:55Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md`
 
 ```text
 131	## II. PÁGINA WEB
@@ -14436,7 +14436,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:16:29Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md`
 
 ```text
 296	| **Analytics** | Google Analytics 4 + Google Search Console |
@@ -14471,7 +14471,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:16:34Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\source-of-truth\cuestionario-marketing-imagen-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/source-of-truth/cuestionario-marketing-imagen-web.md`
 
 ```text
 320	**Keywords principales por idioma:**
@@ -14520,7 +14520,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:16:51Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\marketing\contenido-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/contenido-web.md`
 
 ```text
 256	## 10. SEO — Keywords principales
@@ -14556,7 +14556,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:17:06Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\marketing\contenido-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/marketing/contenido-web.md`
 
 ```text
 1	# Contenido Web — [NOMBRE DE EMPRESA]
@@ -14580,7 +14580,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:17:12Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\plan de negocios\estrategia-comercial.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/plan de negocios/estrategia-comercial.md`
 
 ```text
 16	
@@ -14616,7 +14616,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:17:35Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\proyectos\plan-de-proyecto-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md`
 
 ```text
 56	| Programas (×2) | ~400 palabras/idioma cada una | 1–2 por programa | Tabla de inclusiones, CTA |
@@ -14650,7 +14650,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:18:41Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\proyectos\plan-de-proyecto-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md`
 
 ```text
 84	### Fase W1: Planificación y wireframes (Semana 1–2)
@@ -14675,7 +14675,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:18:46Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\proyectos\plan-de-proyecto-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md`
 
 ```text
 102	### Fase W3: Contenido (Semana 2–5, en paralelo con diseño)
@@ -14729,7 +14729,7 @@ _**Agent (claude-opus-4-6 2026-04-13 20:19:08Z)**_
 
 <tool-use data-tool-type="read" data-tool-name="Read"><details>
 <summary>Tool use: **Read**</summary>
- `./\proyectos\plan-de-proyecto-web.md`
+ `C:/Users/kyrian/Documents/02-Work/Relocation-Bussines/proyectos/plan-de-proyecto-web.md`
 
 ```text
 126	
@@ -15324,3 +15324,112 @@ no changes added to commit (use "git add" and/or "git commit -a")
 [rerun: b20]
 ```
 </details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:57:33Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Stage all changed and new files
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && git add documentos/ marketing/ "plan de negocios/" presupuesto/ proyectos/ riesgos/ servicios/ source-of-truth/cuestionario-marketing-imagen-web.md source-of-truth/cuestionario-respuestas-completas.md .specstory/`
+
+```text
+warning: in the working copy of '.specstory/history/2026-04-13_17-58-55Z-analize-the-proyects-source.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/statistics.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/acuerdo-de-servicios-template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/guia-del-cliente.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/manual-de-procesos-internos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/politica-de-privacidad.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/contenido-web.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/estrategia-de-marketing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/estrategia-de-referidos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/identidad-de-marca.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'marketing/plan-de-contenidos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/analisis-de-mercado.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/estrategia-comercial.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/estructura-organizacional.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/modelo-de-negocio.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/proyecciones-financieras.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plan de negocios/resumen-ejecutivo.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/estructura-de-ingresos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/inversion-inicial.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/presupuesto-marketing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/presupuesto-operativo.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'presupuesto/proyeccion-financiera-3-anos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/indicadores-clave-KPIs.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/plan-de-proyecto-lanzamiento.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/plan-de-proyecto-web.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'proyectos/roadmap-implementacion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/matriz-de-riesgos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/plan-de-continuidad.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/plan-de-mitigacion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/politica-de-compliance.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'riesgos/registro-de-riesgos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/SLAs-y-compromisos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/blueprint-operativo-investor-program.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/blueprint-operativo-paraguay-business.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/catalogo-de-servicios.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/checklist-documentos-cliente.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'servicios/paquetes-y-precios.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'documentos/cuestionario-proyecto-relocacion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'source-of-truth/cuestionario-marketing-imagen-web.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'source-of-truth/cuestionario-respuestas-completas.md', LF will be replaced by CRLF the next time Git touches it
+[rerun: b21]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:57:49Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Commit all changes
+
+```bash
+cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && git commit -m "$(cat <<'EOF'
+Replace LEALTIS with placeholder, add German language, add questionnaires
+
+- Replaced all LEALTIS references with [NOMBRE DE EMPRESA] across 30+ docs
+  (brand name is TBD, LEALTIS is Daniel's program name, not the project brand)
+- Added German (Deutsch) as 4th language option alongside NL, EN, ES
+  across all marketing, web, SEO, and project docs
+- Added cuestionario-proyecto-relocacion.md (58 questions)
+- Added cuestionario-respuestas-completas.md (58 answers from source of truth)
+- Added cuestionario-marketing-imagen-web.md (36 marketing/brand/web questions)
+- Updated SEO keywords to include German terms
+- Updated web project plan: 4 languages, 16k words translation estimate
+
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+EOF
+)"
+```
+
+```text
+[main 37eda57] Replace LEALTIS with placeholder, add German language, add questionnaires
+ 40 files changed, 5455 insertions(+), 219 deletions(-)
+ create mode 100644 documentos/cuestionario-proyecto-relocacion.md
+ create mode 100644 source-of-truth/cuestionario-marketing-imagen-web.md
+ create mode 100644 source-of-truth/cuestionario-respuestas-completas.md
+[rerun: b22]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:58:10Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="Bash"><details>
+<summary>Tool use: **Bash**</summary>
+Push to GitHub
+
+`cd "C:/Users/kyrian/Documents/02-Work/Relocation-Bussines" && unset GITHUB_TOKEN && git push origin main 2>&1`
+
+```text
+To https://github.com/Ai-Whisperers/Relocation-Business.git
+   018cabe..37eda57  main -> main
+[rerun: b23]
+```
+</details></tool-use>
+
+_**Agent (claude-opus-4-6 2026-04-13 20:58:14Z)**_
+
+Pushed to **https://github.com/Ai-Whisperers/Relocation-Business**. 
+
+40 files changed — brand placeholder, German language support, and 3 new questionnaire documents all live on GitHub.
